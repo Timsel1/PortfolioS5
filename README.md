@@ -1,5 +1,5 @@
 # Portfolio Semester 5
-Dit is het protfolio van Tim Meijvogel.
+Dit is het protfolio van Tim Meijvogel.  
 This is the portfolio of Tim Meijvogel.
 
 ## Nederlands
