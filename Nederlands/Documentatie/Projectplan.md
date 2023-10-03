@@ -109,25 +109,24 @@ De backend wordt geschreven in typescript.
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment: 
 
 #### - 1. Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?
-	- 1.1 Welke uitdagingen waren er voordat Datapanel was opgezet? 
-	- 1.2 Wat waren de voorafgaande verbeteringen aan Datapanel en waarom waren deze nodig? 
-	- 1.3 Hoe ziet de huidige situatie eruit? 
-	- 1.4 Is de huidige situatie de ideale situatie? 
+- 1.1 Welke uitdagingen waren er voordat Datapanel was opgezet? 
+- 1.2 Wat waren de voorafgaande verbeteringen aan Datapanel en waarom waren deze nodig? 
+- 1.3 Hoe ziet de huidige situatie eruit? 
+- 1.4 Is de huidige situatie de ideale situatie? 
 
 Aangezien dit een lopend project is, is het belangrijk om er achter te komen hoe de situatie is veranderd. Dit moet vergeleken kunnen worden met eerdere situaties, want dit laat de verbeteringen zien en kan laten zien waar Stofloos naartoe wil werken. De huidige situatie is nodig om te zien hoe ver het project op het moment is, op deze manier kan er gezien worden hoeveel de situatie is verbeterd en wat er nog aan gedaan moet worden.
 
 #### - 2. Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?
-	- 2.1 Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?
-	- 2.2 Wat zijn de belangrijkste functionaliteiten en interacties die vereist zijn in de UI voor het maken van Datapanel configuraties?
-	- 2.3 Hoe worden de in de ui gemaakte configuraties geëxporteerd naar json?
-	- 2.4 Hoe worden de opgeslagen configuraties geïmporteerd naar de ui?
-	- 2.5 Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?
+- 2.1 Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?
+- 2.2 Wat zijn de belangrijkste functionaliteiten en interacties die vereist zijn in de UI voor het maken van Datapanel configuraties?
+- 2.3 Hoe worden de in de ui gemaakte configuraties geëxporteerd naar json?
+- 2.4 Hoe worden de opgeslagen configuraties geïmporteerd naar de ui?
+- 2.5 Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?
 
 
 Met dit onderzoek wil ik er achter komen wat de huidige uitdagingen en beperkingen zijn bij het creëren van Datapanel configuraties en hoe ik dit kan oplossen op een manier dat alle end users hier profijt van hebben.
 
 De manier waarop de (deel)vragen worden aangepakt m.b.t. de DOT framework is [hier](#onderzoeksmethoden) te zien.
-
 
 ### Eindproducten
 Het eindproduct van dit project zal bestaan uit verschillende onderdelen, deze onderdelen zijn hieronder ingedeeld in 2 categorieën en hebben een korte uitleg wat hierbij verwacht wordt. Verder is er een overzicht waarin alle producten te zien zijn.
@@ -136,14 +135,14 @@ Het eindproduct van dit project zal bestaan uit verschillende onderdelen, deze o
 De software zal bestaan uit technische producten. Denk hierbij aan de front- en backend van het project. (Mogelijk kan de bestaande backend gebruikt worden en hoeft hier geen aanpassingen aan gemaakt te worden. In dit geval wordt er geen backend opgeleverd)
 
 #### Documentatie: De documentatie zal bestaan uit alles dat geen code bevat. Elk document is te koppelen aan een leerdoel, deze connectie is te zien in kop 2.3 van dit document. 
-	- Portfolio: Een verzameling van alle professionele producten en het projectrapport.
-	- projectrapport: Beschrijving van de opdracht, beschrijving van het proces, conclusie en persoonlijke reflectie.
-	- Prototypes: Wireframes en prototypes die zijn gemaakt met Figma.
-	- Projectplan: Dit document.
-	- Research documenten: Alle onderzoeken die zijn uitgevoerd binnen dit project.
-	- Design documenten: Geeft de architectuur van het project weer.
-	- Scrumboard: Dit geeft mijn manier van werken weer.
-	- Requirements document: Beschrijft de verwachtingen en behoeften van de gebruiker, het doel achter die oplossing en eventuele hoog-niveau beperkingen.
+- Portfolio: Een verzameling van alle professionele producten en het projectrapport.
+- projectrapport: Beschrijving van de opdracht, beschrijving van het proces, conclusie en persoonlijke reflectie.
+- Prototypes: Wireframes en prototypes die zijn gemaakt met Figma.
+- Projectplan: Dit document.
+- Research documenten: Alle onderzoeken die zijn uitgevoerd binnen dit project.
+- Design documenten: Geeft de architectuur van het project weer.
+- Scrumboard: Dit geeft mijn manier van werken weer.
+- Requirements document: Beschrijft de verwachtingen en behoeften van de gebruiker, het doel achter die oplossing en eventuele hoog-niveau beperkingen.
 ![ProductMatrix2](https://github.com/Timsel1/PortfolioS5/assets/90602424/144cfa8a-2b95-4043-b1ad-3940fa011b0b)
 
 ## Aanpak en Planning
@@ -176,7 +175,7 @@ Laat gebruikers taken uitvoeren met behulp van het product en verzamel op deze m
 |:-------:|:----------:|:------------------------------------:|
 | Library|||
 |Literature study|Deze methode gaat gebruikt worden om meer te leren over de functionaliteiten van Lit en problemen met typescript en of Lit op te lossen.|2.2, 2.3|
-|Design pattern research|Er wordt gekeken naar de manier waarop Stofloos code schrijft en opbouwd. Dezelfde principes worden gehanteerd tijdens het coderen.|n.v.t. voor onderzoeksvraag bij 1.6, maar wel voor wanneer er gecodeerd gaat worden.|
+|Design pattern research|Er wordt gekeken naar de manier waarop Stofloos code schrijft en opbouwd. Dezelfde principes worden gehanteerd tijdens het coderen.|n.v.t. voor onderzoeksvragen, maar wel voor wanneer er gecodeerd gaat worden.|
 |Available product analysis|Deze methode gaat gebruikt worden om te onderzoeken of dit of een soortgelijk probleem al eerder is opgelost en of dit op eenzelfde of andere manier opgelost kan worden.|2.2, 2.3|
 |Expert interview|Stel vragen aan de experts bij Stofloos om problemen op te lossen of nieuwe informatie te krijgen over de opdracht.|1, 2|
 |Field|||
@@ -256,9 +255,7 @@ Deze indeling houdt geen rekening met vakanties en kan dus één sprint minder b
 |sprint 8|Alle (kwaliteis-)eisen zijn verwerkt in het project en bijbehorende documentatie is af|10 dagen|week 18|week 19|
 
 ### Projectorganisatie
-Teamleden
-
-
+#### Teamleden
 | Naam | Afk. | Rol/taken | Beschikbaarheid |
 |:-------------------:|:----:|:---------:|:---------------:|
 | Tim Meijvogel||Developer|5 dagen per week|
