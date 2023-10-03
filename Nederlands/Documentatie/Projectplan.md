@@ -36,26 +36,26 @@ Verspreiding
 ## Inhoudsopgave
 
 - ### [Projectopdracht](#projectopdracht)	
-	- Context	
-	- Doel van het project	
-	- De opdracht	
-	- Scope	
-	- Randvoorwaarden	
-	- Onderzoeksvragen	
-	- Eindproducten	
-- ### Aanpak en Planning	
-	- Aanpak	
-	- Onderzoeksmethoden	
-	- Leeruitkomsten	
-	- Opdeling van het project	
-	- Tijdplan	
-- ### Projectorganisatie	
-	- Teamleden	
-	- Communicatie
- 	- Testomgeving en benodigdheden	
-	- Configuratiemanagement	
-- ### Financiën en Risico’s	
-	- Risico’s en uitwijkactiviteiten	
+	- [Context](#context)	
+	- [Doel van het project](#doel-van-het-project)	
+	- [De opdracht](#de-opdracht)	
+	- [Scope](#scope)	
+	- [Randvoorwaarden](#randvoorwaarden)	
+	- [Onderzoeksvragen](#onderzoeksvragen)	
+	- [Eindproducten](#eindproducten)	
+- ### [Aanpak en Planning](#aanpak-en-planning)	
+	- [Aanpak](#aanpak)	
+	- [Onderzoeksmethoden](#onderzoeksmethoden)	
+	- [Leeruitkomsten](#leeruitkomsten)	
+	- [Opdeling van het project](#opdeling-van-het-project)	
+	- [Tijdplan](#tijdplan)	
+- ### [Projectorganisatie](#projectorganisatie)	
+	- [Teamleden](#teamleden)	
+	- [Communicatie](#communicatie)
+ 	- [Testomgeving en benodigdheden](#testomgeving-en-benodigdheden)	
+	- [Configuratiemanagement](#configuratiemanagement)	
+- ### [Financiën en Risico’s](#financiën-en-risico’s)	
+	- [Risico’s en uitwijkactiviteiten](#risico’s-en-uitwijkactiviteiten)	
 
 
 ## Projectopdracht
