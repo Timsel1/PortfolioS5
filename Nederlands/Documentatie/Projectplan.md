@@ -67,7 +67,7 @@ Bij Stofloos is er de mogelijkheid om te werken aan een ontwerp en implementatie
 Datapanel is een platform dat data overzichtelijk weergeeft en bestaat uit pages, subpages en secties. Datapanel is onderdeel van Stofware. De subpages en secties moeten worden geconfigureerd met json, op deze manier wordt de layout van een subpage en sectie bepaald.
 Dit is voor Stofloos zelf, specifiek voor de software developers die moeten werken met Datapanel. Deze opdracht is ontstaan door de realisatie dat bij het proces van het maken van Datapanel configuraties veel tijd onnodig verloren gaat en dit dus geoptimaliseerd kan worden. Deze opdracht richt zich op het maken van een frontend voor deze specifieke taak binnen Datapanel en valt onder de software richting. 
 
-Doel van het project
+## Doel van het project
 Het huidige probleem is: Op dit moment worden Datapanel configuraties handmatig in JSON geschreven, wat tijdrovend en vatbaar voor fouten is.
 De gewenste situatie is een gebruiksvriendelijke user interface voor het configureren van Datapanel. Dit zal het proces minder foutgevoelig maken en de benodigde tijd verminderen. Ook moet het ervoor zorgen dat het configureren van Datapanel toegankelijk is voor gebruikers met een mindere technische kennis.
 Wanneer deze processen gestroomlijnd zijn is er meer tijd om te werken aan de andere projecten, wanneer hier meer tijd voor is zal de kwaliteit die Stofloos biedt nog hoger worden.
@@ -76,14 +76,7 @@ Dit project is een succes wanneer de snelheid en de gebruiksvriendelijkheid van 
 Wanneer dit wordt gecombineerd met een duidelijke UI dan zal het bedrijf tevreden zijn. Zelf ben ik tevreden als iemand die nog nooit een configuratie in Datapanel heeft gemaakt dit zou kunnen doen, nadat er één 
 keer is laten zien hoe het werkt (op het moment is het hier te onduidelijk voor).
 
-
-
-
-
-
-
-
-De opdracht
+## De opdracht
 Op dit moment worden deze configuraties handmatig in JSON geschreven, wat tijdrovend en vatbaar voor fouten is. De opdracht is om binnen Datapanel een gebruikersinterface (UI) te ontwikkelen voor het maken van Datapanel configuraties. Het doel is om dit proces te stroomlijnen met een UI die de juiste JSON genereert. Deze interface moet ontwikkeld worden met behulp van Lit Components.
 Eisen en wensen zijn:
 Omdat er steeds doorontwikkeld wordt (nieuwe soorten secties e.d.) moet de interface makkelijk uitbreidbaar zijn, of generiek opgezet zijn.
@@ -93,7 +86,7 @@ Inputs die de json genereren voor het maken van pages, subpages en sections.
 Als de interface klaar is zou een extra wens zijn om een standaard configuratie met 1 druk op de knop te kunnen genereren a.d.h.v. nocode modellen / modelviews.
 Backend service voor het automatisch aanmaken van pages en subpages.
 
-Scope
+## Scope
 
 Tot het project behoort:
 Tot het project behoort niet:
@@ -116,7 +109,7 @@ Backend service voor het aanmaken van pages en subpages
 
 
 
-Randvoorwaarden
+## Randvoorwaarden
 
 Bij stofloos wordt er aan de frontend gewerkt met typescript en Lit. Deze technologieën dienen in dit project gebruikt te worden. 
 Voor wireframes en prototypes wordt gebruikgemaakt van Figma. Dit zal dus ook voor dit project gebruikt worden.
@@ -124,7 +117,7 @@ Voor versiebeheer wordt Bitbucket gebruikt, met gitflow als branching model.
 De UI moet ingebakken zijn in Datapanel, dus er is geen configuratie buiten Datapanel nodig om het werkend te krijgen.
 De backend wordt geschreven in typescript.
 
-Onderzoeksvragen
+## Onderzoeksvragen
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment: 
 
 Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?
@@ -148,7 +141,7 @@ Met dit onderzoek wil ik er achter komen wat de huidige uitdagingen en beperking
 De manier waarop de (deel)vragen worden aangepakt m.b.t. de DOT framework is te zien bij kop 2.2 in dit document.
 
 
-Eindproducten
+## Eindproducten
 Het eindproduct van dit project zal bestaan uit verschillende onderdelen, deze onderdelen zijn hieronder ingedeeld in 2 categorieën en hebben een korte uitleg wat hierbij verwacht wordt. Verder is er een overzicht waarin alle producten te zien zijn.
 Software
 De software zal bestaan uit technische producten. Denk hierbij aan de front- en backend van het project. (Mogelijk kan de bestaande backend gebruikt worden en hoeft hier geen aanpassingen aan gemaakt te worden. In dit geval wordt er geen backend opgeleverd)
@@ -162,40 +155,37 @@ Design documenten: Geeft de architectuur van het project weer.
 Scrumboard: Dit geeft mijn manier van werken weer.
 Requirements document: Beschrijft de verwachtingen en behoeften van de gebruiker, het doel achter die oplossing en eventuele hoog-niveau beperkingen.
 
-Aanpak en Planning
-Aanpak
+# Aanpak en Planning
+## Aanpak
 
 Er zal tijdens deze stage gewerkt worden met scrum. Met behulp van een planning board wordt er bijgehouden wat er welke sprint gedaan moet worden. Hiervoor wordt er gebruik gemaakt van Stofloos eigen ticketsysteem op team.stofloos.nl. De lengte van de sprints zal 2 weken zijn, dit zorgt ervoor dat er genoeg tijd is om meerdere taken af te ronden en research te doen wanneer nodig. Stand ups zullen dagelijks plaatsvinden. Aan het einde van een sprint zal een demo met sprint review en retrospective plaatsvinden. Verder wordt wekelijks progressie bijgehouden, hiermee kunnen ik, mijn stagebegeleider en ass1 zien hoe het project ervoor staat die sprint en of de geplande taken af komen. 
 
 
-Testaanpak
+### Testaanpak
 Om de kans op fouten te minimaliseren, moet de geschreven code getest worden. Dit kan op verschillende manieren gebeuren. 
 code/peer reviews:
 Door collega’s naar geschreven code te laten kijken kunnen fouten die eerder misschien gemist waren worden opgelost en er kunnen ook nieuwe ideeën ontstaan. 
 
-Handmatig testen:
+#### Handmatig testen:
 Als er snel iets gecheckt moet worden, kan er bijvoorbeeld gebruikgemaakt worden van een "console.log". Op deze manier kan er snel gezien worden of de nieuwe code die geschreven is werkt zoals verwacht.
 
-Unit tests:
+#### Unit tests:
 Wanneer de nocode backend aangepast moet worden, kunnen deze aanpassingen getest worden met unit test. Wanneer een bestaand stuk code wordt aangepast kan er snel gezien worden of dit effect zal hebben op de rest van het project.
 
-Automatische testen:
+#### Automatische testen:
 Dit zijn testen die in de CI pipeline worden uitgevoerd wanneer nieuwe code wordt gepusht. De testen die ik uit wil laten voeren in de pipeline zijn de unit tests die hierboven beschreven staan.
 
-Usability test:
+#### Usability test:
 Dit is een goede manier om de UX te testen en te zien of mijn ontwerp duidelijk is.
 Identificeer mogelijke bruikbaarheidsproblemen, begrijp het gebruikersgedrag en verzamel feedback die ontwerp aanpassingen kan informeren.
 Laat gebruikers taken uitvoeren met behulp van het product en verzamel op deze manier feedback en ontdek eventuele fouten in het product.
-Onderzoeksmethoden
 
+## Onderzoeksmethoden
 
 Methode
 Uitvoering
 Onderzoeksvraag (kop 1.6)
 Library
-
-
-
 
 Literature study
 Deze methode gaat gebruikt worden om meer te leren over de functionaliteiten van Lit en problemen met typescript en of Lit op te lossen.
@@ -211,9 +201,6 @@ Stel vragen aan de experts bij Stofloos om problemen op te lossen of nieuwe info
 1, 2
 Field
 
-
-
-
 Problem analysis
 Stel vragen aan de experts van Stofloos over hun huidige probleem en krijg zo een beter begrip van het probleem.
 1.3, 2.1
@@ -225,9 +212,6 @@ Door gebruik te maken van een survey en vragen te stellen worden de requirements
 2
 Workshop
 
-
-
-
 Brainstorm 
 Door onderzoek te doen en vragen te stellen ontstaan er misschien ideeën waar de experts van Stofloos nog niet aan hadden gedacht.
 2.2
@@ -235,9 +219,6 @@ Prototyping
 Wireframes en werkende prototypes moeten maken als onderdeel van mijn opdracht. Ze worden gebruikt om UI (features) te testen.
 2.2, 2.4
 Lab
-
-
-
 
 Usability testing
 Wanneer een feature af is wordt er een nieuwe branch en een pull request gecreëerd. Hierna kan deze op een live testomgeving worden gezet. Wanneer deze op de testomgeving staat hebben alle developers de kans om de feature te testen.
@@ -247,31 +228,42 @@ Er worden verschillende prototypes gemaakt, om te testen welke layouts/features 
 2.4
 
 
-Leeruitkomsten
+## Leeruitkomsten
 
-Professional duties] You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
+[Professional duties] You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
 Producten die bijdragen: research documenten, wireframes en prototypes en source code
 
 “All or a subset of the activities Analysis, Design, Realize, Advise, Manage & Control”. Analyseren zal worden gedaan door middel van de onderzoeken die worden verricht. “Design” wordt aangetoond door de wireframes en prototypes die worden gemaakt. De realisatie van het werk wordt laten zien in het eindproduct, door middel van sourcecode. Advies wordt in notion gezet, dit advies zal bevatten hoe er gebruikgemaakt moet worden van mijn product en of er bepaalde libraries zijn die nodig zijn om aanpassingen te maken.
+
 [Situation-orientation] You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
-	Producten die bijdragen: Scrumboard, stakeholder analyse 
+
+Producten die bijdragen: Scrumboard, stakeholder analyse 
+
 Om te laten zien dat er gestructureerd gewerkt wordt, wordt er gebruikgemaakt van een scrumboard. Dit laat de planning, progress en  werkwijze zien. Om de relevantie van dit project weer te geven kan er gebruikgemaakt worden van een stakeholderanalyse, dit laat zien dat er meerdere belanghebbende zijn voor het project.
 [Future-Oriented Organisation] You explore the organizational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 Producten die bijdragen: projectplan, research, stakeholderanalyse, scrumboard
 Om aan dit leerdoel te voldoen zal ik naar het hele plaatje moeten kijken, wat wil de klant? Is de oplossing die ik heb bedacht de juiste (op gebied van business, ethiek en onderhoudbaarheid)? En hoe beheer ik dit allemaal. Met de hierboven genoemde producten kan ik dit allemaal aantonen.
 
 [Investigative Problem Solving] You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
+
 Producten die bijdragen: projectplan, research documenten, ontvangen feedback
+
 In mijn projectplan worden problemen en wensen van de klant vastgesteld, daarnaast staan hier ook onderzoeksvragen die zijn vastgesteld. Problemen waar ik in de loop van het project tegenaan loop, zullen worden opgelost door middel van onderzoeken. De DOT methoden die zijn toegepast voor deze onderzoeken staan benoemd in de research documenten. Om mijn onderzoeken te valideren wordt er feedback gevraagd aan de belanghebbende.                  
+
 [Personal Leadership] You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
+
 Producten die bijdragen: scrumboard, logboek, weekly updates (feedpulse), retrospective, presentaties
+
 Ik kan gebruik maken van mijn scrumboard om aan te tonen hoe ik mijn tijd voor een bepaalde sprint wil besteden. Om mijn learning ability bij te houden, houd ik dagelijks bij wat ik heb gedaan en vul ik wekelijks een samenvatting in van de afgelopen week in feedpulse. Ik heb zelf professionele doelen waar ik naartoe wil werken (presenteren en gesprekken (meer) leiden), hier wordt aan gewerkt tijdens de sprint reviews. Ook wordt er na elke sprint een retrospective bijgehouden, die ik kan gebruiken om dit leerdoel aan te tonen. 
+
 [Targeted Interaction] You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
-	Producten die bijdragen: stakeholderanalyse, feedpulse
+
+Producten die bijdragen: stakeholderanalyse, feedpulse
+
 Door middel van een stakeholderanalyse laat ik zien aan welke partners ik aandacht besteed en hoeveel. Door regelmatig met deze partners te communiceren bereiken we de gewenste uitkomst.
 
-Opdeling van het project
+## Opdeling van het project
 
 Sprint 0: Gedurende sprint 0 zullen de nodige documentatie en programma’s worden opgezet/gedownload. Daarnaast wordt er geoefend met de Datapanel van Stofloos,  
 
@@ -285,7 +277,7 @@ Sprint 8: Afronding van het project en portfolio.
 
 Deze indeling houdt geen rekening met vakanties en kan dus één sprint minder bevatten dan ik daadwerkelijk ga gebruiken
 
-Tijdplan
+## Tijdplan
 
 
 Fasering
@@ -347,7 +339,7 @@ week 18
 week 19
 
 
-Projectorganisatie
+## Projectorganisatie
 Teamleden
 
 
@@ -395,13 +387,13 @@ stagecoördinator
 
 
 
-Communicatie
+## Communicatie
 
 Binnen Stofloos zal tijdens de stage voornamelijk gecommuniceerd worden via Slack. Meetings zoals stand-ups zullen op kantoor plaatsvinden of via Slack wanneer mensen vanuit huis werken. Verder vindt communicatie op kantoor mondeling plaats. Contact richting Fontys zal via Microsoft Teams, mail of mondeling gaan. Als er meetings moeten worden georganiseerd tussen Fontys en Stofloos is de stagiair degene die deze meeting afstemt. Ook zijn er wekelijkse updates via feedpulse (canvas), hierin staat beschreven wat er de afgelopen week is gebeurd. Verder wordt er dagelijks een logboek bijgehouden dat gebruikt kan worden voor mijn wekelijkse updates.  
 
 
 
-Testomgeving en benodigdheden
+## Testomgeving en benodigdheden
 
 Bij Stofloos wordt er lokaal gewerkt aan features, wanneer een feature af is wordt er een nieuwe branch en een pull request gecreëerd. Hierna kan deze op een live testomgeving worden gezet. Wanneer deze op de testomgeving komt te staan, wordt het gechecked door een senior developer.
 Verder kunnen in de pipeline automatisch unit tests worden uitgevoerd wanneer iets wordt gepusht.
@@ -409,7 +401,7 @@ Verder kunnen in de pipeline automatisch unit tests worden uitgevoerd wanneer ie
 
 
 
-Configuratiemanagement
+## Configuratiemanagement
 
 
 Voor versiebeheer wordt bitbucket gebruikt met gitflow. Wanneer er aan een nieuwe feature wordt gewerkt, wordt hiervoor een branch gemaakt die is afgeleid van de “develop” branch. Wanneer mijn feature af is zal er een pull request worden gemaakt, zodat deze nieuwe feature op de “develop” branch komt.
@@ -422,9 +414,9 @@ Hotfix branch (Ontwikkelomgeving lokaal)
 Voor het bijhouden van documentatie voor het portfolio, research, etc. wordt google docs gebruikt. Op deze manier kan de stagebegeleider makkelijk comments plaatsen, kan het makkelijk worden geëxporteerd (naar bv. Fontys portfolio tool en notion) en kan het vanaf meerdere machines worden geopend en bewerkt.
 Financiën en Risico’s
 
-Risico’s en uitwijkactiviteiten
+# Risico’s en uitwijkactiviteiten
 
-Risico
+## Risico
 Activiteiten ter voorkoming opgenomen in plan
 Uitwijkactiviteiten
 Ass1 niet beschikbaar.
