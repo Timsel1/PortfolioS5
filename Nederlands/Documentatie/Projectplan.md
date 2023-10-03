@@ -1,7 +1,7 @@
 # Projectplan
 
 ## Gebruikersinterface voor Datapanel configuraties
-![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstofloos.nl%2F&psig=AOvVaw2neV89hRUO79PJy_ahPIpc&ust=1696411963360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiAu5XJ2YEDFQAAAAAdAAAAABAJ))
+![alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fstofloos.nl%2F&psig=AOvVaw2neV89hRUO79PJy_ahPIpc&ust=1696411963360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiAu5XJ2YEDFQAAAAAdAAAAABAJ])
 
 Stofloos
 Eindhoven
