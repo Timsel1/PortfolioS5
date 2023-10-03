@@ -33,31 +33,34 @@ Verspreiding
 | 0.4 |28/09/2023|Frank Coenen|
 
 
-Inhoudsopgave
+## Inhoudsopgave
 
-1. Projectopdracht	4
-1.1 Context	4
-1.2 Doel van het project	4
-1.3 De opdracht	5
-1.4 Scope	5
-1.5 Randvoorwaarden	5
-1.6 Onderzoeksvragen	6
-1.7 Eindproducten	7
-2. Aanpak en Planning	8
-2.1 Aanpak	8
-2.2 Onderzoeksmethoden	9
-2.3 Leeruitkomsten	10
-2.4 Opdeling van het project	12
-2.5 Tijdplan	12
-3. Projectorganisatie	13
-3.1 Teamleden	13
-3.2 Communicatie	13
-3.3 Testomgeving en benodigdheden	13
-3.4 Configuratiemanagement	14
-4. Financiën en Risico’s	15
-4.1 Risico’s en uitwijkactiviteiten	15
-Projectopdracht
-Context
+1. [Projectopdracht](Projectopdracht)	
+
+1.1 Context	
+1.2 Doel van het project	
+1.3 De opdracht	
+1.4 Scope	
+1.5 Randvoorwaarden	
+1.6 Onderzoeksvragen	
+1.7 Eindproducten	
+3. Aanpak en Planning	
+2.1 Aanpak	
+2.2 Onderzoeksmethoden	
+2.3 Leeruitkomsten	
+2.4 Opdeling van het project	
+2.5 Tijdplan	
+4. Projectorganisatie	
+3.1 Teamleden	
+3.2 Communicatie	
+3.3 Testomgeving en benodigdheden	
+3.4 Configuratiemanagement	
+5. Financiën en Risico’s	
+4.1 Risico’s en uitwijkactiviteiten	
+
+
+## Projectopdracht
+### Context
 Stofloos brengt data tot leven door middel van het maken van dashboards, dataplatforms, datawarehouses en rapportages. Met deze oplossingen versterken ze bedrijven door het integreren van data, waardoor het onbenut potentieel benut wordt en organisaties data-gedreven kunnen werken.
 Het proces dat Stofloos doorloopt bestaat uit 3 pijlers: strategie, infrastructuur, impact. Zo hebben ze binnen ‘strategie’ hun ervaring gebruikt voor het ontwikkelen van een simpel data framework, Extraction, Transformation and Load (ETL) proces en data governance documenten. Voor ‘infrastructuur’ en ‘impact’ geldt dat de meeste gevallen dezelfde componenten nodig hebben om de basis te leggen voor een data-oplossing. Door deze gemeenschappelijke componenten te gebruiken, kunnen ze zich concentreren op het ontwikkelen van maatwerk onderdelen met specifieke behoeften van bedrijven in gedachten.
 Alle applicaties en bouwstenen die ze hebben ontwikkeld en inzetten noemen ze ‘Stofware’. De Stofware software is een verzameling van ETL en data-applicaties die worden gebruikt voor het beheren en analyseren van de gegevens die gebruikt worden binnen een organisatie. Stofware is ontwikkeld met behulp van de belangrijkste open source bibliotheken van de industrie, hieromheen hebben ze hun eigen schil gecreëerd. De Stofware componenten die voor mij van belang zijn zijn de nocode api, Stofloos gateway en Datapanel.
