@@ -1,5 +1,5 @@
 # Gebruikersinterface voor Datapanel configuraties
-<img src="https://files.stofloosdata.nl/public-data/OpenGraph/OGImage.jpg" width="600"/>
+<img src="https://files.stofloosdata.nl/public-data/OpenGraph/OGImage.jpg" width="500"/>
 
 Stofloos
 Eindhoven
@@ -10,10 +10,13 @@ Eindhoven
 
 
 
-Datum			:	28/09/2023
-Versie			:	0.4
-Status			:	Finished
-Auteur			:	Tim Meijvogel
+|Datum			|	28/09/2023|
+|:----------------------|:-----------------|
+|Versie			|	0.4|
+|:----------------------|:-----------------|
+|Status			|	Finished|
+|:----------------------|:-----------------|
+|Auteur			|	Tim Meijvogel|
 
 
 
