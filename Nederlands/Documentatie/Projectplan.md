@@ -35,28 +35,27 @@ Verspreiding
 
 ## Inhoudsopgave
 
-1. [Projectopdracht](Projectopdracht)	
-
-1.1 Context	
-1.2 Doel van het project	
-1.3 De opdracht	
-1.4 Scope	
-1.5 Randvoorwaarden	
-1.6 Onderzoeksvragen	
-1.7 Eindproducten	
-3. Aanpak en Planning	
-2.1 Aanpak	
-2.2 Onderzoeksmethoden	
-2.3 Leeruitkomsten	
-2.4 Opdeling van het project	
-2.5 Tijdplan	
-4. Projectorganisatie	
-3.1 Teamleden	
-3.2 Communicatie	
-3.3 Testomgeving en benodigdheden	
-3.4 Configuratiemanagement	
-5. Financiën en Risico’s	
-4.1 Risico’s en uitwijkactiviteiten	
+- ### [Projectopdracht](Projectopdracht)	
+	- Context	
+	- Doel van het project	
+	- De opdracht	
+	- Scope	
+	- Randvoorwaarden	
+	- Onderzoeksvragen	
+	- Eindproducten	
+- ### Aanpak en Planning	
+	- Aanpak	
+	- Onderzoeksmethoden	
+	- Leeruitkomsten	
+	- Opdeling van het project	
+	- Tijdplan	
+- ### Projectorganisatie	
+	- Teamleden	
+	- Communicatie
+ 	- Testomgeving en benodigdheden	
+	- Configuratiemanagement	
+- ### Financiën en Risico’s	
+	- Risico’s en uitwijkactiviteiten	
 
 
 ## Projectopdracht
