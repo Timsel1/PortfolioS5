@@ -1,6 +1,5 @@
 # Gebruikersinterface voor Datapanel configuraties
-![alt text](https://files.stofloosdata.nl/public-data/OpenGraph/OGImage.jpg)
-<img src="https://files.stofloosdata.nl/public-data/OpenGraph/OGImage.jpg" width="200"/>
+<img src="https://files.stofloosdata.nl/public-data/OpenGraph/OGImage.jpg" width="600"/>
 
 Stofloos
 Eindhoven
