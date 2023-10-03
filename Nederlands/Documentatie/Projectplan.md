@@ -5,11 +5,6 @@ Stofloos
 Eindhoven
 
 
-
-
-
-
-
 |Datum			|	28/09/2023|
 |:----------------------|:----------------|
 |Versie			|	0.4|
@@ -21,52 +16,21 @@ Eindhoven
 
 Versie
 
-Versie
-Datum
-Auteur(s)
-Wijzigingen
-Status
-0.1
-07/09/2023
-Tim Meijvogel
-
-
-in progress
-0.2
-19/09/2023
-Tim Meijvogel
-Alles is aangevuld, het grootste deel is af, op 1.3, 1.4, 1.6 en 2.3 na.
-in progress
-0.3
-25/09/2023
-Tim Meijvogel
-Feedback toegepast op 1.1 t/m 1.7, 2.1 t/m 2.3 en 2.5, 3.2, 3.3 en 3.4
-Finished (if no feedback is received)
-0.4
-28/09/2023
-Tim Meijvogel
-Backend eisen toegevoegd en feedback toegepast: 1.3, 1.4, 1.6, 1.7, 2.1.1,  2.3
-Finished (if no feedback is received)
-
+| Versie | Datum | Auteur(s) | Wijzigingen | Status |
+|:------:|:-----:|:---------:|:-----------:|:------:|
+| 0.1 |07/09/2023|Tim Meijvogel||in progress|
+| 0.2 |19/09/2023|Tim Meijvogel|Alles is aangevuld, het grootste deel is af, op 1.3, 1.4, 1.6 en 2.3 na.|in progress|
+| 0.3 |25/09/2023|Tim Meijvogel|Feedback toegepast op 1.1 t/m 1.7, 2.1 t/m 2.3 en 2.5, 3.2, 3.3 en 3.4|Finished (if no feedback is received)|
+| 0.4 |28/09/2023|Tim Meijvogel|Backend eisen toegevoegd en feedback toegepast: 1.3, 1.4, 1.6, 1.7, 2.1.1,  2.3|Finished|
 
 Verspreiding
-Versie
-Datum
-Aan
-0.1
-07/09/2023
-Frank Coenen
-0.2
-19/09/2023
-Frank Coenen
-0.3
-25/09/2023
-Frank Coenen
-0.4
-28/09/2023
-Frank Coenen
 
-
+| Versie | Datum | Aan |
+|:------:|:-----:|:---------:|
+| 0.1 |07/09/2023|Frank Coenen|
+| 0.2 |19/09/2023|Frank Coenen|
+| 0.3 |25/09/2023|Frank Coenen|
+| 0.4 |28/09/2023|Frank Coenen|
 
 
 Inhoudsopgave
