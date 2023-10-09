@@ -16,3 +16,5 @@ Ik heb de wireframes laten zien aan mijn stagebegeleider, feedback ontvangen en 
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 Nu mijn wireframes zijn goedgekeurd, kan ik beginnen aan een interactief prototype van mijn UI.
+
+Lees deel 3 [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/GebruiksvriendelijkeUI3.md)
