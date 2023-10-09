@@ -16,3 +16,5 @@ Aangezien deze antwoorden komen van de developers van Stofloos en zij ook de sta
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 Nu ik een idee heb van de stappen die mijn UI moet volgen, kan ik wireframes maken die gebaseerd zijn op hoe Datapanel er op het moment uitziet.
+
+Lees deel 2 [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/GebruiksvriendelijkeUI2.md)
