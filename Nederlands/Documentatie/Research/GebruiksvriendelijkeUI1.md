@@ -2,16 +2,17 @@
 Een van de belangrijkste punten voor dit project is dat de UI gebruiksvriendelijk moet zijn. Om dit doel te bereiken zullen wireframes en prototypes gemaakt moeten worden en feedback op deze producten verzameld moeten worden.
 
 ## Hoe heb ik dit opgelost?
-De eerste stap die ik heb genomen was om een eerder benoemde survey te gebruiken. Deze survey was bedoeld om de kwaliteitseisen voor het project te verzamelen, maar hier kon ik ook een proces dat de UI zal moeten volgen uithalen. Uit dit onderzoek bleek dat de structuur die er op het moment was fijn werkte (page -> subpage -> sectie). 
-(Library - Available Product Analysis)
+De eerste stap die ik heb genomen was om een eerder benoemde survey te gebruiken. Deze survey was bedoeld om de kwaliteitseisen voor het project te verzamelen, maar hier kon ik ook een proces dat de UI zal moeten volgen uithalen. 
+**(Field - Survey)**
 
 ## Wat is het resultaat?
-Met deze resultaten in gedachte ben ik begonnen aan de wireframes. Hierbij heb ik gekeken naar hoe Datapanel er op het moment uitziet en me aan deze stijl gehouden, aangezien dit een app wordt binnen Datapanel. Ook zijn de end-users op deze manier al bekend met hoe de navigatie binnen de UI werkt. De wireframes met uitleg zijn (hier) te vinden.
-(Workshop - Prototyping)
+Uit dit onderzoek bleek dat de structuur die er op het moment was fijn werkte (page -> subpage -> sectie) en dat dit behouden moest worden in mijn UI. Er is een voorkeur voor een manier om stap voor stap een configuratie te kunnen maken, dit is dus ook iets dat ik in gedachten moet houden tijdens het ontwerpen van mijn UI.
+![SurveyAnswer1](https://github.com/Timsel1/PortfolioS5/assets/90602424/7fd2e9a9-c7ce-44cb-9ab7-226e5917d560)
+![SurveyAnswer2](https://github.com/Timsel1/PortfolioS5/assets/90602424/9c70cae2-738b-4640-858c-1e85c4d55fe3)
 
 ## Wat is de kwaliteit van het resultaat?
-Ik heb de wireframes laten zien aan mijn stagebegeleider, feedback ontvangen en verwerkt. Nadat de feedback was verwerkt, waren de wireframes goedgekeurd.
-(Library - Expert interview)
+Aangezien deze antwoorden komen van de developers van Stofloos en zij ook de stakeholders zijn, weet ik zeker dat dit belangrijke punten zijn waar mijn UI aan moet voldoen.
+**(Library - Expert interview)**
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
-Nu mijn wireframes zijn goedgekeurd, kan ik beginnen aan de prototypes van de UI.
+Nu ik een idee heb van de stappen die mijn UI moet volgen, kan ik wireframes maken die gebaseerd zijn op hoe Datapanel er op het moment uitziet.
