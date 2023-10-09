@@ -1,0 +1,18 @@
+# Hoe kan een gebruiksvriendelijke UI worden ontworpen voor het maken van Datapanel configuraties? (3)
+Een van de belangrijkste punten voor dit project is dat de UI gebruiksvriendelijk moet zijn. Om dit doel te bereiken zullen wireframes en prototypes gemaakt moeten worden en feedback op deze producten verzameld moeten worden.
+
+## Hoe heb ik dit opgelost?
+Ik ben gaan werken aan UI prototypes in Figma. Aangezien dit een UI wordt binnen Datapanel, heb ik net als bij de wireframes, Datapanel componenten in gedachte gehouden en nagemaakt wanneer nodig. Op deze manier hou ik 
+me aan de huisstijl van Datapanel en kan ik al bestaande componenten hergebruiken. Ik heb meerdere malen feedback gevraagd aan mijn stagebegeleider en heb op deze manier stap voor stap mijn prototype gemaakt.  
+**(Library - Available Product Analysis, Workshop - Prototyping)**
+
+## Wat is het resultaat?
+Ik heb nu een functioneel prototype dat de volledige lay out en navigatie functionaliteit van mijn UI kan laten zien.
+![Modelviews Overview](https://github.com/Timsel1/PortfolioS5/assets/90602424/895644d3-ba09-4611-975a-f7ebc8565127)
+
+## Wat is de kwaliteit van het resultaat?
+Ik heb de prototypes meerdere malen laten zien aan mijn stagebegeleider en feedback ontvangen. Ik bleef de feedback verwerken totdat mijn prototypes waren goedgekeurd.  
+**(Library - Expert interview)**
+
+## Wat is de volgende stap nu ik dit resultaat heb?
+Met deze prototypes kan ik een usability test uitvoeren en meer feedback van de stakeholders verzamelen. 
