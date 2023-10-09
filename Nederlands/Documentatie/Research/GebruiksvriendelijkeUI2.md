@@ -3,7 +3,7 @@
 Een van de belangrijkste punten voor dit project is dat de UI gebruiksvriendelijk moet zijn. Om dit doel te bereiken zullen wireframes en prototypes gemaakt moeten worden en feedback op deze producten verzameld moeten worden.
 
 ## Hoe heb ik dit opgelost?
-Met de resultaten van de survey in gedachte ben ik begonnen aan de wireframes. Hierbij heb ik gekeken naar hoe Datapanel er op het moment uitziet en me aan deze stijl gehouden, aangezien dit een app wordt binnen Datapanel. Ook zijn de end-users op deze manier al bekend met hoe de navigatie binnen de UI werkt. De wireframes met uitleg zijn (hier) te vinden.
+Met de resultaten van de survey in gedachte ben ik begonnen aan de wireframes. Hierbij heb ik gekeken naar hoe Datapanel er op het moment uitziet en me aan deze stijl gehouden, aangezien dit een app wordt binnen Datapanel. Ook zijn de end-users op deze manier al bekend met hoe de navigatie binnen de UI werkt. De wireframes met uitleg zijn (hier) te vinden.  
 **(Workshop - Prototyping)**
 
 ## Wat is het resultaat?
@@ -11,7 +11,7 @@ Ik heb wireframes die de minimale functionaliteit van de UI laat zien. De wirefr
 ![Section Overview Page](https://github.com/Timsel1/PortfolioS5/assets/90602424/4fbf308f-a9cf-41cf-9d1c-ba265308464c)
 
 ## Wat is de kwaliteit van het resultaat?
-Ik heb de wireframes laten zien aan mijn stagebegeleider, feedback ontvangen en verwerkt. Nadat de feedback was verwerkt, waren de wireframes goedgekeurd.
+Ik heb de wireframes laten zien aan mijn stagebegeleider, feedback ontvangen en verwerkt. Nadat de feedback was verwerkt, waren de wireframes goedgekeurd.  
 **(Library - Expert interview)**
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
