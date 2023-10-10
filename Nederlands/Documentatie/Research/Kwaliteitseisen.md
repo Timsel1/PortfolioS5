@@ -10,7 +10,7 @@ eisen waren opgesteld en dat ik dus zelf een onderzoek moet doen. Het voorstel d
 ## Wat is het resultaat?
 Ik heb de survey gedeeld met mijn collega’s binnen het software team, aangezien zij mijn end users zijn. Door dit te doen heb ik nu een lijst van (kwaliteits-)eisen 
 en ik kan er zeker van zijn dat deze eisen van belang zijn aangezien de survey is ingevuld door experts.  
-**(Field - Survey)**
+**(Field - Survey)**  
 ![SurveyQuestions](https://github.com/Timsel1/PortfolioS5/assets/90602424/ff567405-8142-4b99-a87d-b1f523b7e08b)
 
 ## Wat is de volgende stap nu dat ik dit resultaat heb?
