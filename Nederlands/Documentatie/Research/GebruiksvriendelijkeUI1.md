@@ -2,7 +2,7 @@
 Een van de belangrijkste punten voor dit project is dat de UI gebruiksvriendelijk moet zijn. Om dit doel te bereiken zullen wireframes en prototypes gemaakt moeten worden en feedback op deze producten verzameld moeten worden.
 
 ## Hoe heb ik dit opgelost?
-De eerste stap die ik heb genomen was om een eerder benoemde survey te gebruiken. Deze survey was bedoeld om de kwaliteitseisen voor het project te verzamelen, maar hier kon ik ook een proces dat de UI zal moeten volgen uithalen. 
+De eerste stap die ik heb genomen was om een survey te gebruiken. Deze survey was in eerste instantie bedoeld om de kwaliteitseisen voor het project te verzamelen, maar met de vragen die ik stelde, kon ik hier ook een proces uithalen dat de UI zal moeten volgen. Dit is hoe de flow van mijn UI zal moeten lopen.  
 **(Field - Survey)**
 
 ## Wat is het resultaat?
@@ -11,7 +11,7 @@ Uit dit onderzoek bleek dat de structuur die er op het moment was fijn werkte (p
 ![SurveyAnswer2](https://github.com/Timsel1/PortfolioS5/assets/90602424/9c70cae2-738b-4640-858c-1e85c4d55fe3)
 
 ## Wat is de kwaliteit van het resultaat?
-Aangezien deze antwoorden komen van de developers van Stofloos en zij ook de stakeholders zijn, weet ik zeker dat dit belangrijke punten zijn waar mijn UI aan moet voldoen.
+Aangezien deze antwoorden komen van de developers van Stofloos en zij ook de stakeholders zijn, weet ik zeker dat dit belangrijke punten zijn waar mijn UI aan moet voldoen.  
 **(Library - Expert interview)**
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
