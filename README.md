@@ -1,9 +1,2 @@
-# Portfolio Semester 5
-Dit is het protfolio van Tim Meijvogel.  
-This is the portfolio of Tim Meijvogel.
-
-## Nederlands
-Dit is mijn portfolio voor het HBO-ICT Fontys Hogeschool stagesemester (semester 5).
-
-## English
-This is my portfolio for the HBO-ICT Fontys University of Applied Sciences internship semester (semester 5). 
+# Portfolio Semester 5 Tim Meijvogel
+[](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952ngk093g6g7hjtjn784po7yrq2v1o97w3gi2gcijs&ep=v1_gifs_search&rid=giphy.gif&ct=g)
