@@ -134,7 +134,8 @@ Het eindproduct van dit project zal bestaan uit verschillende onderdelen, deze o
 #### Software
 De software zal bestaan uit technische producten. Denk hierbij aan de front- en backend van het project. (Mogelijk kan de bestaande backend gebruikt worden en hoeft hier geen aanpassingen aan gemaakt te worden. In dit geval wordt er geen backend opgeleverd)
 
-#### Documentatie: De documentatie zal bestaan uit alles dat geen code bevat. Elk document is te koppelen aan een leerdoel, deze connectie is te zien in kop 2.3 van dit document. 
+#### Documentatie 
+De documentatie zal bestaan uit alles dat geen code bevat. Elk document is te koppelen aan een leerdoel, deze connectie is [hier](#onderzoeksmethoden) te zien. 
 - Portfolio: Een verzameling van alle professionele producten en het projectrapport.
 - projectrapport: Beschrijving van de opdracht, beschrijving van het proces, conclusie en persoonlijke reflectie.
 - Prototypes: Wireframes en prototypes die zijn gemaakt met Figma.
