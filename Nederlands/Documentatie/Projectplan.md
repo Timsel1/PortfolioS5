@@ -94,7 +94,7 @@ Backend service voor het automatisch aanmaken van pages en subpages.
 |Service om json files te genereren in Datapanel|Opzetten van CI/CD|
 |User testing (valideren van prototypes en producten met behulp van end users)||
 |Prototypes en wireframes van de UI||
-|Research documenten (onderzoeken die zijn verricht, voorbeelden staan [hier](#onderzoeksvragen)||
+|Research documenten (onderzoeken die zijn verricht, voorbeelden staan [hier](#onderzoeksvragen))||
 |Backend service voor het aanmaken van pages en subpages||
 
 ### Randvoorwaarden
