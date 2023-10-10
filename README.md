@@ -1,2 +1,2 @@
 # Portfolio Semester 5 Tim Meijvogel
-<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" />
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
