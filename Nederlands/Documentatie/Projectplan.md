@@ -262,7 +262,7 @@ Deze indeling houdt geen rekening met vakanties en kan dus één sprint minder b
 |:-------------------:|:----:|:---------:|:---------------:|
 | Tim Meijvogel||Developer|5 dagen per week|
 |Jim Spijker||stage begeleider|5 dagen per week|
-|Michael Rademaker|PO|Product owner|Internship mentor|4 dagen per week (kantoor), 1 dag per week (online)|
+|Michael Rademaker|PO|Product owner, Internship mentor|4 dagen per week (kantoor), 1 dag per week (online)|
 |Frank Coenen|ass1|1e assesor||
 |Mark Mestrom|sc|stagecoördinator|
 
