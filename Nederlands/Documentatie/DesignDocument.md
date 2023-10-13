@@ -13,7 +13,7 @@
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
   - [C1 model](#c1-model)
-  - [C4 model](#c4-model)
+  - [Container Diagram](#containerdiagram)
     - [Datapanel Webtoepassing](#datapanel-webtoepassing)
     - [API Gateway-toepassing](#api-gateway-toepassing)
     - [No-Code API-toepassing](#no-code-api-toepassing)
@@ -51,7 +51,7 @@ Alle actoren en systemen zijn verbonden met:
 
 Dit C1-model biedt een overzicht van de belangrijkste actoren en systemen in het Datapanel systeem en de manier waarop ze met elkaar communiceren. Het is de basis voor het begrijpen van de relaties en verantwoordelijkheden binnen het systeem.
 
-### C4 model
+### Container Diagram
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/434d16a3-4980-41ab-88b7-8130c99f8fb5" width=400px/>
 
 #### Datapanel Webtoepassing
@@ -60,7 +60,7 @@ De Datapanel webtoepassing is nauw verbonden met twee andere belangrijke compone
 - API Gateway-toepassing: Dit component, uitgevoerd in TypeScript, fungeert als een tussenliggende laag tussen de Datapanel webtoepassing en de rest van het systeem. Het biedt gegevens- en configuratiefuncties aan via een JSON/HTTPS API, waardoor externe systemen en services toegang kunnen krijgen tot de benodigde gegevens en functionaliteit.  
 - Authenticatietoepassing: Dit component, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, beheert alle aspecten van gebruikersauthenticatie. Het garandeert de beveiliging van het systeem door middel van strikte authenticatieprotocollen en -services.
 
-Samen vormen deze componenten de hoeksteen van het C4-model, waarbij de Datapanel webtoepassing fungeert als de toegangspoort tot de systeemfunctionaliteit, terwijl de API Gateway en de Authenticatietoepassing de gegevensdistributie en beveiligingsaspecten van het systeem verzorgen. Dit model is essentieel voor het begrijpen van de architectuur en interacties binnen het systeem.
+Samen vormen deze componenten de hoeksteen van  de container diagram, waarbij de Datapanel webtoepassing fungeert als de toegangspoort tot de systeemfunctionaliteit, terwijl de API Gateway en de Authenticatietoepassing de gegevensdistributie en beveiligingsaspecten van het systeem verzorgen. Dit model is essentieel voor het begrijpen van de architectuur en interacties binnen het systeem.
 
 #### API Gateway-toepassing
 De API Gateway-toepassing speelt een cruciale rol in het systeem door alle gegevens- en configuratiefuncties aan te bieden via een JSON/HTTPS API. Deze toepassing wordt uitgevoerd in een containeromgeving met TypeScript en fungeert als een brug tussen gebruikers en het systeem.
