@@ -42,8 +42,10 @@ Het C1-model biedt een overzicht van de belangrijkste actoren en systemen die be
 **Admin** [Persoon]: Deze actor vertegenwoordigt beheerders of beheerders van het systeem. Ze hebben de mogelijkheid om het systeem te configureren en verschillende aspecten ervan aan te passen om aan de behoeften van de organisatie te voldoen.  
 **User** [Persoon]: Gebruikers van het Datapanel kunnen verschillende rollen hebben. Ze maken gebruik van Datapanel om toegang te krijgen tot gegevens en met deze gegevens te interageren. De rollen van deze gebruikers kunnen variëren, afhankelijk van hun rechten en verantwoordelijkheden.  
 **Data Transformation System** [Software Systeem]: Dit systeem is verantwoordelijk voor de verwerking van gegevenstransformatie tussen de databases van klanten en de databases van  het Datapanel systeem. Het zorgt voor een naadloze uitwisseling en transformatie van gegevens om ervoor te zorgen dat de juiste gegevens beschikbaar zijn voor Datapanel.  
+
 Alle actoren en systemen zijn verbonden met:  
-**Datapanel systeem** [Software Systeem]: Het Datapanel systeem is het centrale onderdeel van het systeem. Het stelt beheerders in staat om systemen in te stellen voor de verwerking van gegevens en gebruikers in staat om met deze gegevens te interageren. Beheerders kunnen configuraties aanpassen, terwijl gebruikers de gegevens kunnen raadplegen en ermee kunnen werken.
+**Datapanel systeem** [Software Systeem]: Het Datapanel systeem is het centrale onderdeel van het systeem. Het stelt beheerders in staat om systemen in te stellen voor de verwerking van gegevens en gebruikers in staat om met deze gegevens te interageren. Beheerders kunnen configuraties aanpassen, terwijl gebruikers de gegevens kunnen raadplegen en ermee kunnen werken.  
+
 Dit C1-model biedt een overzicht van de belangrijkste actoren en systemen in het Datapanel systeem en de manier waarop ze met elkaar communiceren. Het is de basis voor het begrijpen van de relaties en verantwoordelijkheden binnen het systeem.
 
 ### C4 model
