@@ -89,22 +89,20 @@ Ik had de keuze tussen 2 opties bij het maken van de overzichtspagina’s. Beide
 De andere optie was een tabel met de belangrijkste informatie en de verwijder knop in de kolommen.
 |Cards overview|Table overview|
 |:------------:|:------------:|
-|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/3dc2dcd7-45b4-4d4a-95f1-29fc91157aed" width=400px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/ebbd37e5-ab09-42be-a601-11b5e9129b12" width=400px />  |
+|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/3dc2dcd7-45b4-4d4a-95f1-29fc91157aed" width=500px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/ebbd37e5-ab09-42be-a601-11b5e9129b12" width=500px />  |
 |Existing cards overview|Existing tables|
-|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/f6ed3213-45a0-4ebe-98d7-134a8e93ac5f" width=400px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/96373db4-3756-47df-8d11-c13e63e05413" width=400px />|
+|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/f6ed3213-45a0-4ebe-98d7-134a8e93ac5f" width=500px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/96373db4-3756-47df-8d11-c13e63e05413" width=500px />|
 
 Mijn voorkeur ging naar de kaartjes, omdat dit er voor mij overzichtelijker en moderner uitzag. Ook vond ik dit beter bij het uiterlijk van Datapanel passen. Na het vragen van feedback op deze designs, bleek de voorkeur van de stakeholder ook naar het overzicht met de  ‘cards’ te gaan.
 
 #### Edit Pagina’s
 Mijn eerste design van een edit pagina was voor het maken van een modelview. De uitdaging zat bij properties die niet in één tekstveld kunnen worden genoteerd, denk aan arrays. Mijn eerste wireframe hiervoor zag er als volgt uit.
-
-Deze wireframe bevat geen scroll functionaliteit, dit is de reden voor hoe lang hij is. In deze wireframe zijn alle properties die te gebruiken zijn voor het maken van een modelview, de properties die met een tekstveld in te vullen zijn staan bij elkaar. Arrays die bestaan uit alleen strings kunnen worden ingevuld als een lijst die een veld toevoegt wanneer dit nodig is. De arrays die uit objecten bestaan worden hier weergegeven als een soort kaartje, op deze manier kun je een object volledig invullen en blijft het overzichtelijk. Een leeg kaartje wordt gegenereerd wanneer je op de ‘+’ knop drukt. ‘Import settings’ heeft meerdere array properties, om dit overzichtelijk te maken hebben deze properties hun eigen mapjes. Wanneer een mapje wordt geopend zal deze de hele sectie overnemen. Het idee voor deze mapjes is gehaald uit Datapanel.
-
-
-
-
+<img style="float: right;" src="https://github.com/Timsel1/PortfolioS5/assets/90602424/6b62c8c3-dd11-4393-bb79-0b782169b0be" width=500px>
+<img style="float: right;" src="https://github.com/Timsel1/PortfolioS5/assets/90602424/a34bd9c2-ffe6-4efb-85c7-37765e4641e4" width=500px>
+Deze wireframe bevat geen scroll functionaliteit, dit is de reden dat hij zo lang is. In deze wireframe zijn alle properties die te gebruiken zijn voor het maken van een modelview, de properties die met een tekstveld in te vullen zijn staan bij elkaar. Arrays die bestaan uit alleen strings kunnen worden ingevuld als een lijst die een veld toevoegt wanneer dit nodig is. De arrays die uit objecten bestaan worden hier weergegeven als een soort kaartje, op deze manier kun je een object volledig invullen en blijft het overzichtelijk. Een leeg kaartje wordt gegenereerd wanneer je op de ‘+’ knop drukt. ‘Import settings’ heeft meerdere array properties, om dit overzichtelijk te maken hebben deze properties hun eigen mapjes. Wanneer een mapje wordt geopend zal deze de hele sectie overnemen. Het idee voor deze mapjes is gehaald uit Datapanel.  
 
 Na feedback te hebben ontvangen over deze wireframe, heb ik tabjes toegevoegd in plaats van dat je door alle secties moet scrollen. Dit maakt de UI een stuk duidelijker en zorgt ervoor dat de users niet continu hoeven te zoeken naar de sectie die ze nodig hebben.
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/6e7fe00d-b792-4468-9b64-d5a539e9d017" width=500px>
 
 
 #### Pop-up
