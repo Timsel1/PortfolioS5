@@ -10,25 +10,25 @@
 
 
 ## Inhoudsopgave
-- [Introduction]()
-- [System Architecture]()
-   - [C4 model]()
-    - [Datapanel Webtoepassing]()
-    - [API Gateway-toepassing]()
-    - [No-Code API-toepassing]()
-  - [C1 model]()
-- [User Interface (UI) Design]()
-  - [Wireframes]()
-    - [De overzichtspagina’s]()
-    - [Edit Pagina’s]()
-    - [Pop-up]()
-  - [UI Prototypes]()
-    - [Overzichtspagina’s]()
-    - [Pop-up]()
-    - [Edit pagina’s]()
-- [System Integration]()
+- [Introduction](#introduction)
+- [System Architecture](#system-architecture)
+  - [C1 model](#c1-model)
+  - [C4 model](#c4-model)
+    - [Datapanel Webtoepassing](#datapanel-webtoepassing)
+    - [API Gateway-toepassing](#api-gateway-toepassing)
+    - [No-Code API-toepassing](#no-code-api-toepassing)
+- [User Interface (UI) Design](#user-interface-(ui)-design)
+  - [Wireframes](#wireframe)
+    - [De overzichtspagina’s](#de-overzichtspagina's)
+    - [Edit Pagina’s](#edit-pagina's)
+    - [Pop-up](#pop-up)
+  - [UI Prototypes](#ui-prototype)
+    - [Overzichtspagina’s](#overzichtspagina's)
+    - [Pop-up](#pop-up)
+    - [Edit pagina’s](#edit-pagina's)
+- [System Integration](#system-intergration)
 
-## Introduction:
+## Introduction
 Dit design document bevat essentiële informatie voor dit project en omvat de volgende onderwerpen:
 - Systeemarchitectuur: Details over de systeemstructuur, componenten en interacties.
 - Ontwerp van de gebruikersinterface (UI): Informatie over de UI-layout en gebruikersinteractie.
@@ -36,10 +36,12 @@ Dit design document bevat essentiële informatie voor dit project en omvat de vo
 
 Dit dossier dient als leidraad voor het ontwerp en de implementatie van dit project en biedt een overzicht van de belangrijkste aspecten die moeten worden aangepakt. Het zal als referentie dienen voor alle betrokken partijen.
 
-## System Architecture:
+## System Architecture
 ### C1 model
 Het C1-model biedt een overzicht van de belangrijkste actoren en systemen die betrokken zijn bij het Datapanel systeem. Het model beschrijft de interacties en relaties tussen deze entiteiten:  
-- **Admin** [Persoon]: Deze actor vertegenwoordigt beheerders of beheerders van het systeem. Ze hebben de mogelijkheid om het systeem te configureren en verschillende aspecten ervan aan te passen om aan de behoeften van de organisatie te voldoen.  - **User** [Persoon]: Gebruikers van het Datapanel kunnen verschillende rollen hebben. Ze maken gebruik van Datapanel om toegang te krijgen tot gegevens en met deze gegevens te interageren. De rollen van deze gebruikers kunnen variëren, afhankelijk van hun rechten en verantwoordelijkheden.  
+- **Admin** [Persoon]: Deze actor vertegenwoordigt beheerders of beheerders van het systeem. Ze hebben de mogelijkheid om het systeem te configureren en verschillende aspecten ervan aan te passen om aan de behoeften van de
+organisatie te voldoen.  
+- **User** [Persoon]: Gebruikers van het Datapanel kunnen verschillende rollen hebben. Ze maken gebruik van Datapanel om toegang te krijgen tot gegevens en met deze gegevens te interageren. De rollen van deze gebruikers kunnen variëren, afhankelijk van hun rechten en verantwoordelijkheden.  
 - **Data Transformation System** [Software Systeem]: Dit systeem is verantwoordelijk voor de verwerking van gegevenstransformatie tussen de databases van klanten en de databases van  het Datapanel systeem. Het zorgt voor een naadloze uitwisseling en transformatie van gegevens om ervoor te zorgen dat de juiste gegevens beschikbaar zijn voor Datapanel.  
 
 Alle actoren en systemen zijn verbonden met:  
