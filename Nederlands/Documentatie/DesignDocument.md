@@ -100,8 +100,9 @@ Mijn eerste design van een edit pagina was voor het maken van een modelview. De 
 <img align="right;" src="https://github.com/Timsel1/PortfolioS5/assets/90602424/6b62c8c3-dd11-4393-bb79-0b782169b0be" width=500px>
 
 Deze wireframe bevat geen scroll functionaliteit, dit is de reden dat hij zo lang is. In deze wireframe zijn alle properties die te gebruiken zijn voor het maken van een modelview, de properties die met een tekstveld in te vullen zijn staan bij elkaar. Arrays die bestaan uit alleen strings kunnen worden ingevuld als een lijst die een veld toevoegt wanneer dit nodig is. De arrays die uit objecten bestaan worden hier weergegeven als een soort kaartje, op deze manier kun je een object volledig invullen en blijft het overzichtelijk. Een leeg kaartje wordt gegenereerd wanneer je op de ‘+’ knop drukt. ‘Import settings’ heeft meerdere array properties, om dit overzichtelijk te maken hebben deze properties hun eigen mapjes. Wanneer een mapje wordt geopend zal deze de hele sectie overnemen. Het idee voor deze mapjes is gehaald uit Datapanel.  
-<img align="right;" src="https://github.com/Timsel1/PortfolioS5/assets/90602424/a34bd9c2-ffe6-4efb-85c7-37765e4641e4" width=500px>
-Na feedback te hebben ontvangen over deze wireframe, heb ik tabjes toegevoegd in plaats van dat je door alle secties moet scrollen. Dit maakt de UI een stuk duidelijker en zorgt ervoor dat de users niet continu hoeven te zoeken naar de sectie die ze nodig hebben.
+<img align="right;" src="https://github.com/Timsel1/PortfolioS5/assets/90602424/a34bd9c2-ffe6-4efb-85c7-37765e4641e4" width=500px>  
+
+Na feedback te hebben ontvangen over deze wireframe, heb ik tabjes toegevoegd in plaats van dat je door alle secties moet scrollen. Dit maakt de UI een stuk duidelijker en zorgt ervoor dat de users niet continu hoeven te zoeken naar de sectie die ze nodig hebben.  
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/6e7fe00d-b792-4468-9b64-d5a539e9d017" width=500px>
 
 
@@ -113,10 +114,8 @@ Het design en het idee van de pop-up voor het aanmaken van pages, subpages, sect
 Het design van de UI prototypes komt net als de wireframes van Datapanel zelf. Om Datapanel na te maken in Figma, heb ik assets van Stofloos gebruikt. Alles behalve de kaartjes heb ik uit Stofloos assets kunnen halen, wel heb ik tekst en icons aan moeten passen. De kaartjes bestaan wel uit assets van stofloos, deze assets heb ik gebruikt om ze na te maken zoals ze al in Datapanel stonden. 
 
 
-
 #### Pop-up
 Ik moest de pop-up ook zelf namaken in Figma, natuurlijk heb ik dit gedaan met de assets van Stofloos. Na feedback te hebben ontvangen staan in deze pop-ups alleen nog tekstvelden en geen mapjes meer, de reden hiervoor is dat met de mapjes en de grootte van de pop-ups, de pop-ups snel onoverzichtelijk worden.
-
 
 
 #### Edit pagina’s
