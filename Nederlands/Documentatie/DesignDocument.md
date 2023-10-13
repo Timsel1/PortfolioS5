@@ -98,7 +98,7 @@ Mijn voorkeur ging naar de kaartjes, omdat dit er voor mij overzichtelijker en m
 #### Edit Pagina’s
 Mijn eerste design van een edit pagina was voor het maken van een modelview. De uitdaging zat bij properties die niet in één tekstveld kunnen worden genoteerd, denk aan arrays. Mijn eerste wireframe hiervoor zag er als volgt uit.
 <img align="right;" src="https://github.com/Timsel1/PortfolioS5/assets/90602424/6b62c8c3-dd11-4393-bb79-0b782169b0be" width=500px>
-
+![DatapanelPopup](https://github.com/Timsel1/PortfolioS5/assets/90602424/c3104a3d-e118-44b0-9a02-8e49ab59467d){: style="float:right; width=500px;"}
 Deze wireframe bevat geen scroll functionaliteit, dit is de reden dat hij zo lang is. In deze wireframe zijn alle properties die te gebruiken zijn voor het maken van een modelview, de properties die met een tekstveld in te vullen zijn staan bij elkaar. Arrays die bestaan uit alleen strings kunnen worden ingevuld als een lijst die een veld toevoegt wanneer dit nodig is. De arrays die uit objecten bestaan worden hier weergegeven als een soort kaartje, op deze manier kun je een object volledig invullen en blijft het overzichtelijk. Een leeg kaartje wordt gegenereerd wanneer je op de ‘+’ knop drukt. ‘Import settings’ heeft meerdere array properties, om dit overzichtelijk te maken hebben deze properties hun eigen mapjes. Wanneer een mapje wordt geopend zal deze de hele sectie overnemen. Het idee voor deze mapjes is gehaald uit Datapanel.  
 <img align="right;" src="https://github.com/Timsel1/PortfolioS5/assets/90602424/a34bd9c2-ffe6-4efb-85c7-37765e4641e4" width=500px>  
 
