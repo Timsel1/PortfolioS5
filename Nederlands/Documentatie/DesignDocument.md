@@ -25,7 +25,7 @@
   - [UI Prototypes](#ui-prototype)
     - [Overzichtspagina’s](#overzichtspagina's)
     - [Pop-up](#pop-up)
-    - [Edit pagina’s](#edit-pagina's)
+    - [Edit pagina’s](#edit-paginas)
 - [System Integration](#system-intergration)
 
 ## Introduction
