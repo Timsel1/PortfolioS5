@@ -97,14 +97,12 @@ Mijn voorkeur ging naar de kaartjes, omdat dit er voor mij overzichtelijker en m
 
 #### Edit Pagina’s
 Mijn eerste design van een edit pagina was voor het maken van een modelview. De uitdaging zat bij properties die niet in één tekstveld kunnen worden genoteerd, denk aan arrays. Mijn eerste wireframe hiervoor zag er als volgt uit.
-<div>
-<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/96a5eb29-41fb-4b5b-9418-ab1e84ec7e54" width=500px align="right">
-<p align="left">Deze wireframe bevat geen scroll functionaliteit, dit is de reden dat hij zo lang is. In deze wireframe zijn alle properties die te gebruiken zijn voor het maken van een modelview, de properties die met een tekstveld in te vullen zijn staan bij elkaar. Arrays die bestaan uit alleen strings kunnen worden ingevuld als een lijst die een veld toevoegt wanneer dit nodig is. De arrays die uit objecten bestaan worden hier weergegeven als een soort kaartje, op deze manier kun je een object volledig invullen en blijft het overzichtelijk. Een leeg kaartje wordt gegenereerd wanneer je op de ‘+’ knop drukt. <br/>
 
-‘Import settings’ heeft meerdere array properties, om dit overzichtelijk te maken hebben deze properties hun eigen mapjes. Wanneer een mapje wordt geopend zal deze de hele sectie overnemen. Het idee voor deze mapjes is gehaald uit Datapanel. </p>
-<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/a34bd9c2-ffe6-4efb-85c7-37765e4641e4" width=500px style="margin-top:-630px"> 
-  
-</div>
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/96a5eb29-41fb-4b5b-9418-ab1e84ec7e54" width=500px align="right">  
+Deze wireframe bevat geen scroll functionaliteit, dit is de reden dat hij zo lang is. In deze wireframe zijn alle properties die te gebruiken zijn voor het maken van een modelview, de properties die met een tekstveld in te vullen zijn staan bij elkaar. Arrays die bestaan uit alleen strings kunnen worden ingevuld als een lijst die een veld toevoegt wanneer dit nodig is. De arrays die uit objecten bestaan worden hier weergegeven als een soort kaartje, op deze manier kun je een object volledig invullen en blijft het overzichtelijk. Een leeg kaartje wordt gegenereerd wanneer je op de ‘+’ knop drukt.
+
+‘Import settings’ heeft meerdere array properties, om dit overzichtelijk te maken hebben deze properties hun eigen mapjes. Wanneer een mapje wordt geopend zal deze de hele sectie overnemen. Het idee voor deze mapjes is gehaald uit Datapanel.  
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/a34bd9c2-ffe6-4efb-85c7-37765e4641e4" width=500px> 
  
 
 Na feedback te hebben ontvangen over deze wireframe, heb ik tabjes toegevoegd in plaats van dat je door alle secties moet scrollen. Dit maakt de UI een stuk duidelijker en zorgt ervoor dat de users niet continu hoeven te zoeken naar de sectie die ze nodig hebben.  
@@ -113,23 +111,28 @@ Na feedback te hebben ontvangen over deze wireframe, heb ik tabjes toegevoegd in
 
 #### Pop-up
 Het design en het idee van de pop-up voor het aanmaken van pages, subpages, secties, komt ook van datapanel. Door een pop-up te gebruiken kan de user de belangrijkste informatie snel invullen en daarna de keus maken of hij het onderdeel verder aan wil passen. Door de user niet meteen naar een ‘edit pagina’ te sturen kan de user ook snel meerdere onderdelen aanmaken, zonder continu terug te gaan naar de overzichtspagina. 
+|Wireframe|Datapanel|
+|:-------:|:-------:|
+|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/4738226b-8075-4e29-8de6-d4acfa6095f7" width=500px>|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/5a3be3e5-463b-4396-8c2c-ea5a9765835b" width=500px>|
 
 ### UI Prototypes
 #### Overzichtspagina’s
-Het design van de UI prototypes komt net als de wireframes van Datapanel zelf. Om Datapanel na te maken in Figma, heb ik assets van Stofloos gebruikt. Alles behalve de kaartjes heb ik uit Stofloos assets kunnen halen, wel heb ik tekst en icons aan moeten passen. De kaartjes bestaan wel uit assets van stofloos, deze assets heb ik gebruikt om ze na te maken zoals ze al in Datapanel stonden. 
-
+Het design van de UI prototypes komt net als de wireframes van Datapanel zelf. Om Datapanel na te maken in Figma, heb ik assets van Stofloos gebruikt. Alles behalve de kaartjes heb ik uit Stofloos assets kunnen halen, wel heb ik tekst en icons aan moeten passen. De kaartjes bestaan wel uit assets van stofloos, deze assets heb ik gebruikt om ze na te maken zoals ze al in Datapanel stonden.   
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/72bed2aa-f727-4921-9a15-3fbb815716fa" width=500px />
 
 #### Pop-up
-Ik moest de pop-up ook zelf namaken in Figma, natuurlijk heb ik dit gedaan met de assets van Stofloos. Na feedback te hebben ontvangen staan in deze pop-ups alleen nog tekstvelden en geen mapjes meer, de reden hiervoor is dat met de mapjes en de grootte van de pop-ups, de pop-ups snel onoverzichtelijk worden.
-
+Ik moest de pop-up ook zelf namaken in Figma, natuurlijk heb ik dit gedaan met de assets van Stofloos. Na feedback te hebben ontvangen staan in deze pop-ups alleen nog tekstvelden en geen mapjes meer, de reden hiervoor is dat met de mapjes en de grootte van de pop-ups, de pop-ups snel onoverzichtelijk worden.  
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/ebb758a9-148e-46ce-928b-bb8305a4fa6c" width=500px />
 
 #### Edit pagina’s
  De edit pagina’s bestaan voornamelijk uit tekstvelden, checkboxes, en mapjes. De reden hiervoor is overzichtelijkheid. De mapjes zijn properties die bestaan uit meerdere strings, numbers, objecten, etc. 
 
-Een array dat in zo’n mapje zit, ziet er als volgt uit.
+|Edit page|Inhoud mapje|
+|:-------:|:----------:|
+|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/c85eebd7-30d6-4bdc-a0dd-7c84c85e5405" width=500px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/015309bf-d8fd-4dad-8232-dc9ec14553a4" width=500px />|
 
-Een array van object moest er ook anders uit komen te zien, aangezien een object uit verschillende velden kan bestaan. Mijn idee hiervoor was om weer een soort card view te maken voor deze objecten. Een array van objecten bestaat dus uit kaartjes met de benodigde velden, zoals hier te zien is.
-
+Een array van object moest er ook anders uit komen te zien, aangezien een object uit verschillende velden kan bestaan. Mijn idee hiervoor was om weer een soort card view te maken voor deze objecten. Een array van objecten bestaat dus uit kaartjes met de benodigde velden, zoals hier te zien is.  
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/8c2ebb4e-e55a-4f59-8002-7724afb086e1" width=500px />  
 **(Library - Available Product Analysis, Expert Interview | Workshop - Prototyping)**
 
 ## System Integration:
