@@ -17,15 +17,15 @@
     - [Datapanel Webtoepassing](#datapanel-webtoepassing)
     - [API Gateway-toepassing](#api-gateway-toepassing)
     - [No-Code API-toepassing](#no-code-api-toepassing)
-- [User Interface (UI) Design](#user-interface-(ui)-design)
+- [User Interface Design](#user-interface-design)
   - [Wireframes](#wireframe)
-    - [De overzichtspagina’s](#de-overzichtspagina's)
-    - [Edit Pagina’s](#edit-pagina's)
+    - [Overzichtspagina’s](#overzichtspaginas)
+    - [Edit Pagina’s](#edit-paginas)
     - [Pop-up](#pop-up)
   - [UI Prototypes](#ui-prototype)
-    - [Overzichtspagina’s](#overzichtspagina's)
-    - [Pop-up](#pop-up)
-    - [Edit pagina’s](#edit-paginas)
+    - [Overzichtspagina’s](#overzichtspaginas-1)
+    - [Pop-up](#pop-up-1)
+    - [Edit pagina’s](#edit-paginas-1)
 - [System Integration](#system-intergration)
 
 ## Introduction
@@ -74,11 +74,11 @@ Deze verbindingen tussen de No-Code API-toepassing, de No-Code Database en de Au
 
 
 
-## User Interface (UI) Design:
+## User Interface Design:
 De UI bestaat uit 3 type pagina’s, de overzichtspagina’s, de edit pagina's en de pop-ups. Deze 3 types zijn nodig voor een intuïtieve 
 
 ### Wireframes
-#### De overzichtspagina’s
+#### Overzichtspagina’s
 Ik had de keuze tussen 2 opties bij het maken van de overzichtspagina’s. Beide opties waren al in gebruik in Datapanel. De eerste was een overview met ‘cards’, elke modelview, page, subpage en sectie heeft een eigen kaartje met de belangrijkste informatie weergegeven. verder bevat dit kaartje een knop voor het bewerken of verwijderen van de bijbehorende  modelview, page, subpage of sectie.
 De andere optie was een tabel met de belangrijkste informatie en de verwijder knop in de kolommen.
 
