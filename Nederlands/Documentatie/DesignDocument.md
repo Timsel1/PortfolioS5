@@ -39,6 +39,8 @@ Dit dossier dient als leidraad voor het ontwerp en de implementatie van dit proj
 ## System Architecture
 ### C1 model
 Het C1-model biedt een overzicht van de belangrijkste actoren en systemen die betrokken zijn bij het Datapanel systeem. Het model beschrijft de interacties en relaties tussen deze entiteiten:  
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/33a23e8a-1c71-4712-8ee4-89c46dc1d3e3" width=400px/>
+
 - **Admin** [Persoon]: Deze actor vertegenwoordigt beheerders of beheerders van het systeem. Ze hebben de mogelijkheid om het systeem te configureren en verschillende aspecten ervan aan te passen om aan de behoeften van de
 organisatie te voldoen.  
 - **User** [Persoon]: Gebruikers van het Datapanel kunnen verschillende rollen hebben. Ze maken gebruik van Datapanel om toegang te krijgen tot gegevens en met deze gegevens te interageren. De rollen van deze gebruikers kunnen variëren, afhankelijk van hun rechten en verantwoordelijkheden.  
@@ -50,37 +52,46 @@ Alle actoren en systemen zijn verbonden met:
 Dit C1-model biedt een overzicht van de belangrijkste actoren en systemen in het Datapanel systeem en de manier waarop ze met elkaar communiceren. Het is de basis voor het begrijpen van de relaties en verantwoordelijkheden binnen het systeem.
 
 ### C4 model
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/434d16a3-4980-41ab-88b7-8130c99f8fb5" width=400px/>
+
 #### Datapanel Webtoepassing
 De Datapanel webtoepassing is een cruciaal onderdeel van het systeem en speelt een essentiële rol bij het verstrekken van gegevens- en configuratiefuncties aan gebruikers via een webbrowser. Deze toepassing wordt uitgevoerd in een containeromgeving met NPM, TypeScript, Lit, en Redux. Het vormt de kern van de user interface en fungeert als het belangrijkste punt van interactie tussen gebruikers en het systeem.
-De Datapanel webtoepassing is nauw verbonden met twee andere belangrijke componenten:
-API Gateway-toepassing: Dit component, uitgevoerd in TypeScript, fungeert als een tussenliggende laag tussen de Datapanel webtoepassing en de rest van het systeem. Het biedt gegevens- en configuratiefuncties aan via een JSON/HTTPS API, waardoor externe systemen en services toegang kunnen krijgen tot de benodigde gegevens en functionaliteit.
-Authenticatietoepassing: Dit component, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, beheert alle aspecten van gebruikersauthenticatie. Het garandeert de beveiliging van het systeem door middel van strikte authenticatieprotocollen en -services.
+De Datapanel webtoepassing is nauw verbonden met twee andere belangrijke componenten:  
+- API Gateway-toepassing: Dit component, uitgevoerd in TypeScript, fungeert als een tussenliggende laag tussen de Datapanel webtoepassing en de rest van het systeem. Het biedt gegevens- en configuratiefuncties aan via een JSON/HTTPS API, waardoor externe systemen en services toegang kunnen krijgen tot de benodigde gegevens en functionaliteit.  
+- Authenticatietoepassing: Dit component, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, beheert alle aspecten van gebruikersauthenticatie. Het garandeert de beveiliging van het systeem door middel van strikte authenticatieprotocollen en -services.
+
 Samen vormen deze componenten de hoeksteen van het C4-model, waarbij de Datapanel webtoepassing fungeert als de toegangspoort tot de systeemfunctionaliteit, terwijl de API Gateway en de Authenticatietoepassing de gegevensdistributie en beveiligingsaspecten van het systeem verzorgen. Dit model is essentieel voor het begrijpen van de architectuur en interacties binnen het systeem.
 
 #### API Gateway-toepassing
 De API Gateway-toepassing speelt een cruciale rol in het systeem door alle gegevens- en configuratiefuncties aan te bieden via een JSON/HTTPS API. Deze toepassing wordt uitgevoerd in een containeromgeving met TypeScript en fungeert als een brug tussen gebruikers en het systeem.
-De API Gateway-toepassing staat in verbinding met drie andere containers:
-Authenticatietoepassing: Deze container, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, biedt alle authenticatiediensten binnen het systeem. Het waarborgt de veiligheid en de integriteit van het systeem door gebruik te maken van de kracht van Keycloak.
-No-Code API Toepassing: Deze container, eveneens geïmplementeerd in TypeScript, biedt gegevens- en configuratiefuncties aan via een JSON/HTTPS API. Het stelt externe systemen en services in staat om toegang te krijgen tot de gewenste gegevens en functionaliteit zonder de noodzaak van diepgaande programmeerkennis.
-No-Code Database: Deze container is geïmplementeerd als een Postgres database en fungeert als de opslagplaats voor alle modelgegevens, no-code elementen en gateway-configuraties. Het speelt een essentiële rol bij het bewaren van de systeeminformatie en ondersteunt de functionaliteit van de API Gateway-toepassing.
+De API Gateway-toepassing staat in verbinding met drie andere containers:  
+- Authenticatietoepassing: Deze container, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, biedt alle authenticatiediensten binnen het systeem. Het waarborgt de veiligheid en de integriteit van het systeem door gebruik te maken van de kracht van Keycloak.  
+- No-Code API Toepassing: Deze container, eveneens geïmplementeerd in TypeScript, biedt gegevens- en configuratiefuncties aan via een JSON/HTTPS API. Het stelt externe systemen en services in staat om toegang te krijgen tot de gewenste gegevens en functionaliteit zonder de noodzaak van diepgaande programmeerkennis.  
+- No-Code Database: Deze container is geïmplementeerd als een Postgres database en fungeert als de opslagplaats voor alle modelgegevens, no-code elementen en gateway-configuraties. Het speelt een essentiële rol bij het bewaren van de systeeminformatie en ondersteunt de functionaliteit van de API Gateway-toepassing.  
+
 Deze samenhang tussen de API Gateway, Authenticatietoepassing, No-Code API Toepassing en No-Code Database is van cruciaal belang om te begrijpen hoe gegevens en configuraties worden verwerkt en gedistribueerd binnen het systeem. Het API Gateway-model vormt de kern van onze architectuur, en deze containers werken samen om de functionaliteit van het systeem te ondersteunen en te beveiligen.
-No-Code API-toepassing
+
+#### No-Code API-toepassing
 De No-Code API-toepassing speelt een cruciale rol in het systeem door alle gegevens- en configuratiefuncties aan te bieden via een JSON/HTTPS API. Deze toepassing wordt uitgevoerd in een containeromgeving met TypeScript en stelt gebruikers in staat om gegevens te benaderen en configuraties uit te voeren zonder diepgaande programmeerkennis.
-De No-Code API-toepassing is verbonden met twee andere containers:
-No-Code Database: Deze container is geïmplementeerd als een Postgres-database en fungeert als de centrale opslagplaats voor alle modelgegevens, no-code-elementen en gateway-configuraties. Het speelt een essentiële rol bij het bewaren van gegevens en configuraties die nodig zijn voor de werking van het systeem.
-Authenticatietoepassing: Deze container, geïmplementeerd in TypeScript en ondersteund door Keycloak, biedt alle authenticatiediensten binnen het systeem. Het waarborgt de veiligheid en beveiliging van de No-Code API-toepassing en zorgt ervoor dat alleen geautoriseerde gebruikers toegang hebben tot de gegevens en functionaliteit.
+De No-Code API-toepassing is verbonden met twee andere containers:  
+- No-Code Database: Deze container is geïmplementeerd als een Postgres-database en fungeert als de centrale opslagplaats voor alle modelgegevens, no-code-elementen en gateway-configuraties. Het speelt een essentiële rol bij het bewaren van gegevens en configuraties die nodig zijn voor de werking van het systeem.  
+- Authenticatietoepassing: Deze container, geïmplementeerd in TypeScript en ondersteund door Keycloak, biedt alle authenticatiediensten binnen het systeem. Het waarborgt de veiligheid en beveiliging van de No-Code API-toepassing en zorgt ervoor dat alleen geautoriseerde gebruikers toegang hebben tot de gegevens en functionaliteit.  
+
 Deze verbindingen tussen de No-Code API-toepassing, de No-Code Database en de Authenticatietoepassing vormen een integraal onderdeel van het systeem. Ze zorgen ervoor dat gegevens en configuraties veilig en efficiënt worden verwerkt en gedistribueerd, en dat gebruikers toegang hebben tot de benodigde functionaliteit zonder de noodzaak van diepgaande programmeerkennis.
 
 
-
-
 ## User Interface Design:
-De UI bestaat uit 3 type pagina’s, de overzichtspagina’s, de edit pagina's en de pop-ups. Deze 3 types zijn nodig voor een intuïtieve 
+De UI bestaat uit 3 type pagina’s, de overzichtspagina’s, de edit pagina's en de pop-ups. Deze 3 types zijn de basis voor het proces van het maken van de Datapanel configuraties.  
 
 ### Wireframes
 #### Overzichtspagina’s
 Ik had de keuze tussen 2 opties bij het maken van de overzichtspagina’s. Beide opties waren al in gebruik in Datapanel. De eerste was een overview met ‘cards’, elke modelview, page, subpage en sectie heeft een eigen kaartje met de belangrijkste informatie weergegeven. verder bevat dit kaartje een knop voor het bewerken of verwijderen van de bijbehorende  modelview, page, subpage of sectie.
 De andere optie was een tabel met de belangrijkste informatie en de verwijder knop in de kolommen.
+|Cards overview|Table overview|
+|:------------:|:------------:|
+|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/3dc2dcd7-45b4-4d4a-95f1-29fc91157aed" width=400px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/ebbd37e5-ab09-42be-a601-11b5e9129b12" width=400px />  |
+|Existing cards overview|Existing tables|
+|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/f6ed3213-45a0-4ebe-98d7-134a8e93ac5f" width=400px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/96373db4-3756-47df-8d11-c13e63e05413" width=400px />|
 
 Mijn voorkeur ging naar de kaartjes, omdat dit er voor mij overzichtelijker en moderner uitzag. Ook vond ik dit beter bij het uiterlijk van Datapanel passen. Na het vragen van feedback op deze designs, bleek de voorkeur van de stakeholder ook naar het overzicht met de  ‘cards’ te gaan.
 
