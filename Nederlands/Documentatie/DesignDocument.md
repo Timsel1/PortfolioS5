@@ -14,9 +14,11 @@
 - [System Architecture](#system-architecture)
   - [C1 model](#c1-model)
   - [Container Diagram](#container-diagram)
-    - [Datapanel Webtoepassing](#datapanel-webtoepassing)
-    - [API Gateway-toepassing](#api-gateway-toepassing)
-    - [No-Code API-toepassing](#no-code-api-toepassing)
+    - [Datapanel Webtoepassing](#datapanel-web-application)
+    - [API Gateway-toepassing](#api-gateway-application)
+    - [No-Code API-toepassing](#no-code-api-application)
+    - [Authentication Application](#authentication-application)
+    - [No-Code Database](#no-code-database)
 - [User Interface Design](#user-interface-design)
   - [Wireframes](#wireframe)
     - [Overzichtspagina’s](#overzichtspaginas)
@@ -54,30 +56,37 @@ Dit C1-model biedt een overzicht van de belangrijkste actoren en systemen in het
 ### Container Diagram
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/434d16a3-4980-41ab-88b7-8130c99f8fb5" width=400px/>
 
-#### Datapanel Webtoepassing
+#### Datapanel Weba Application
 De Datapanel webtoepassing is een cruciaal onderdeel van het systeem en speelt een essentiële rol bij het verstrekken van gegevens- en configuratiefuncties aan gebruikers via een webbrowser. Deze toepassing wordt uitgevoerd in een containeromgeving met NPM, TypeScript, Lit, en Redux. Het vormt de kern van de user interface en fungeert als het belangrijkste punt van interactie tussen gebruikers en het systeem.
 De Datapanel webtoepassing is nauw verbonden met twee andere belangrijke componenten:  
-- API Gateway-toepassing: Dit component, uitgevoerd in TypeScript, fungeert als een tussenliggende laag tussen de Datapanel webtoepassing en de rest van het systeem. Het biedt gegevens- en configuratiefuncties aan via een JSON/HTTPS API, waardoor externe systemen en services toegang kunnen krijgen tot de benodigde gegevens en functionaliteit.  
-- Authenticatietoepassing: Dit component, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, beheert alle aspecten van gebruikersauthenticatie. Het garandeert de beveiliging van het systeem door middel van strikte authenticatieprotocollen en -services.
+- API Gateway-toepassing
+- Authenticatietoepassing
 
 Samen vormen deze componenten de hoeksteen van  de container diagram, waarbij de Datapanel webtoepassing fungeert als de toegangspoort tot de systeemfunctionaliteit, terwijl de API Gateway en de Authenticatietoepassing de gegevensdistributie en beveiligingsaspecten van het systeem verzorgen. Dit model is essentieel voor het begrijpen van de architectuur en interacties binnen het systeem.
 
-#### API Gateway-toepassing
+#### API Gateway Application
 De API Gateway-toepassing speelt een cruciale rol in het systeem door alle gegevens- en configuratiefuncties aan te bieden via een JSON/HTTPS API. Deze toepassing wordt uitgevoerd in een containeromgeving met TypeScript en fungeert als een brug tussen gebruikers en het systeem.
 De API Gateway-toepassing staat in verbinding met drie andere containers:  
-- Authenticatietoepassing: Deze container, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, biedt alle authenticatiediensten binnen het systeem. Het waarborgt de veiligheid en de integriteit van het systeem door gebruik te maken van de kracht van Keycloak.  
-- No-Code API Toepassing: Deze container, eveneens geïmplementeerd in TypeScript, biedt gegevens- en configuratiefuncties aan via een JSON/HTTPS API. Het stelt externe systemen en services in staat om toegang te krijgen tot de gewenste gegevens en functionaliteit zonder de noodzaak van diepgaande programmeerkennis.  
-- No-Code Database: Deze container is geïmplementeerd als een Postgres database en fungeert als de opslagplaats voor alle modelgegevens, no-code elementen en gateway-configuraties. Het speelt een essentiële rol bij het bewaren van de systeeminformatie en ondersteunt de functionaliteit van de API Gateway-toepassing.  
+- Authenticatietoepassing  
+- No-Code API Toepassing
+- No-Code Database
 
 Deze samenhang tussen de API Gateway, Authenticatietoepassing, No-Code API Toepassing en No-Code Database is van cruciaal belang om te begrijpen hoe gegevens en configuraties worden verwerkt en gedistribueerd binnen het systeem. Het API Gateway-model vormt de kern van onze architectuur, en deze containers werken samen om de functionaliteit van het systeem te ondersteunen en te beveiligen.
 
-#### No-Code API-toepassing
+#### No-Code API Application
 De No-Code API-toepassing speelt een cruciale rol in het systeem door alle gegevens- en configuratiefuncties aan te bieden via een JSON/HTTPS API. Deze toepassing wordt uitgevoerd in een containeromgeving met TypeScript en stelt gebruikers in staat om gegevens te benaderen en configuraties uit te voeren zonder diepgaande programmeerkennis.
 De No-Code API-toepassing is verbonden met twee andere containers:  
-- No-Code Database: Deze container is geïmplementeerd als een Postgres-database en fungeert als de centrale opslagplaats voor alle modelgegevens, no-code-elementen en gateway-configuraties. Het speelt een essentiële rol bij het bewaren van gegevens en configuraties die nodig zijn voor de werking van het systeem.  
-- Authenticatietoepassing: Deze container, geïmplementeerd in TypeScript en ondersteund door Keycloak, biedt alle authenticatiediensten binnen het systeem. Het waarborgt de veiligheid en beveiliging van de No-Code API-toepassing en zorgt ervoor dat alleen geautoriseerde gebruikers toegang hebben tot de gegevens en functionaliteit.  
-
+- No-Code Database 
+- Authenticatietoepassing
+  
 Deze verbindingen tussen de No-Code API-toepassing, de No-Code Database en de Authenticatietoepassing vormen een integraal onderdeel van het systeem. Ze zorgen ervoor dat gegevens en configuraties veilig en efficiënt worden verwerkt en gedistribueerd, en dat gebruikers toegang hebben tot de benodigde functionaliteit zonder de noodzaak van diepgaande programmeerkennis.
+
+#### Authentication Application
+Dit component, ook geïmplementeerd in TypeScript en ondersteund door Keycloak, beheert alle aspecten van gebruikersauthenticatie. Het garandeert de beveiliging van het systeem door middel van strikte authenticatieprotocollen en -services.
+
+#### No-Code Database 
+Deze container is geïmplementeerd als een Postgres database en functioneert  als de opslagplaats voor alle modelgegevens, no-code elementen en gateway-configuraties. Het speelt een essentiële rol bij het bewaren van de systeeminformatie en ondersteunt de functionaliteit van de API Gateway-toepassing.
+
 
 
 ## User Interface Design:
