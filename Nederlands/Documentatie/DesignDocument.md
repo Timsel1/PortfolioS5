@@ -13,7 +13,7 @@
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
   - [C1 model](#c1-model)
-  - [Container Diagram](#containerdiagram)
+  - [Container Diagram](#container-diagram)
     - [Datapanel Webtoepassing](#datapanel-webtoepassing)
     - [API Gateway-toepassing](#api-gateway-toepassing)
     - [No-Code API-toepassing](#no-code-api-toepassing)
