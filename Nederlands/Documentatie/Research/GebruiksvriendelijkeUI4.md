@@ -7,10 +7,10 @@ Met de reacties en ingevulde surveys van de usability test kan ik kijken of ik n
 ## Wat is het resultaat?
 Uit deze test bleek dat ik mijn doel voor een gebruiksvriendelijke UI had bereikt, maar dat er nog wel een aantal dingen missen. Een aantal opmerkingen die er waren had ik verwacht en waren dingen waar ik zelf ook tegenaan liep toen ik nog eens door de hele flow heen liep, zoals een breadcrumb om te zien waar je gebleven bent, een overview van secties en dat er een kans is dat de “card overview” onoverzichtelijk kan worden als er te veel kaartjes zijn.
 De opmerkingen waar ik zelf niet tegen aan liep hebben me een nog beter inzicht gegeven in wat er van mijn UI wordt verwacht. 
-|Resultaten|verwachte opmerkingen|
-|:--------:|:-------------------:|
-|![UsabilityTestAnswer1](https://github.com/Timsel1/PortfolioS5/assets/90602424/0c9d0944-9ddf-4857-85db-1ceae15ac36f)|![UsabilityTestAnswer4](https://github.com/Timsel1/PortfolioS5/assets/90602424/a8c4b3fc-942e-4650-b0f2-48da0e39b416)|
-|![UsabilityTestAnswer3](https://github.com/Timsel1/PortfolioS5/assets/90602424/c7c3b712-35ad-49ca-84af-8bedb4af6a3a)|![1Answer](https://github.com/Timsel1/PortfolioS5/assets/90602424/fd8d6d69-62eb-48d2-a75a-54b8238c93a0)|
+|Resultaten|Verwachtte opmerkingen|Onverwachtte opmerkingen|
+|:--------:|:--------------------:|:----------------------:|
+|![UsabilityTestAnswer1](https://github.com/Timsel1/PortfolioS5/assets/90602424/0c9d0944-9ddf-4857-85db-1ceae15ac36f)|![UsabilityTestAnswer4](https://github.com/Timsel1/PortfolioS5/assets/90602424/a8c4b3fc-942e-4650-b0f2-48da0e39b416)|![1Answer2](https://github.com/Timsel1/PortfolioS5/assets/90602424/9c22dcb7-14ba-437b-9cf7-598e7183779b)|
+|![UsabilityTestAnswer3](https://github.com/Timsel1/PortfolioS5/assets/90602424/c7c3b712-35ad-49ca-84af-8bedb4af6a3a)|![1Answer](https://github.com/Timsel1/PortfolioS5/assets/90602424/fd8d6d69-62eb-48d2-a75a-54b8238c93a0)|![UsabilityTestAnswer10](https://github.com/Timsel1/PortfolioS5/assets/90602424/be879f76-d7d8-42e0-a5ed-689b325665fe)|
 
 Alle antwoorden op de survey zijn [hier](https://docs.google.com/spreadsheets/d/1WO5z2uEaF3iVbj06BOAfJkJtl493ftZ-gRXCrJT_GeQ/edit?usp=sharing) te vinden.
  
