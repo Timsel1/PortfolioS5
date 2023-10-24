@@ -16,3 +16,5 @@ Ik heb de prototypes meerdere malen laten zien aan mijn stagebegeleider en feedb
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 Met deze prototypes kan ik een usability test uitvoeren en meer feedback van de stakeholders verzamelen. 
+
+Lees deel 4 [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/GebruiksvriendelijkeUI4.md)
