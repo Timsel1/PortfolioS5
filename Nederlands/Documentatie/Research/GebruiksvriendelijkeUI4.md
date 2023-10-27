@@ -15,7 +15,7 @@ De opmerkingen waar ik zelf niet tegen aan liep hebben me een nog beter inzicht 
 Alle antwoorden op de survey zijn [hier](https://docs.google.com/spreadsheets/d/1WO5z2uEaF3iVbj06BOAfJkJtl493ftZ-gRXCrJT_GeQ/edit?usp=sharing) te vinden.
  
 ## Wat is de kwaliteit van het resultaat?
-Ik heb resultaten van de stakeholders (developers van Stofloos) en weet nu waar ik aan kan werken/wat ik kan verbeteren binnen mijn UI. 
+Ik heb met deze survey mijn prototype kunnen valideren. Aangezien de resultaten van de stakeholders (developers van Stofloos) komen weet ik waar ik aan kan werken/wat ik kan verbeteren binnen mijn UI. 
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 Aangezien er missende features waren die niet voor extra werk zullen zorgen, kan ik beginnen aan de overview pagina’s van de UI. Voor de missende features die ik niet had voorzien, zal ik nieuwe oplossingen moeten verzinnen.
