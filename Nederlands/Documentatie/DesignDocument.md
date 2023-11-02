@@ -20,7 +20,7 @@
     - [Authentication Application](#authentication-application)
     - [No-Code Database](#no-code-database)
 - [User Interface Design](#user-interface-design)
-  - [Wireframes](#wireframe)
+  - [Wireframes](#wireframes)
     - [Overzichtspagina’s](#overzichtspaginas)
     - [Edit Pagina’s](#edit-paginas)
     - [Pop-up](#pop-up)
