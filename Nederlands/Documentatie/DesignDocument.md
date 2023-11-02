@@ -94,18 +94,19 @@ De UI bestaat uit 3 type pagina’s, de overzichtspagina’s, de edit pagina's e
 
 ### Wireframes
 #### Overzichtspagina’s
-Ik had de keuze tussen 2 opties bij het maken van de overzichtspagina’s. Beide opties waren al in gebruik in Datapanel. De eerste was een overview met ‘cards’, elke modelview, page, subpage en sectie heeft een eigen kaartje met de belangrijkste informatie weergegeven. verder bevat dit kaartje een knop voor het bewerken of verwijderen van de bijbehorende  modelview, page, subpage of sectie.
+Na het bekijken van Datapanel bleek het dat er  2 passende opties waren voor de overzichtspagina’s. Beide opties waren al in gebruik in Datapanel. De eerste was een overview met ‘cards’, elke modelview, page, subpage en sectie heeft een eigen kaartje met de belangrijkste informatie weergegeven. Verder bevat dit kaartje een knop voor het bewerken of verwijderen van de bijbehorende  modelview, page, subpage of sectie.  
 De andere optie was een tabel met de belangrijkste informatie en de verwijder knop in de kolommen.
+
 |Cards overview|Table overview|
 |:------------:|:------------:|
 |<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/3dc2dcd7-45b4-4d4a-95f1-29fc91157aed" width=500px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/ebbd37e5-ab09-42be-a601-11b5e9129b12" width=500px />  |
 |Existing cards overview|Existing tables|
 |<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/f6ed3213-45a0-4ebe-98d7-134a8e93ac5f" width=500px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/96373db4-3756-47df-8d11-c13e63e05413" width=500px />|
 
-Mijn voorkeur ging naar de kaartjes, omdat dit er voor mij overzichtelijker en moderner uitzag. Ook vond ik dit beter bij het uiterlijk van Datapanel passen. Na het vragen van feedback op deze designs, bleek de voorkeur van de stakeholder ook naar het overzicht met de  ‘cards’ te gaan.
+Ik heb de cardview aangeraden, omdat het beter bij het uiterlijk van Datapanel past. Na het vragen van feedback op deze designs, bleek de voorkeur van de stakeholder ook naar de cardview  te gaan.
 
 #### Edit Pagina’s
-Mijn eerste design van een edit pagina was voor het maken van een modelview. De uitdaging zat bij properties die niet in één tekstveld kunnen worden genoteerd, denk aan arrays. Mijn eerste wireframe hiervoor zag er als volgt uit.
+Het eerste design van een edit pagina was voor het maken van een modelview. De uitdaging zat bij properties die niet in één tekstveld kunnen worden genoteerd, denk aan arrays. De eerste wireframe hiervoor zag er als volgt uit.
 |Eerste wireframe||
 |:-----:|:---------|
 |<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/96a5eb29-41fb-4b5b-9418-ab1e84ec7e54" width=700px>|Deze wireframe bevat geen scroll functionaliteit, dit is de reden dat hij zo lang is. In deze wireframe zijn alle properties die te gebruiken zijn voor het maken van een modelview, de properties die met een tekstveld in te vullen zijn staan bij elkaar. Arrays die bestaan uit alleen strings kunnen worden ingevuld als een lijst die een veld toevoegt wanneer dit nodig is. De arrays die uit objecten bestaan worden hier weergegeven als een soort kaartje, op deze manier kun je een object volledig invullen en blijft het overzichtelijk. Een leeg kaartje wordt gegenereerd wanneer je op de ‘+’ knop drukt.|
@@ -114,7 +115,7 @@ Mijn eerste design van een edit pagina was voor het maken van een modelview. De 
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/a34bd9c2-ffe6-4efb-85c7-37765e4641e4" width=500px> 
  
 
-Na feedback te hebben ontvangen over deze wireframe, heb ik tabjes toegevoegd in plaats van dat je door alle secties moet scrollen. Dit maakt de UI een stuk duidelijker en zorgt ervoor dat de users niet continu hoeven te zoeken naar de sectie die ze nodig hebben.  
+Na feedback te hebben ontvangen over deze wireframe, zijn er tabjes toegevoegd in plaats van dat de user door alle secties moet scrollen. Dit maakt de UI een stuk duidelijker en zorgt ervoor dat de users niet continu hoeven te zoeken naar de sectie die ze nodig hebben.
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/6e7fe00d-b792-4468-9b64-d5a539e9d017" width=500px>
 
 
@@ -126,11 +127,11 @@ Het design en het idee van de pop-up voor het aanmaken van pages, subpages, sect
 
 ### UI Prototypes
 #### Overzichtspagina’s
-Het design van de UI prototypes komt net als de wireframes van Datapanel zelf. Om Datapanel na te maken in Figma, heb ik assets van Stofloos gebruikt. Alles behalve de kaartjes heb ik uit Stofloos assets kunnen halen, wel heb ik tekst en icons aan moeten passen. De kaartjes bestaan wel uit assets van stofloos, deze assets heb ik gebruikt om ze na te maken zoals ze al in Datapanel stonden.   
+Het design van de UI prototypes komt net als de wireframes van Datapanel zelf. Om Datapanel na te maken in Figma, zijn de assets van Stofloos gebruikt. Alles behalve de kaartjes komt uit de Stofloos assets, wel zijn de tekst en icons aangepast. De kaartjes bestaan ook uit assets van stofloos, deze assets zijn gebruikt om ze na te maken zoals ze al in Datapanel stonden. 
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/72bed2aa-f727-4921-9a15-3fbb815716fa" width=500px />
 
 #### Pop-up
-Ik moest de pop-up ook zelf namaken in Figma, natuurlijk heb ik dit gedaan met de assets van Stofloos. Na feedback te hebben ontvangen staan in deze pop-ups alleen nog tekstvelden en geen mapjes meer, de reden hiervoor is dat met de mapjes en de grootte van de pop-ups, de pop-ups snel onoverzichtelijk worden.  
+De pop-up moest ook nagemaakt worden in Figma, natuurlijk is dit gedaan met de assets van Stofloos. Na feedback te hebben ontvangen staan in deze pop-ups alleen nog tekstvelden en geen mapjes meer, de reden hiervoor is dat met de mapjes en de grootte van de pop-ups, de pop-ups snel onoverzichtelijk worden.
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/ebb758a9-148e-46ce-928b-bb8305a4fa6c" width=500px />
 
 #### Edit pagina’s
@@ -140,7 +141,7 @@ Ik moest de pop-up ook zelf namaken in Figma, natuurlijk heb ik dit gedaan met d
 |:-------:|:----------:|
 |<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/c85eebd7-30d6-4bdc-a0dd-7c84c85e5405" width=500px />|<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/015309bf-d8fd-4dad-8232-dc9ec14553a4" width=500px />|
 
-Een array van object moest er ook anders uit komen te zien, aangezien een object uit verschillende velden kan bestaan. Mijn idee hiervoor was om weer een soort card view te maken voor deze objecten. Een array van objecten bestaat dus uit kaartjes met de benodigde velden, zoals hier te zien is.  
+Een array van object moest er ook anders uit komen te zien, aangezien een object uit verschillende velden kan bestaan. Het idee hiervoor was om weer een soort card view te maken voor deze objecten. Een array van objecten bestaat dus uit kaartjes met de benodigde velden, zoals hier te zien is.  
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/8c2ebb4e-e55a-4f59-8002-7724afb086e1" width=500px />  
 **(Library - Available Product Analysis, Expert Interview | Workshop - Prototyping)**
 
