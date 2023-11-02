@@ -54,7 +54,7 @@ Alle actoren en systemen zijn verbonden met:
 Dit C1-model biedt een overzicht van de belangrijkste actoren en systemen in het Datapanel systeem en de manier waarop ze met elkaar communiceren. Het is de basis voor het begrijpen van de relaties en verantwoordelijkheden binnen het systeem.
 
 ### Container Diagram
-<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/5b3c138a-5d31-42f8-b349-3f880d0184c0" width=400px/>
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/d68e773a-9cfe-4de5-91b8-8e278aa512af" width=400px/>
 
 #### Datapanel Weba Application
 De Datapanel webtoepassing is een cruciaal onderdeel van het systeem en speelt een essentiële rol bij het verstrekken van gegevens- en configuratiefuncties aan gebruikers via een webbrowser. Deze toepassing wordt uitgevoerd in een containeromgeving met NPM, TypeScript, Lit, en Redux. Het vormt de kern van de user interface en fungeert als het belangrijkste punt van interactie tussen gebruikers en het systeem.
