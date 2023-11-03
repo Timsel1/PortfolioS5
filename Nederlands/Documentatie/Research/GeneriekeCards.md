@@ -17,7 +17,7 @@ Dit heb ik voor elkaar gekregen door hulp te vragen aan de developers bij Stoflo
 
 ## Wat is het resultaat?
 Ik heb nu een overview pagina voor de modelviews, pages, subpages en secties met “cards” die werken aan de hand van configuraties voor het laten zien van informatie. 
-Ids worden nog niet correct weergegeven, dit ligt aan de custom functie van stofloos.
+Ids worden hier alleen nog niet correct weergegeven.
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/3723c185-53b7-46ff-80cb-ab6aa24c5ae5" width=400px; />
 
 
