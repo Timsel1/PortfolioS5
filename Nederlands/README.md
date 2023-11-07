@@ -1,4 +1,4 @@
-## Inhoudsopgave
+# Inhoudsopgave
 - [Documentatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie)
   - [Projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md)
   - [Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)
