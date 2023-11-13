@@ -4,7 +4,7 @@
   - [Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)
   - [Project Report](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/ProjectReport.md)
   - [Logboek](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek.md)
-  - [Retrospective](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Retroscpective.md)
+  - [Retrospective](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Retrospective.md)
   - [Research](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research)
     - [Gebruiksvriendelijke UI (1)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/GebruiksvriendelijkeUI1.md)
     - [Gebruiksvriendelijke UI (2)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/GebruiksvriendelijkeUI2.md)
