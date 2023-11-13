@@ -37,7 +37,7 @@ De inleiding dient als opening van het projectrapport. Het schetst het doel, de 
 - [Conclusie:](#conclusie)  
   Samenvatting van de belangrijkste bevindingen en resultaten die voortvloeien uit het project.
 - [Aanbevelingen:](#aanbevelingen)  
-  Suggesties voor mogelijke acties of volgende stappen op basis van de bevindingen van het project.
+  Suggesties voor mogelijke acties of volgende stappen op basis van de bevindingen van het project.  
 -[Persoonlijke Reflectie:](#persoonlijke-reflectie)  
   Reflectie op persoonlijke ervaringen, uitdagingen en leermomenten tijdens het uitvoeren van het project.
 
