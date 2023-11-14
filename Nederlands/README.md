@@ -1,8 +1,8 @@
 # Inhoudsopgave
+- [Project Report](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/ProjectReport.md)
 - [Documentatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie)
   - [Projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md)
   - [Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)
-  - [Project Report](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/ProjectReport.md)
   - [Logboek](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek.md)
   - [Retrospective](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Retrospective.md)
   - [Research](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research)
