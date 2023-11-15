@@ -43,3 +43,26 @@ De inleiding dient als opening van het projectrapport. Het schetst het doel, de 
 
 
 ## Probleem en kans
+Op dit moment worden bij Stofloos Datapanel configuraties handmatig in JSON geschreven, dit is tijdrovend en vatbaar voor fouten. Er is hier een kans om de efficiëntie van het ontwikkelingsproces te versnellen en gebruiksvriendelijker te maken. Voor meer informatie kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
+
+## Doelstelling
+Het doel van dit project is om een gebruiksvriendelijke user interface voor het configureren van Datapanel te maken. Dit zal het proces minder foutgevoelig maken en de benodigde tijd verminderen. Ook moet het ervoor zorgen dat het configureren van Datapanel toegankelijk is voor gebruikers met een mindere technische kennis.
+Wanneer deze processen gestroomlijnd zijn is er meer tijd om te werken aan de andere projecten, wanneer hier meer tijd voor is zal de kwaliteit die Stofloos biedt nog hoger worden.
+Meer informatie hierover is te vinden in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md).
+
+## Onderzoeksvragen
+Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment: 
+- Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?
+- Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?
+
+Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperkingen zijn bij het creëren van Datapanel configuraties en hoe ik dit kan oplossen op een manier waarbij alle end users hier profijt van hebben.
+Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan. Deze onderzoeken zijn [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research) te vinden.
+
+## Aanpak
+stel eisen vast
+maak wireframes en prototypes
+valideer 
+begin aan coderen/implementatie
+vraag continue feedback
+elke 2 weken sprint review
+
