@@ -21,5 +21,5 @@ Meer informatie en onderbouwing is [hier](https://github.com/Timsel1/PortfolioS5
 
 ## Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?
 Om de UI voor deze configuraties gebruiksvriendelijk te maken en houden is feedback van de end users nodig. Deze feedback is vanaf het begin nodig. Om te zorgen dat het design is wat de end user in gedachte had, is er eerst een wireframe gemaakt. Na de feedback en goedkeuring van de product owner is er een prototype gemaakt. Met dit prototype is de UI gemaakt zoals die er uiteindelijk uit moet komen te zien en met de functionaliteiten die de UI zal bieden. Na goedkeuring van het prototype kon er begonnen worden aan de UI binnen Datapanel.
-Om de onderzoeken van dit proces in meer detail door te nemen kan [hier](https://github.com/Timsel1/PortfolioS5/new/main/Nederlands/Documentatie/Research/UIDesign) gekeken worden.
+Om de onderzoeken van dit proces in meer detail door te nemen kan [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research/UIDesign) gekeken worden.
 
