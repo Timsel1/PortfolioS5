@@ -8,16 +8,16 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 |:--------:|:-:|
 |Family name , initials:|Meijvogel, T.M.|
 |Student number:|462739|
-|project period: (from – till)|04/09/2023|
+|project period: (from – till)|04/09/2023 - |
 |**Company:**||
 |Name company/institution:|Stofloos|
 |Department:|Software|
-|Address:||
+|Address:|Klokgebouw 269, 5716 AC Eindhoven|
 |**Company tutor:**||
 |Family name, initials:|Spijker, J.S.|
-|Position:||
+|Position:|Software Engineer|
 |**University tutor:**||
-|Family name , initials:||
+|Family name , initials:|Coenen, F.W.J.C.|
 |**Final portfolio:**||
 |Title:||
 |Date: ||
