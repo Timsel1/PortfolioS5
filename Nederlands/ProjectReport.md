@@ -59,10 +59,23 @@ Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperk
 Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan. Deze onderzoeken zijn [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research) te vinden.
 
 ## Aanpak
-stel eisen vast
-maak wireframes en prototypes
-valideer 
-begin aan coderen/implementatie
-vraag continue feedback
-elke 2 weken sprint review
+Voor een volledige beschrijving van de aanpak voor dit project kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#aanpak-en-planning) worden gekeken in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md). Om dit kort samen te vatten:  
+__Agile methode:__  
+Tijdens deze stage wordt er gewerkt met scrum, progres en taken worden bijgehouden met Stofloos’ ticketsysteem. Met scrum werk je in sprints, mijn sprints zijn 2 weken lang, aan het eind van elke sprint is er een sprint oplevering, na deze sprint oplevering wordt een retrospective ingevuld. Tijdens dit project zal er continu feedback en hulp worden gevraagd aan de stagebegeleider en andere developers bij Stofloos, om te garanderen dat tijdens de sprints ook correct.
+__coderen:__  
+Er wordt lokaal gecodeerd, er wordt gebruikgemaakt van gitflow, op deze manier gaat er niets kapot in de productiecode wanneer er wordt gewerkt aan het project.
+De frontend wordt getest met code/peer reviews en usability tests, voor de backend zullen unit tests worden gebruikt. 
+__Onderzoeken:__  
+De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/).
+
+## Logische beschrijving van het proces en de resultaten
+Als de stappen die zijn genomen tijdens dit project kort worden samengevat, ziet dit er als volgt uit:  
+- Onderzoek welke requirements er zijn  voor het project. 
+- Aan de hand van dit resultaat, ontwerp wireframes en prototypes.
+- Valideer de gemaakte wireframes en prototypes.
+- Begin aan het programmeren van de frontend aan de hand van het onderzoek en de prototypes.
+- Valideer de gemaakte UI, door middel van een usability test.
+
+Deze stappen zijn duidelijk te zien in dit portfolio en kunnen [hier] op chronologische volgorde worden gevolgd met bijbehorende onderzoeksmethodes. 
+
 
