@@ -35,7 +35,7 @@ Verspreiding
 
 ## Inhoudsopgave
 
-- ### [Projectopdracht](#projectopdracht)	
+- [Projectopdracht](#projectopdracht)	
 	- [Context](#context)	
 	- [Doel van het project](#doel-van-het-project)	
 	- [De opdracht](#de-opdracht)	
@@ -43,18 +43,18 @@ Verspreiding
 	- [Randvoorwaarden](#randvoorwaarden)	
 	- [Onderzoeksvragen](#onderzoeksvragen)	
 	- [Eindproducten](#eindproducten)	
-- ### [Aanpak en Planning](#aanpak-en-planning)	
+- [Aanpak en Planning](#aanpak-en-planning)	
 	- [Aanpak](#aanpak)	
 	- [Onderzoeksmethoden](#onderzoeksmethoden)	
 	- [Leeruitkomsten](#leeruitkomsten)	
 	- [Opdeling van het project](#opdeling-van-het-project)	
 	- [Tijdplan](#tijdplan)	
-- ### [Projectorganisatie](#projectorganisatie)	
+- [Projectorganisatie](#projectorganisatie)	
 	- [Teamleden](#teamleden)	
 	- [Communicatie](#communicatie)
  	- [Testomgeving en benodigdheden](#testomgeving-en-benodigdheden)	
 	- [Configuratiemanagement](#configuratiemanagement)	
-- ### [Financiën en Risico’s](#financiën-en-risico’s)	
+- [Financiën en Risico’s](#financiën-en-risico’s)	
 	- [Risico’s en uitwijkactiviteiten](#risico’s-en-uitwijkactiviteiten)	
 
 
