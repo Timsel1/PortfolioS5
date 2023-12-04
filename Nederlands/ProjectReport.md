@@ -60,12 +60,12 @@ Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kle
 
 ## Aanpak
 Voor een volledige beschrijving van de aanpak voor dit project kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#aanpak-en-planning) worden gekeken in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md). Om dit kort samen te vatten:  
-__Agile methode:__  
-Tijdens deze stage wordt er gewerkt met scrum, progres en taken worden bijgehouden met Stofloos’ ticketsysteem. Met scrum werk je in sprints, mijn sprints zijn 2 weken lang, aan het eind van elke sprint is er een sprint oplevering, na deze sprint oplevering wordt een retrospective ingevuld. Tijdens dit project zal er continu feedback en hulp worden gevraagd aan de stagebegeleider en andere developers bij Stofloos, om te garanderen dat tijdens de sprints ook correct.
-__coderen:__  
+### Agile methode:  
+Tijdens deze stage wordt er gewerkt met scrum, progres en taken worden bijgehouden met Stofloos’ ticketsysteem. Met scrum werk je in sprints, mijn sprints zijn 2 weken lang, aan het eind van elke sprint is er een sprint oplevering, na deze sprint oplevering wordt een retrospective ingevuld. Tijdens dit project zal er continu feedback en hulp worden gevraagd aan de stagebegeleider en andere developers bij Stofloos, om te garanderen dat tijdens de sprints ook correct.  
+### coderen:  
 Er wordt lokaal gecodeerd, er wordt gebruikgemaakt van gitflow, op deze manier gaat er niets kapot in de productiecode wanneer er wordt gewerkt aan het project.
 De frontend wordt getest met code/peer reviews en usability tests, voor de backend zullen unit tests worden gebruikt. 
-__Onderzoeken:__  
+### Onderzoeken:  
 De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/).
 
 ## Logische beschrijving van het proces en de resultaten
