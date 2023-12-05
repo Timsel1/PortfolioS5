@@ -25,7 +25,7 @@ Deze documenten bevatten informatie over de stappen die ik heb genomen tijdens h
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Generieke Cards](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GeneriekeCards.md)|Design pattern research, Expert interview| | | |Code review |
+|[Generieke Cards](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/GeneriekeCards.md)|Design pattern research, Expert interview| | | |Code review |
 ||
 ||
 
