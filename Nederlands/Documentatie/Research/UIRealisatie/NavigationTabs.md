@@ -6,10 +6,10 @@ Ik ben op zoek gegaan binnen Datapanel, naar een pagina die al gebruik maakte va
 
 ## Wat is het resultaat?
 Ik heb nu een tabjescomponent dat mij laat wisselen van modelviews naar pagina’s, subpagina’s en secties. Dit kan ik ook weer hergebruiken voor mijn edit pagina's, waar er ook per object een aparte view nodig is.
+![NavigationTabs](https://github.com/Timsel1/PortfolioS5/assets/90602424/9e7fd71a-9044-4d19-a880-498459dcb48f)
 
 ## Wat is de kwaliteit van het resultaat?
 Ik heb dit laten testen door mijn stagebegeleider en de code laten zien om te bevestigen dat ik de configuratie op de juiste manier had gebruikt.
-![NavigationTabs](https://github.com/Timsel1/PortfolioS5/assets/90602424/9e7fd71a-9044-4d19-a880-498459dcb48f)
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 Nu de Overview pagina visueel af is, kan ik gaan werken aan de visualisatie van de edit pagina's.
