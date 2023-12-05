@@ -1,13 +1,13 @@
 # Requirements document
 
 ## Inhoudsopgave
-- Introductie	
-- Project Overview	
-- Functional Requirements	
-- Non-Functional Requirements	
-- System Architecture	
-- User Interfaces	
-- Testing Requirements	
+- [Introductie](#introductie)	
+- [Project Overview](#project-overview)
+- [Functional Requirements](#functional-requirements)
+- [Non-Functional Requirements](#non-functional-requirements)
+- [System Architecture](#system-architecture)
+- [User Interfaces](#user-interfaces)
+- [Testing Requirements](#testing-requirements)
 
 
 ## Introductie
@@ -83,7 +83,8 @@ Voor het valideren van de functionaliteiten van de Datapanel Configuratie Gebrui
 #### Acceptatiecriteria
 De acceptatiecriteria stellen de voorwaarden vast waaraan het systeem moet voldoen om als succesvol te worden beschouwd. Deze criteria omvatten:  
 - Alle testscenario's moeten succesvol worden doorlopen zonder kritieke fouten.
-- De Datapanel Configuratie Gebruikersinterface moet efficiënt en gebruiksvriendelijk zijn, zodat zelfs gebruikers met beperkte technische kennis ermee kunnen werken.  
+- De Datapanel Configuratie Gebruikersinterface moet efficiënt en gebruiksvriendelijk zijn, zodat zelfs gebruikers met beperkte technische kennis ermee kunnen werken.
+
 De acceptatiecriteria zullen worden beoordeeld om te bepalen of het project met succes is afgerond en het systeem klaar is voor implementatie.
 
 
