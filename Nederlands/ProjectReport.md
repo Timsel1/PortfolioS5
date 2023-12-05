@@ -76,6 +76,6 @@ Als de stappen die zijn genomen tijdens dit project kort worden samengevat, ziet
 - Begin aan het programmeren van de frontend aan de hand van het onderzoek en de prototypes.
 - Valideer de gemaakte UI, door middel van een usability test.
 
-Deze stappen zijn duidelijk te zien in dit portfolio en kunnen [hier] op chronologische volgorde worden gevolgd met bijbehorende onderzoeksmethodes. 
+Deze stappen zijn duidelijk te zien in dit portfolio en kunnen [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Proces.md) op chronologische volgorde worden gevolgd met bijbehorende onderzoeksmethodes. 
 
 
