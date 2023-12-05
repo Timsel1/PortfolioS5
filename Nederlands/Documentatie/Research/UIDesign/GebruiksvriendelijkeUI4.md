@@ -20,4 +20,4 @@ Ik heb met deze survey mijn prototype kunnen valideren. Aangezien de resultaten 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 Aangezien er missende features waren die niet voor extra werk zullen zorgen, kan ik beginnen aan de overview pagina’s van de UI. Voor de missende features die ik niet had voorzien, zal ik nieuwe oplossingen moeten verzinnen.
 
-Lees de volgende stap voor het ontwikkelen van de UI [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GeneriekeCards.md).
+Lees de volgende stap voor het ontwikkelen van de UI [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/GeneriekeCards.md).
