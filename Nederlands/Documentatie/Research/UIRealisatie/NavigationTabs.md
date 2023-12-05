@@ -9,6 +9,7 @@ Ik heb nu een tabjescomponent dat mij laat wisselen van modelviews naar paginaâ€
 
 ## Wat is de kwaliteit van het resultaat?
 Ik heb dit laten testen door mijn stagebegeleider en de code laten zien om te bevestigen dat ik de configuratie op de juiste manier had gebruikt.
+![NavigationTabs](https://github.com/Timsel1/PortfolioS5/assets/90602424/9e7fd71a-9044-4d19-a880-498459dcb48f)
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 Nu de Overview pagina visueel af is, kan ik gaan werken aan de visualisatie van de edit pagina's.
