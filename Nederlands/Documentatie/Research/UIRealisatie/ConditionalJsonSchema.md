@@ -7,13 +7,13 @@ een voorbeeld terug en een naam voor dit principe, conditional json schemas.
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/3e239015-7258-4212-bd61-00755802d258" style=" width=500px;" />
 
 Hierna heb ik gezocht naar conditional json schemas, om te zien hoe het wordt gebruikt. Door dit op te zoeken, vond ik meerdere manieren voor conditional schemas. Door de voorbeelden die ik heb gevonden bleek de manier van “if, then, else”
-de beste oplossing te zijn voor mijn probleem.
-https://json-schema.org/understanding-json-schema/reference/conditionals#if-then-else 
-Deze oplossing werkte niet meteen, de json-configurator component kon deze conditional statements nog niet uitlezen. Hiervoor heb ik hulp gevraagd van een van de Stofloos developers en hierna werkte de conditional json schema.
+de beste oplossing te zijn voor mijn probleem.       
+Deze oplossing werkte niet meteen, de json-configurator component kon deze conditional statements nog niet uitlezen. Hiervoor heb ik hulp gevraagd van een van de Stofloos developers en hierna werkte de conditional json schema.  
+De site die ik heb gebruikt als voorbeeld voor de verschillende methodes is [hier](https://json-schema.org/understanding-json-schema/reference/conditionals) te vinden.
 
 ## Wat is het resultaat?
 Er kan nu een content type worden gekozen door een user en de bijbehorende properties worden hierbij laten zien. De user kan deze hierna aanpassen. De user kan nog niet in de mapjes voor object en arrays.
-<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/617092fe-c3e0-426b-bb25-da2f60c1f2cd" style=" width=500px;" />
+<img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/617092fe-c3e0-426b-bb25-da2f60c1f2cd" style=" width=200px;" />
 
 ## Wat is de kwaliteit van het resultaat?
 Ik heb dit gemaakt samen met een van de developers van Stofloos, dit heeft ervoor gezorgd dat alles op de juiste manier is geïmplementeerd.
