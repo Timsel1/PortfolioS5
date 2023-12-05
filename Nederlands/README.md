@@ -1,5 +1,6 @@
 # Inhoudsopgave
 - [Project Report](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/ProjectReport.md)
+- [Proces](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Proces.md)
 - [Documentatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie)
   - [Projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md)
   - [Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)
