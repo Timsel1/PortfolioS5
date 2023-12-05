@@ -3,6 +3,8 @@
 - [Sprint 1](#sprint-1)
 - [Sprint 2](#sprint-2)
 - [Sprint 3](#sprint-3)
+- [Sprint 4](#sprint-4)
+- [Sprint 5](#sprint-5)
 
 ## Sprint 0
 ### Wat ging goed?
@@ -20,7 +22,7 @@ Focus leggen op hoofdtaken.
 ### Doe minder
 afgeleid worden door minder belangrijke taken.
 
-# Sprint 1
+## Sprint 1
 ### Wat ging goed?
 Tijdig vragen van feedback op mijn producten en documentatie.
 
@@ -36,7 +38,7 @@ Feedback blijven vragen op mijn producten.
 ### Doe minder
 Eenzijdige taken.
 
-# Sprint 2
+## Sprint 2
 ### Wat ging goed?
 Ondanks de setback in de tweede week van deze sprint heb ik alles van mijn planning voor deze sprint af gekregen.
 
@@ -52,7 +54,7 @@ Taken optijd af hebben.
 ### Doe minder
 Starten met coderen, met te weinig informatie.
 
-# Sprint 3
+## Sprint 3
 ### Wat ging goed?
 Ik had duidelijke doelen, en kreeg deze ruim op tijd af, hierdoor kon ik kijken naar functionaliteiten die ik al toe kon passen en vond de json configurator. Door de json configurator te gebruiken bespaar ik mezelf veel werk later in dit project.
 
@@ -67,3 +69,28 @@ Portfolio bijwerken.
 
 ### Doe minder
 Documentatie overslaan.
+
+## Sprint 4
+### Wat ging goed?
+Ik ben bekender geworden met de json configurator en hoe json schemas werken en genavigeerd kunnen worden.
+### Wat kon beter?
+De presentatie voor de terugkomdag. Ik had het voorbereid voor mensen die al bekend waren met mijn opdracht (assessoren) en wilde door mijn huidige producten heen lopen. 
+### Actie
+Prioriteiten stellen voor taken die buiten mijn stageopdracht vallen.
+### Doe meer
+Beter voorbereiden, met publiek in gedachte.
+### Doe minder
+Onderschatten van taken die buiten mijn stageopdracht vallen.
+
+## Sprint 5
+### Wat ging goed?
+Het begin van de sprint verliep vlot, ik vroeg tijdig om hulp en had na 1 week alle nieuwe features geïmplementeerd, er moesten alleen nog bugs met deze features worden gefixt.
+### Wat kon beter?
+
+### Actie
+
+### Doe meer
+
+### Doe minder
+
+
