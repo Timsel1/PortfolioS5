@@ -32,7 +32,7 @@ Deze introductie dient als opening van dit projectrapport. Het schetst het doel 
   Beschrijft de specifieke vragen die het onderzoek zal beantwoorden. Deze vragen begeleiden de richting van het onderzoek.
 - [Aanpak:](#aanpak)  
   Legt kort de benadering, methoden en technieken uit die worden gebruikt om het project uit te voeren. Het biedt een overzicht van de werkstroom van het project.
-- [Logische Beschrijving van het Proces en de Resultaten:](#beschrijving-proces-en-resultaten)  
+- [Logische Beschrijving van het Proces en de Resultaten:](#logische-beschrijving-van-het-proces-en-de-resultaten)  
   Geeft een gedetailleerde chronologische beschrijving van de stappen die zijn genomen tijdens het project, evenals de verkregen resultaten.
 - [Conclusie:](#conclusie)  
   Samenvatting van de belangrijkste bevindingen en resultaten die voortvloeien uit het project.
