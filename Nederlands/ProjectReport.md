@@ -24,7 +24,7 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 
 ## Introduction
 Deze introductie dient als opening van dit projectrapport. Het schetst het doel en de doelstellingen van het project en biedt een uitgebreid overzicht van de inhoud van dit rapport.  
-- [Probleem/Kans:](#probleem/kans)   
+- [Probleem en Kans:](#probleem-en-kans)   
   Deze sectie presenteert de context en achtergrondinformatie die heeft geleid tot de start van het project. Het benadrukt het probleem, de kans of de behoefte die het project beoogt aan te pakken.
 - [Doelstellingen:](#doelstellingen)  
   Duidelijke en meetbare doelstellingen worden uiteengezet, waaruit blijkt wat het project wil bereiken. Deze doelstellingen fungeren als leidende principes gedurende de uitvoering van het project.
