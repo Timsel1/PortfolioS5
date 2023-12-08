@@ -23,7 +23,7 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 |Date: ||
 
 ## Introduction
-De inleiding dient als opening van het projectrapport. Het schetst het doel, de reikwijdte en de doelstellingen van het project en biedt een uitgebreid overzicht voor de lezer.  
+Deze introductie dient als opening van dit projectrapport. Het schetst het doel en de doelstellingen van het project en biedt een uitgebreid overzicht van de inhoud van dit rapport.  
 - [Probleem/Kans:](#probleem/kans)   
   Deze sectie presenteert de context en achtergrondinformatie die heeft geleid tot de start van het project. Het benadrukt het probleem, de kans of de behoefte die het project beoogt aan te pakken.
 - [Doelstellingen:](#doelstellingen)  
