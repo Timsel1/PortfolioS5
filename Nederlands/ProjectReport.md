@@ -69,13 +69,36 @@ De frontend wordt getest met code/peer reviews en usability tests, voor de backe
 De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/).
 
 ## Logische beschrijving van het proces en de resultaten
-Als de stappen die zijn genomen tijdens dit project kort worden samengevat, ziet dit er als volgt uit:  
-- Onderzoek welke requirements er zijn  voor het project. 
-- Aan de hand van dit resultaat, ontwerp wireframes en prototypes.
-- Valideer de gemaakte wireframes en prototypes.
-- Begin aan het programmeren van de frontend aan de hand van het onderzoek en de prototypes.
-- Valideer de gemaakte UI, door middel van een usability test.
+Dit is mijn volledige proces op chronologische volgorde met bijbehorende onderzoeksmethodes.
 
-Deze stappen zijn duidelijk te zien in dit portfolio en kunnen [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Proces.md) op chronologische volgorde worden gevolgd met bijbehorende onderzoeksmethodes. 
+### Opzetten van het project 
+Met deze documenten is te zien wat mijn opdracht is, welke requirements er zijn/ik heb verzameld, hoe ik dit project op heb gezet en aangepakt.
+
+|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
+|:------:|:-----:|:---:|:-:|:------:|:------:|
+|[Projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md)|Expert interview|Explore user requirements, Problem analysis| | |Requirements prioritization|
+|[Research (Kwaliteits)eisen](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/Kwaliteitseisen.md)|Expert interview|Survey| | | |
+|[Requirements Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/RequirementsDocument.md)| | | | |Requirements prioritization|
+
+### Designing en Prototyping
+Deze documenten bevatten informatie over de stappen die ik heb genomen tijdens het ontwerpen van de UI voor het project.
+
+|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
+|:------:|:-----:|:---:|:-:|:------:|:------:|
+|[Gebruiksvriendelijke UI (1)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI1.md)|Expert interview|Survey| | | |
+|[Gebruiksvriendelijke UI (2)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI2.md)|Expert interview||||Prototyping|
+|[Gebruiksvriendelijke UI (3)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI3.md)|Available Product Analysis, Expert interview| | | |Prototyping|
+|[Gebruiksvriendelijke UI (4)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI4.md)|Expert interview |Survey|Usability testing |Peer review | |
+|[Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
+
+### Ontwikkeling van de UI
+
+|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
+|:------:|:-----:|:---:|:-:|:------:|:------:|
+|[Generieke Cards](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/GeneriekeCards.md)|Design pattern research, Expert interview| | | |Code review |
+|[Navigation Tabs](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/NavigationTabs.md)| | | | | |
+|[Conditional Json Schema](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/ConditionalJsonSchema.md)| | | | | |
+
+
 
 
