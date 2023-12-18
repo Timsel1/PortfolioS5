@@ -86,11 +86,26 @@ Onderschatten van taken die buiten mijn stageopdracht vallen.
 ### Wat ging goed?
 Het begin van de sprint verliep vlot, ik vroeg tijdig om hulp en had na 1 week alle nieuwe features geïmplementeerd, er moesten alleen nog bugs met deze features worden gefixt.
 ### Wat kon beter?
-
+Er zijn nog bugs die moeten worden opgelost voor de nieuwe features.
 ### Actie
-
+Plan tijd in voor bugfixes en testen om ervoor te zorgen dat de nieuwe features goed werken.
 ### Doe meer
-
+Proactief blijven communiceren met het team over de voortgang en eventuele obstakels.
 ### Doe minder
+Beperk het aantal gelijktijdige taken om de focus te vergroten en efficiënter te kunnen werken aan prioritaire taken.
+
+## Sprint 6
+### Wat ging goed?
+De opdracht voor de backend was snel opgezet en gerealiseerd. De requirements zijn verzameld, verwerkt in een toevoeging aan het projectplan en gerealiseerd in 1 week tijd.
+### Wat kon beter?
+Er was tijdens de tweede week veel focus op de backend, waardoor het portfolio weer achter bleef.
+### Actie
+Nu ik me de komende tijd volledig kan focussen op de documentatie, kan ik alles dat bijgewerkt moet worden bijwerken.
+### Doe meer
+Plan regelmatige updates voor het portfolio in om ervoor te zorgen dat het gelijke tred houdt met de voortgang van andere taken.
+Overweeg het inplannen van tussentijdse evaluaties om ervoor te zorgen dat alle aspecten van het project gelijkmatig worden behandeld.
+### Doe minder
+volledige focus leggen op coderen.
+
 
 
