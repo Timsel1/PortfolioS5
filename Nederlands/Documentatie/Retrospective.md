@@ -5,6 +5,7 @@
 - [Sprint 3](#sprint-3)
 - [Sprint 4](#sprint-4)
 - [Sprint 5](#sprint-5)
+- [Sprint 6](#sprint-6)
 
 ## Sprint 0
 ### Wat ging goed?
