@@ -66,7 +66,23 @@ Tijdens deze stage wordt er gewerkt met scrum, progres en taken worden bijgehoud
 Er wordt lokaal gecodeerd, er wordt gebruikgemaakt van gitflow, op deze manier gaat er niets kapot in de productiecode wanneer er wordt gewerkt aan het project.
 De frontend wordt getest met code/peer reviews en usability tests, voor de backend zullen unit tests worden gebruikt. 
 #### Onderzoeken:  
-De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/).
+De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/). Voor meer informatie hierover heb ik in de tabellen gelinkt naar de bijbehorende secties van de methodes (library, field, lab, showroom en workshop).
+
+__Hoe heb ik gebruik gemaakt van de DOT methode:__  
+In mijn research/dev logs hou ik een structuur aan die goed past bij deze methode, deze structuur bestaat uit 5 kopjes:
+- Een hoofdvraag
+  - Dit gaat meestal over de feature waar ik aan ga werken, hier wordt ook beschreven waarom hier aan wordt gewerkt.
+- Hoe heb ik dit opgelost
+  - beschrijft het onderzoek dat ik heb gedaan naar een bepaald onderwerp en welke methode ik heb gebruikt voor dit onderzoek.
+- Wat is het resultaat
+  - Geeft het resultaat van mijn onderzoek en implementatie weer.
+- Wat is de kwaliteit van het resultaat
+  - Dit beschrijft hoe ik mijn resultaat heb gevalideerd en benoemd de bijbehorende methode.
+- Wat is de volgende stap
+  - Hier beschrijf ik de volgende stap die ik ga nemen nu ik dit resultaat heb.
+
+Met al deze kleine onderzoeken/dev logs kan ik mijn hoofdonderzoeken beantwoorden en valideren.
+
 
 ## Logische beschrijving van het proces en de resultaten
 Dit is mijn volledige proces op chronologische volgorde met bijbehorende onderzoeksmethodes.
