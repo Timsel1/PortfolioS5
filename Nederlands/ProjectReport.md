@@ -92,6 +92,25 @@ Deze documenten bevatten informatie over de stappen die ik heb genomen tijdens h
 |[Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
 ### Ontwikkeling van de UI
+In de documenten die betrekking hebben op de ontwikkeling van de gebruikersinterface (UI), volg ik een gestructureerde aanpak, waarbij elke fase gericht is op het beantwoorden van cruciale vragen en het leveren van waardevolle inzichten:
+
+__1. Hoofdvraag en Doelstellingen:__  
+- Hier stel ik de hoofdvraag op, die dienst doet als leidende richtlijn voor het gehele ontwikkelingsproces. Onder deze hoofdvraag verduidelijk ik het 'waarom' achter de feature en de beoogde doelstellingen.
+
+__2. Hoe heb ik dit opgelost:__  
+- Ik beschrijf gedetailleerd hoe ik de hoofdvraag heb aangepakt, met speciale aandacht voor mijn onderzoeksmethoden. 
+
+__3. Wat is het resultaat:__  
+- In deze sectie laat ik de daadwerkelijke resultaten zien in de vorm van afbeeldingen en gifs. Hiermee wil ik de lezer een visueel inzicht geven in de ontwikkelde UI-componenten en functionaliteiten.
+
+__4. Wat is de kwaliteit van het resultaat:__  
+- Ik beoordeel de kwaliteit van de behaalde resultaten en beschrijf hoe ik dit heb gevalideerd. Dit omvat tests en evaluaties die zijn uitgevoerd om te waarborgen dat de UI voldoet aan gestelde vereisten en gebruiksscenario's.
+
+__5. Wat is de volgende stap nu ik dit resultaat heb:__  
+- Tot slot, beschrijf ik de volgende stappen nu het resultaat is behaald. Dit omvat mogelijke optimalisaties, toekomstige functionaliteiten, of aanvullende stappen die genomen moeten worden om het project verder te ontwikkelen.
+
+Door deze structuur te volgen, bieden de documenten niet alleen een duidelijk chronologisch overzicht van het ontwikkelingsproces, maar benadrukken ze ook de essentiële aspecten van de aanpak, de resultaten, hun kwaliteit, validatie, en de stappen die volgen na het behalen van het resultaat.
+
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
