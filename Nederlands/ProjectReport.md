@@ -8,7 +8,7 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 |:--------:|:-:|
 |Family name , initials:|Meijvogel, T.M.|
 |Student number:|462739|
-|project period: (from – till)|04/09/2023 - |
+|project period: (from – till)|04/09/2023 - 26/01/2023|
 |**Company:**||
 |Name company/institution:|Stofloos|
 |Department:|Software|
