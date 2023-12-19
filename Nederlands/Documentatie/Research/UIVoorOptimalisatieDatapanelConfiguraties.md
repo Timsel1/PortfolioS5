@@ -16,8 +16,29 @@ De belangrijkste functionaliteiten zijn dus:
 Meer informatie en onderbouwing is [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/Kwaliteitseisen.md) te vinden.
 
 ## Hoe worden de in de ui gemaakte configuraties geëxporteerd naar json?
+Om configuraties vanuit de UI naar JSON te exporteren, volgt Datapanel een gestructureerd proces:
+
+__Dataformaat Conversie:__
+- De configuraties die in de UI zijn gemaakt, worden eerst omgezet van de interne representatie in de gebruikersinterface (als JavaScript-objecten) naar JSON-formaat. Dit omvat het vastleggen van alle relevante configuratiegegevens.
+
+__Dataoverdracht naar NoCode:__
+- De geconverteerde JSON-gegevens worden vervolgens verstuurd naar een NoCode-platform, dat mogelijkheden biedt voor verder beheer en analyse. Dit kan worden bereikt door de JSON-gegevens over te dragen via API-aanroepen of een vergelijkbaar mechanisme.
+
+__Opslag in de Database:__
+- Het NoCode-platform analyseert en verwerkt de ontvangen JSON-gegevens en slaat deze uiteindelijk op in de database van Datapanel. Hierdoor worden de configuraties veilig en duurzaam bewaard.
 
 ## Hoe worden de opgeslagen configuraties geïmporteerd naar de UI?
+Voor het importeren van opgeslagen configuraties naar de UI, worden de volgende stappen gevolgd:
+
+__Uitvragen van de Database:__  
+- Bij het ophalen van configuraties uit de database, worden de opgeslagen JSON-gegevens geïdentificeerd en opgevraagd via relevante database query's.
+
+__JSON-parsing:__
+- De opgehaalde JSON-gegevens worden geparsed, wat betekent dat de gestructureerde JSON wordt omgezet naar bruikbare JavaScript-objecten. Dit proces is van cruciaal belang om de configuraties in een formaat te krijgen dat begrijpelijk is voor de frontend van de UI.
+
+__Toewijzing aan UI-componenten:__
+- De geparseerde JavaScript-objecten worden vervolgens toegewezen aan de juiste UI-componenten. Dit omvat het invullen van formulieren, het bijwerken van visualisaties en andere relevante stappen om de configuratie op een bruikbare manier weer te geven in de gebruikersinterface.
+
 
 ## Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?
 Om de UI voor deze configuraties gebruiksvriendelijk te maken en houden is feedback van de end users nodig. Deze feedback is vanaf het begin nodig. Om te zorgen dat het design is wat de end user in gedachte had, is er eerst een wireframe gemaakt. Na de feedback en goedkeuring van de product owner is er een prototype gemaakt. Met dit prototype is de UI gemaakt zoals die er uiteindelijk uit moet komen te zien en met de functionaliteiten die de UI zal bieden. Na goedkeuring van het prototype kon er begonnen worden aan de UI binnen Datapanel.
