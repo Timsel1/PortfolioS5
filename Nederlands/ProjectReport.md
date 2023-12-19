@@ -67,7 +67,7 @@ Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperk
 Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan. Deze onderzoeken zijn [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research) te vinden.
 
 ## Aanpak
-#### Agile methode:  
+### Agile methode:  
 Dit project hanteert een Agile benadering, met name het Scrum-framework, om een flexibele en iteratieve ontwikkelingsaanpak te waarborgen. Hier zijn de belangrijkste aspecten van de Agile methode binnen deze stage:  
 __Scrum Sprints:__
 - Het ontwikkelproces is opgedeeld in sprints, waarin specifieke taken en doelstellingen binnen een afgebakende periode worden aangepakt. De sprints in dit project hebben een duur van twee weken.
@@ -86,7 +86,7 @@ __Continue Feedback en Hulp:__
     
 Deze Agile methode, met een focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling, waarbij een adaptieve aanpak wordt gehanteerd om snel en efficiënt te reageren op veranderende vereisten.
   
-#### coderen:  
+### coderen:  
 Voor dit project wordt een gestructureerde aanpak gehanteerd, waarbij projectmanagement cruciaal is voor een succesvolle ontwikkeling. De volgende methoden en praktijken worden toegepast:  
 __Lokale Ontwikkeling:__  
 - Het coderen gebeurt lokaal, waardoor ontwikkelaars in een gecontroleerde omgeving kunnen werken voordat wijzigingen naar de hoofdcode worden overgebracht.  
@@ -111,7 +111,7 @@ __Backend Testing:__
 
 Deze projectmanagement benadering stelt het ontwikkelingsteam in staat om op een georganiseerde en gestructureerde manier aan het project te werken, waarbij code-integriteit wordt behouden en zowel frontend als backend uitvoerig worden getest.
 
-#### Onderzoeken:  
+### Onderzoeken:  
 De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/). Voor meer informatie hierover heb ik in de tabellen van ["Logische Beschrijving van het Proces en de Resultaten:"](#logische-beschrijving-van-het-proces-en-de-resultaten) gelinkt naar de bijbehorende secties van de methodes (library, field, lab, showroom en workshop).
 
 __Hoe heb ik gebruik gemaakt van de DOT methode:__  
