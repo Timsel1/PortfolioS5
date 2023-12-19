@@ -71,12 +71,16 @@ Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kle
 Dit project hanteert een Agile benadering, met name het Scrum-framework, om een flexibele en iteratieve ontwikkelingsaanpak te waarborgen. Hier zijn de belangrijkste aspecten van de Agile methode binnen deze stage:  
 __Scrum Sprints:__
 - Het ontwikkelproces is opgedeeld in sprints, waarin specifieke taken en doelstellingen binnen een afgebakende periode worden aangepakt. De sprints in dit project hebben een duur van twee weken.
+
 __Scrum Oplevering:__
 - Aan het einde van elke sprint vindt er een sprint oplevering plaats. Hier worden de opgeleverde resultaten gedemonstreerd en besproken, zodat de belanghebbenden op de hoogte zijn van de voortgang.
+
 __Retrospective:__
 - Na elke sprint oplevering wordt een retrospective gehouden. Tijdens deze sessie worden successen, uitdagingen en verbeterpunten besproken om voortdurende optimalisatie van het ontwikkelingsproces te waarborgen.
+
 __Progress Tracking:__
 - Voor het bijhouden van voortgang en taken wordt het ticketsysteem van Stofloos gebruikt. Dit systeem fungeert als een centrale hub voor het registreren en monitoren van taken gedurende het gehele project.
+
 __Continue Feedback en Hulp:__
 - Er wordt actief gebruikgemaakt van continue feedback en ondersteuning van de stagebegeleider en andere developers bij Stofloos. Dit garandeert dat ik tijdens de sprints op het juiste pad blijf en eventuele obstakels effectief worden aangepakt.
     
@@ -86,17 +90,22 @@ Deze Agile methode, met een focus op Scrum, biedt de flexibiliteit en transparan
 Voor dit project wordt een gestructureerde aanpak gehanteerd, waarbij projectmanagement cruciaal is voor een succesvolle ontwikkeling. De volgende methoden en praktijken worden toegepast:  
 __Lokale Ontwikkeling:__  
 - Het coderen gebeurt lokaal, waardoor ontwikkelaars in een gecontroleerde omgeving kunnen werken voordat wijzigingen naar de hoofdcode worden overgebracht.  
+
 __Gitflow:__  
 - Gitflow wordt geïmplementeerd als ontwikkelingsstrategie. Dit maakt het mogelijk om parallel aan nieuwe functies te werken, bugs op te lossen en wijzigingen door te voeren, terwijl de stabiliteit van de productiecode behouden blijft.  
+
 __Git Commits en Commit Message Conventies:__  
 - Start commits met specifieke woorden zoals "Add", "Fix", "Update", enz. bijvoorbeeld: "Add new feature" of "Fix bug in data processing".  
 - Alle commit messages worden in het Engels geschreven.  
 - Houd het onderwerp van de commit kort en bondig, met maximaal 50 karakters.  
 - Beperk de inhoud van de commit message tot maximaal 72 karakters.  
+
 __Veiligheid in Productiecode:__  
 - Door gebruik te maken van Gitflow wordt gewaarborgd dat er geen onbedoelde wijzigingen in de productiecode terechtkomen tijdens het ontwikkelingsproces. De ontwikkeling verloopt georganiseerd en fouten worden geminimaliseerd.  
+
 __Frontend Testing:__  
 - De frontend van de user interface wordt grondig gecontroleerd, Dit wordt gedaan door middel van code- en peer reviews om de kwaliteit van de code te waarborgen. Usability tests worden uitgevoerd om de gebruiksvriendelijkheid van de interface te evalueren.  
+
 __Backend Testing:__  
 - Voor de backend worden unit tests gebruikt om de functionaliteit van afzonderlijke eenheden code te controleren. Dit garandeert de betrouwbaarheid en consistentie van de backend-functionaliteit.  
 
