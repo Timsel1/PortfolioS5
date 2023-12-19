@@ -71,10 +71,27 @@ Voor een volledige beschrijving van de aanpak voor dit project kan [hier](https:
 #### Agile methode:  
 Tijdens deze stage wordt er gewerkt met scrum, progres en taken worden bijgehouden met Stofloos’ ticketsysteem. Met scrum werk je in sprints, mijn sprints zijn 2 weken lang, aan het eind van elke sprint is er een sprint oplevering, na deze sprint oplevering wordt een retrospective ingevuld. Tijdens dit project zal er continu feedback en hulp worden gevraagd aan de stagebegeleider en andere developers bij Stofloos, om te garanderen dat tijdens de sprints ook correct.  
 #### coderen:  
-Er wordt lokaal gecodeerd, er wordt gebruikgemaakt van gitflow, op deze manier gaat er niets kapot in de productiecode wanneer er wordt gewerkt aan het project.
-De frontend wordt getest met code/peer reviews en usability tests, voor de backend zullen unit tests worden gebruikt. 
+Voor dit project wordt een gestructureerde aanpak gehanteerd, waarbij projectmanagement cruciaal is voor een succesvolle ontwikkeling. De volgende methoden en praktijken worden toegepast:  
+__Lokale Ontwikkeling:__  
+- Het coderen gebeurt lokaal, waardoor ontwikkelaars in een gecontroleerde omgeving kunnen werken voordat wijzigingen naar de hoofdcode worden overgebracht.
+__Gitflow:__  
+- Gitflow wordt geïmplementeerd als ontwikkelingsstrategie. Dit maakt het mogelijk om parallel aan nieuwe functies te werken, bugs op te lossen en wijzigingen door te voeren, terwijl de stabiliteit van de productiecode behouden blijft.  
+__Git Commits en Commit Message Conventies:__
+- Start commits met specifieke woorden zoals "Add", "Fix", "Update", enz. bijvoorbeeld: "Add new feature" of "Fix bug in data processing".
+- Alle commit messages worden in het Engels geschreven.
+- Houd het onderwerp van de commit kort en bondig, met maximaal 50 karakters.
+- Beperk de inhoud van de commit message tot maximaal 72 karakters.
+__Veiligheid in Productiecode:__  
+- Door gebruik te maken van Gitflow wordt gewaarborgd dat er geen onbedoelde wijzigingen in de productiecode terechtkomen tijdens het ontwikkelingsproces. De ontwikkeling verloopt georganiseerd en fouten worden geminimaliseerd.
+__Frontend Testing:__  
+- De frontend van de user interface wordt grondig gecontroleerd, Dit wordt gedaan door middel van code- en peer reviews om de kwaliteit van de code te waarborgen. Usability tests worden uitgevoerd om de gebruiksvriendelijkheid van de interface te evalueren.
+__Backend Testing:__
+- Voor de backend worden unit tests gebruikt om de functionaliteit van afzonderlijke eenheden code te controleren. Dit garandeert de betrouwbaarheid en consistentie van de backend-functionaliteit.
+
+Deze projectmanagement benadering stelt het ontwikkelingsteam in staat om op een georganiseerde en gestructureerde manier aan het project te werken, waarbij code-integriteit wordt behouden en zowel frontend als backend uitvoerig worden getest.
+
 #### Onderzoeken:  
-De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/). Voor meer informatie hierover heb ik in de tabellen gelinkt naar de bijbehorende secties van de methodes (library, field, lab, showroom en workshop).
+De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/). Voor meer informatie hierover heb ik in de tabellen van ["Logische Beschrijving van het Proces en de Resultaten:"](#logische-beschrijving-van-het-proces-en-de-resultaten) gelinkt naar de bijbehorende secties van de methodes (library, field, lab, showroom en workshop).
 
 __Hoe heb ik gebruik gemaakt van de DOT methode:__  
 In mijn research/dev logs hou ik een structuur aan die goed past bij deze methode, deze structuur bestaat uit 5 kopjes:
@@ -89,8 +106,7 @@ In mijn research/dev logs hou ik een structuur aan die goed past bij deze method
 - Wat is de volgende stap
   - Hier beschrijf ik de volgende stap die ik ga nemen nu ik dit resultaat heb.
 
-Met al deze kleine onderzoeken/dev logs kan ik mijn hoofdonderzoeken beantwoorden en valideren.
-
+Deze structuur past goed bij de DOT methode omdat, door dit aan te houden, ik altijd de aspecten van onderzoek, realisatie en validatie aantoon.
 
 ## Logische beschrijving van het proces en de resultaten
 Dit is mijn volledige proces op chronologische volgorde met bijbehorende onderzoeksmethodes.
