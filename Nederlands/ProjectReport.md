@@ -69,7 +69,19 @@ Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kle
 ## Aanpak
 Voor een volledige beschrijving van de aanpak voor dit project kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#aanpak-en-planning) worden gekeken in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md). Om dit kort samen te vatten:  
 #### Agile methode:  
-Tijdens deze stage wordt er gewerkt met scrum, progres en taken worden bijgehouden met Stofloos’ ticketsysteem. Met scrum werk je in sprints, mijn sprints zijn 2 weken lang, aan het eind van elke sprint is er een sprint oplevering, na deze sprint oplevering wordt een retrospective ingevuld. Tijdens dit project zal er continu feedback en hulp worden gevraagd aan de stagebegeleider en andere developers bij Stofloos, om te garanderen dat tijdens de sprints ook correct.  
+Dit project hanteert een Agile benadering, met name het Scrum-framework, om een flexibele en iteratieve ontwikkelingsaanpak te waarborgen. Hier zijn de belangrijkste aspecten van de Agile methode binnen deze stage:  
+__Scrum Sprints:__
+- Het ontwikkelproces is opgedeeld in sprints, waarin specifieke taken en doelstellingen binnen een afgebakende periode worden aangepakt. De sprints in dit project hebben een duur van twee weken.
+__Scrum Oplevering:__
+- Aan het einde van elke sprint vindt er een sprint oplevering plaats. Hier worden de opgeleverde resultaten gedemonstreerd en besproken, zodat de belanghebbenden op de hoogte zijn van de voortgang.
+__Retrospective:__
+- Na elke sprint oplevering wordt een retrospective gehouden. Tijdens deze sessie worden successen, uitdagingen en verbeterpunten besproken om voortdurende optimalisatie van het ontwikkelingsproces te waarborgen.
+__Progress Tracking:__
+- Voor het bijhouden van voortgang en taken wordt het ticketsysteem van Stofloos gebruikt. Dit systeem fungeert als een centrale hub voor het registreren en monitoren van taken gedurende het gehele project.
+__Continue Feedback en Hulp:__
+- Er wordt actief gebruikgemaakt van continue feedback en ondersteuning van de stagebegeleider en andere developers bij Stofloos. Dit garandeert dat ik tijdens de sprints op het juiste pad blijf en eventuele obstakels effectief worden aangepakt.  
+Deze Agile methode, met een focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling, waarbij een adaptieve aanpak wordt gehanteerd om snel en efficiënt te reageren op veranderende vereisten.
+  
 #### coderen:  
 Voor dit project wordt een gestructureerde aanpak gehanteerd, waarbij projectmanagement cruciaal is voor een succesvolle ontwikkeling. De volgende methoden en praktijken worden toegepast:  
 __Lokale Ontwikkeling:__  
