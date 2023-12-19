@@ -79,7 +79,8 @@ __Retrospective:__
 __Progress Tracking:__
 - Voor het bijhouden van voortgang en taken wordt het ticketsysteem van Stofloos gebruikt. Dit systeem fungeert als een centrale hub voor het registreren en monitoren van taken gedurende het gehele project.
 __Continue Feedback en Hulp:__
-- Er wordt actief gebruikgemaakt van continue feedback en ondersteuning van de stagebegeleider en andere developers bij Stofloos. Dit garandeert dat ik tijdens de sprints op het juiste pad blijf en eventuele obstakels effectief worden aangepakt.  
+- Er wordt actief gebruikgemaakt van continue feedback en ondersteuning van de stagebegeleider en andere developers bij Stofloos. Dit garandeert dat ik tijdens de sprints op het juiste pad blijf en eventuele obstakels effectief worden aangepakt.
+    
 Deze Agile methode, met een focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling, waarbij een adaptieve aanpak wordt gehanteerd om snel en efficiënt te reageren op veranderende vereisten.
   
 #### coderen:  
