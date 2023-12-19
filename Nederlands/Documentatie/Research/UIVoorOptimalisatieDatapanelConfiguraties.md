@@ -13,9 +13,12 @@ De belangrijkste functionaliteiten zijn dus:
 - "Op locatie" pagina's en secties kunnen editen
 - Automatisch verbinden van de onderdelen wanneer deze in de flow worden aangemaakt.
 - Intuïtieve navigatie
+- 
 Meer informatie en onderbouwing is [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/Kwaliteitseisen.md) te vinden.
 
 ## Hoe worden de in de ui gemaakte configuraties geëxporteerd naar json?
+Om inzicht te verkrijgen in hoe Datapanel configuraties vanuit de gebruikersinterface naar JSON exporteert, heb ik mijn vragen gericht aan mijn semester coach. Met zijn diepgaande kennis en expertise op dit gebied, wordt verwacht dat de processen die betrokken zijn bij het omzetten van UI-configuraties naar JSON-formaat duidelijk worden toegelicht.
+
 Om configuraties vanuit de UI naar JSON te exporteren, volgt Datapanel een gestructureerd proces:
 
 __Dataformaat Conversie:__
@@ -28,6 +31,8 @@ __Opslag in de Database:__
 - Het NoCode-platform analyseert en verwerkt de ontvangen JSON-gegevens en slaat deze uiteindelijk op in de database van Datapanel. Hierdoor worden de configuraties veilig en duurzaam bewaard.
 
 ## Hoe worden de opgeslagen configuraties geïmporteerd naar de UI?
+In mijn streven om het importproces van opgeslagen configuraties naar de gebruikersinterface van Datapanel te begrijpen, heb ik wederom gerichte vragen gesteld aan mijn semester coach, een expert op dit gebied. Door zijn ervaring en kennis te benutten, verwacht ik inzicht te krijgen in de specifieke stappen die worden genomen om opgeslagen JSON-configuraties uit de database op te halen, te parseren en naadloos weer te geven in de UI.
+
 Voor het importeren van opgeslagen configuraties naar de UI, worden de volgende stappen gevolgd:
 
 __Uitvragen van de Database:__  
