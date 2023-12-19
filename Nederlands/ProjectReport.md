@@ -43,11 +43,13 @@ Deze introductie dient als opening van dit projectrapport. Het schetst het doel 
 
 
 ## Probleem en kans
-Op dit moment worden bij Stofloos Datapanel configuraties handmatig in JSON geschreven, dit is tijdrovend en vatbaar voor fouten. Er is hier een kans om de efficiëntie van het ontwikkelingsproces te versnellen en gebruiksvriendelijker te maken. Voor meer informatie kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
+Stofloos gebruikt gemeenschappelijke componenten, zo kunnen ze zich concentreren op het ontwikkelen van maatwerk onderdelen met specifieke behoeften van bedrijven in gedachten. Alle applicaties en bouwstenen die ze hebben ontwikkeld en inzetten noemen ze ‘Stofware’. De Stofware software is een verzameling van Extraction, Transformation and Load (ETL) en data-applicaties die worden gebruikt voor het beheren en analyseren van de gegevens die gebruikt worden binnen een organisatie. 
+Mijn opdracht richt zich op een applicatie binnen Stofware, genaamd Datapanel. Op dit moment worden bij Stofloos Datapanel configuraties handmatig in JSON geschreven, dit is tijdrovend en vatbaar voor fouten. Er is hier een kans om de efficiëntie van het ontwikkelingsproces te versnellen en gebruiksvriendelijker te maken.  
+Voor meer informatie kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
 
 ## Doelstelling
 Het doel van dit project is om een gebruiksvriendelijke user interface voor het configureren van Datapanel te maken. Dit zal het proces minder foutgevoelig maken en de benodigde tijd verminderen. Ook moet het ervoor zorgen dat het configureren van Datapanel toegankelijk is voor gebruikers met een mindere technische kennis.
-Wanneer deze processen gestroomlijnd zijn is er meer tijd om te werken aan de andere projecten, wanneer hier meer tijd voor is zal de kwaliteit die Stofloos biedt nog hoger worden.
+Wanneer deze processen gestroomlijnd zijn is er meer tijd om te werken aan de andere projecten. Dit project is een succes wanneer de snelheid en de gebruiksvriendelijkheid van het maken van Datapanel configuraties is verbeterd.  
 Meer informatie hierover is te vinden in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md).
 
 ## Onderzoeksvragen
