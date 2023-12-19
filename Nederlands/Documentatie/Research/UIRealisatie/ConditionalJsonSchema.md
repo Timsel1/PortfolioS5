@@ -16,7 +16,7 @@ Er kan nu een content type worden gekozen door een user en de bijbehorende prope
 <img src="https://github.com/Timsel1/PortfolioS5/assets/90602424/617092fe-c3e0-426b-bb25-da2f60c1f2cd" style=" width=200px;" />
 
 ## Wat is de kwaliteit van het resultaat?
-Ik heb dit gemaakt samen met een van de developers van Stofloos, dit heeft ervoor gezorgd dat alles op de juiste manier is geïmplementeerd.
+Ik heb dit gemaakt samen met een van de developers van Stofloos, dit heeft ervoor gezorgd dat alles op de juiste manier is geïmplementeerd en de kwaliteit van de code voldoet aan de standaard die hier wordt aangehouden.
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 De volgende stap zal zijn om de mapjes van objecten en arrays functioneel te maken en te checken of dit ook correct wordt toegepast in de database.
