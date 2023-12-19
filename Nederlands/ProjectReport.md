@@ -88,7 +88,7 @@ __Lokale Ontwikkeling:__
 - Het coderen gebeurt lokaal, waardoor ontwikkelaars in een gecontroleerde omgeving kunnen werken voordat wijzigingen naar de hoofdcode worden overgebracht.
 __Gitflow:__  
 - Gitflow wordt geïmplementeerd als ontwikkelingsstrategie. Dit maakt het mogelijk om parallel aan nieuwe functies te werken, bugs op te lossen en wijzigingen door te voeren, terwijl de stabiliteit van de productiecode behouden blijft.  
-__Git Commits en Commit Message Conventies:__
+__Git Commits en Commit Message Conventies:__  
 - Start commits met specifieke woorden zoals "Add", "Fix", "Update", enz. bijvoorbeeld: "Add new feature" of "Fix bug in data processing".
 - Alle commit messages worden in het Engels geschreven.
 - Houd het onderwerp van de commit kort en bondig, met maximaal 50 karakters.
@@ -97,7 +97,7 @@ __Veiligheid in Productiecode:__
 - Door gebruik te maken van Gitflow wordt gewaarborgd dat er geen onbedoelde wijzigingen in de productiecode terechtkomen tijdens het ontwikkelingsproces. De ontwikkeling verloopt georganiseerd en fouten worden geminimaliseerd.
 __Frontend Testing:__  
 - De frontend van de user interface wordt grondig gecontroleerd, Dit wordt gedaan door middel van code- en peer reviews om de kwaliteit van de code te waarborgen. Usability tests worden uitgevoerd om de gebruiksvriendelijkheid van de interface te evalueren.
-__Backend Testing:__
+__Backend Testing:__  
 - Voor de backend worden unit tests gebruikt om de functionaliteit van afzonderlijke eenheden code te controleren. Dit garandeert de betrouwbaarheid en consistentie van de backend-functionaliteit.
 
 Deze projectmanagement benadering stelt het ontwikkelingsteam in staat om op een georganiseerde en gestructureerde manier aan het project te werken, waarbij code-integriteit wordt behouden en zowel frontend als backend uitvoerig worden getest.
