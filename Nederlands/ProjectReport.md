@@ -67,7 +67,6 @@ Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperk
 Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan. Deze onderzoeken zijn [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research) te vinden.
 
 ## Aanpak
-Voor een volledige beschrijving van de aanpak voor dit project kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#aanpak-en-planning) worden gekeken in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md). Om dit kort samen te vatten:  
 #### Agile methode:  
 Dit project hanteert een Agile benadering, met name het Scrum-framework, om een flexibele en iteratieve ontwikkelingsaanpak te waarborgen. Hier zijn de belangrijkste aspecten van de Agile methode binnen deze stage:  
 __Scrum Sprints:__
