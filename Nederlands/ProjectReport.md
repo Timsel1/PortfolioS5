@@ -52,8 +52,10 @@ De kans in dit scenario is duidelijk: door een meer geoptimaliseerde en gebruiks
 Voor meer informatie kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
 
 ## Doelstelling
-Het doel van dit project is om een gebruiksvriendelijke user interface voor het configureren van Datapanel te maken. Dit zal het proces minder foutgevoelig maken en de benodigde tijd verminderen. Ook moet het ervoor zorgen dat het configureren van Datapanel toegankelijk is voor gebruikers met een mindere technische kennis.
-Wanneer deze processen gestroomlijnd zijn is er meer tijd om te werken aan de andere projecten. Dit project is een succes wanneer de snelheid en de gebruiksvriendelijkheid van het maken van Datapanel configuraties is verbeterd.  
+Het hoofddoel van dit project is het ontwikkelen van een gebruiksvriendelijke user interface voor de configuratie van Datapanel. De focus ligt op het verminderen van fouten in het configuratieproces en het verkorten van de benodigde tijd om configuraties te maken. Een bijkomend doel is het vergroten van de toegankelijkheid, waardoor ook gebruikers met beperkte technische kennis in staat zijn om Datapanel te configureren.
+
+Dit project streeft naar de optimalisatie van het configuratieproces, waardoor het minder foutgevoelig wordt en de efficiëntie toeneemt. Een succesvolle afronding van dit project betekent dat het configureren van Datapanel sneller, intuïtiever en minder complex wordt. Het uiteindelijke resultaat moet de ontwikkelaars in staat stellen om zich te concentreren op andere projecten, aangezien het configuratieproces van Datapanel gestroomlijnd en geoptimaliseerd is. Het succes wordt gemeten aan de hand van verbeterde snelheid en gebruiksvriendelijkheid bij het creëren van Datapanel-configuraties.
+
 Meer informatie hierover is te vinden in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md).
 
 ## Onderzoeksvragen
