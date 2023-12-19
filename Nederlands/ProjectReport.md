@@ -43,8 +43,12 @@ Deze introductie dient als opening van dit projectrapport. Het schetst het doel 
 
 
 ## Probleem en kans
-Stofloos gebruikt gemeenschappelijke componenten, zo kunnen ze zich concentreren op het ontwikkelen van maatwerk onderdelen met specifieke behoeften van bedrijven in gedachten. Alle applicaties en bouwstenen die ze hebben ontwikkeld en inzetten noemen ze ‘Stofware’. De Stofware software is een verzameling van Extraction, Transformation and Load (ETL) en data-applicaties die worden gebruikt voor het beheren en analyseren van de gegevens die gebruikt worden binnen een organisatie. 
-Mijn opdracht richt zich op een applicatie binnen Stofware, genaamd Datapanel. Op dit moment worden bij Stofloos Datapanel configuraties handmatig in JSON geschreven, dit is tijdrovend en vatbaar voor fouten. Er is hier een kans om de efficiëntie van het ontwikkelingsproces te versnellen en gebruiksvriendelijker te maken.  
+Binnen de werkomgeving van Stofloos wordt Stofware ingezet, een geïntegreerde verzameling van gemeenschappelijke componenten die flexibel kunnen worden aangepast aan de specifieke behoeften van verschillende bedrijven. Stofware vormt de basis voor de ontwikkeling van maatwerkonderdelen, waarmee Stofloos zich kan concentreren op het leveren van oplossingen die naadloos aansluiten bij de unieke vereisten van hun klanten.
+
+Een van de kernapplicaties binnen Stofware is Datapanel, dat fungeert als een cruciale schakel in het beheren en analyseren van gegevens binnen organisaties. Echter, het huidige proces binnen Stofloos om configuraties voor Datapanel handmatig in JSON te schrijven, presenteert een aanzienlijk probleem. Deze aanpak is niet alleen tijdrovend, maar introduceert ook het risico op fouten, wat de efficiëntie van het ontwikkelingsproces belemmert.
+
+De kans in dit scenario is duidelijk: door een meer geoptimaliseerde en gebruiksvriendelijke methode te introduceren voor het genereren van Datapanel-configuraties, kan het ontwikkelingsproces aanzienlijk worden versneld. Deze verbetering zal niet alleen de productiviteit verhogen, maar ook de nauwkeurigheid en betrouwbaarheid van de configuraties verbeteren. Het doel is om een gestroomlijnde workflow te creëren die de ontwikkelaars in staat stelt zich te concentreren op de essentiële aspecten van maatwerk, zonder gehinderd te worden door omslachtige en foutgevoelige configuratieprocessen.  
+
 Voor meer informatie kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
 
 ## Doelstelling
