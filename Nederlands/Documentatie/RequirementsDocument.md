@@ -41,8 +41,9 @@ De doelstellingen zijn:
 |1|De user kan pagina’s en secties “op locatie” bewerken.|
 |2|De user kan d.m.v. input json voor modelviews, pages, subpages en secties genereren.|
 |3|De user kan de UI gebruiken binnen Datapanel.|
+|4|De user kan binnen de UI gebruikmaken van de backend service, op dezelfde locatie als alle andere functies.|
 ||Configuratie generatie|
-|4|De user moet standaard configuraties kunnen genereren met één klik in de UI, op basis van no-code modellen.|
+|5|De user moet standaard configuraties kunnen genereren met één klik in de UI, op basis van no-code modellen.|
 
 ## Non-Functional Requirements
 |NFR|Technology stack|
@@ -55,8 +56,9 @@ De doelstellingen zijn:
 |5|De user hoeft niet handmatig json configuraties te schrijven.|
 |6|De user kan zich makkelijk navigeren binnen de UI.|
 |7|De user hoeft niets anders dan de UI te gebruiken om configuraties te maken.|
+|8|De user kan door gebruik van een backend service met een klik op een knop, van alle modellen die geen modelview hebben, een configuratie genereren.|
 ||Gebruiksvriendelijkheid|
-|8|De user dient minimale technische kennis te hebben om gebruik te kunnen maken van de UI.|
+|9|De user dient minimale technische kennis te hebben om gebruik te kunnen maken van de UI, voor een standaardconfiguratie.|
 
 ## User Interfaces
 __User Interactions:__ 
