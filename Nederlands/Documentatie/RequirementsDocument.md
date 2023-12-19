@@ -7,6 +7,7 @@
 - [Non-Functional Requirements](#non-functional-requirements)
 - [System Architecture](#system-architecture)
 - [User Interfaces](#user-interfaces)
+- [Backend Service](#backend-service)
 - [Testing Requirements](#testing-requirements)
 
 
@@ -76,6 +77,21 @@ __Gebruiksvriendelijkheid__
 __Efficiëntie Configuratieproces__
 - Het belangrijkste doel is het verbeteren van de efficiëntie van het proces van het maken van Datapanel configuraties.
 - Gebruikers moeten in staat zijn om configuraties snel en nauwkeurig te maken zonder onnodige vertragingen of fouten.
+
+## Backend Service
+__User Interactions:__  
+Gebruikers zullen met een druk op een knop alle modelviewloze modellen ophalen en hiervoor een standaard configuratie genereren.
+- De gebruiker drukt op de knop van de bijbehorende service. 
+- fhankelijk van het aantal modellen waarvoor een configuratie gegenereerd moet worden, moet de gebruiker een paar seconden wachten.
+- Alle opgehaalde modellen bevatten nu een standaardconfiguratie en kunnen worden weergegeven op hun eigen pagina in Datapanel.  
+Tijdens dit proces wordt er gedacht aan:
+__Gebruiksvriendelijkheid__
+- Deze service moet uiterst gebruiksvriendelijk zijn om zowel ontwikkelaars als eindklanten te bedienen, zelfs zonder technische expertise.
+__Efficiëntie Configuratieproces__
+- Het belangrijkste doel is het verbeteren van de efficiëntie van het proces van het maken van Datapanel configuraties.
+- Gebruikers moeten in staat zijn om standaardconfiguraties snel te kunnen genereren, voor meerdere modellen
+- Gebruikers hoeven alleen een model aan te maken en de standaardconfiguratie wordt gegenereerd door een druk op de knop van deze service.
+
 
 ## Testing Requirements
 #### Testscenario's
