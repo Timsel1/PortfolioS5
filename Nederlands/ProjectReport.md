@@ -87,29 +87,22 @@ __Continue Feedback en Hulp:__
 Deze Agile methode, met een focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling, waarbij een adaptieve aanpak wordt gehanteerd om snel en efficiënt te reageren op veranderende vereisten.
   
 ### coderen:  
-Voor dit project wordt een gestructureerde aanpak gehanteerd, waarbij projectmanagement cruciaal is voor een succesvolle ontwikkeling. De volgende methoden en praktijken worden toegepast:  
-__Lokale Ontwikkeling:__  
-- Het coderen gebeurt lokaal, waardoor ontwikkelaars in een gecontroleerde omgeving kunnen werken voordat wijzigingen naar de hoofdcode worden overgebracht.  
+In het domein van coderen vormt een gestructureerde aanpak de ruggengraat van ons project, met projectmanagement als essentieel ingrediënt voor succesvolle ontwikkeling. Hier maken we gebruik van verschillende methoden en best practices, elk met een specifieke rol en bijdrage aan het geheel.
 
-__Gitflow:__  
-- Gitflow wordt geïmplementeerd als ontwikkelingsstrategie. Dit maakt het mogelijk om parallel aan nieuwe functies te werken, bugs op te lossen en wijzigingen door te voeren, terwijl de stabiliteit van de productiecode behouden blijft.  
+Het coderingsproces begint op lokaal niveau, een doordachte aanpak waarmee ik in een gecontroleerde omgeving werk voordat mijn wijzigingen naar de hoofdcode worden overgebracht. Dit biedt niet alleen een veilige speelplaats voor experimenten, maar garandeert ook een solide basis voordat mijn bijdragen de bredere code basis beïnvloeden.
 
-__Git Commits en Commit Message Conventies:__  
-- Start commits met specifieke woorden zoals "Add", "Fix", "Update", enz. bijvoorbeeld: "Add new feature" of "Fix bug in data processing".  
-- Alle commit messages worden in het Engels geschreven.  
-- Houd het onderwerp van de commit kort en bondig, met maximaal 50 karakters.  
-- Beperk de inhoud van de commit message tot maximaal 72 karakters.  
+We volgen de Gitflow, een systematische implementatie als ontwikkelingsstrategie. Dit stelt mij in staat om parallel aan nieuwe functies te werken, bugs op te lossen en wijzigingen door te voeren, terwijl we de stabiliteit van de productiecode behouden. Mijn digitale werkplek bevindt zich in een eigen branch genaamd "feature/configuratie-ui", waar mijn feature zorgvuldig wordt gevormd voordat deze aan het geheel wordt toegevoegd.
 
-__Veiligheid in Productiecode:__  
-- Door gebruik te maken van Gitflow wordt gewaarborgd dat er geen onbedoelde wijzigingen in de productiecode terechtkomen tijdens het ontwikkelingsproces. De ontwikkeling verloopt georganiseerd en fouten worden geminimaliseerd.  
+Binnen mijn coderingspraktijk volg ik nauwgezet de Git Commits en Commit Message Conventies. Ik initieer mijn commits met specifieke woorden zoals "Add", "Fix", "Update", en andere. Korte, krachtige berichten, beperkt tot maximaal 50 karakters, belichamen mijn streven naar code-integriteit. Ik houd de inhoud van de commit messages eveneens beknopt, met een maximum van 72 karakters, om helderheid en focus te behouden.
 
-__Frontend Testing:__  
-- De frontend van de user interface wordt grondig gecontroleerd, Dit wordt gedaan door middel van code- en peer reviews om de kwaliteit van de code te waarborgen. Usability tests worden uitgevoerd om de gebruiksvriendelijkheid van de interface te evalueren.  
+In mijn toewijding aan de veiligheid van de productiecode speelt Gitflow een cruciale rol als betrouwbare bewaker, die ervoor zorgt dat onopzettelijke wijzigingen de kern van de productiecode niet beïnvloeden. Het ontwikkelingsproces volgt een gestructureerd traject, waarbij fouten tot een minimum worden beperkt en de integriteit van de code behouden blijft.
 
-__Backend Testing:__  
-- Voor de backend worden unit tests gebruikt om de functionaliteit van afzonderlijke eenheden code te controleren. Dit garandeert de betrouwbaarheid en consistentie van de backend-functionaliteit.  
+Zowel de frontend als de backend ondergaan een zorgvuldige inspectie. De frontend wordt onderworpen aan kritische code- en peer reviews, waar de code en de algehele kwaliteit ervan nauwlettend worden gecontroleerd. Usability tests voegen een menselijk perspectief toe aan deze technologische evaluatie, waarbij niet alleen de gebruiksvriendelijkheid maar ook de efficiëntie van de interface wordt beoordeeld.
 
-Deze projectmanagement benadering stelt het ontwikkelingsteam in staat om op een georganiseerde en gestructureerde manier aan het project te werken, waarbij code-integriteit wordt behouden en zowel frontend als backend uitvoerig worden getest.
+Aan de backend-zijde wordt de betrouwbaarheid en consistentie van de functionaliteit gegarandeerd door middel van unit tests. Deze kleine proefstukken van functionaliteit worden zorgvuldig getest, waardoor de robuustheid van het gehele systeem wordt versterkt.
+
+Deze gecoördineerde benadering van projectmanagement stelt me in staat om op een georganiseerde en gestructureerde manier aan het project te werken. In deze ontwikkelingsfase blijft de code-integriteit behouden, en zowel frontend als backend ondergaan grondige tests, wat resulteert in kwaliteit in ons ontwikkelingsproces.
+
 
 ### Onderzoeken:  
 De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/). Voor meer informatie hierover heb ik in de tabellen van ["Logische Beschrijving van het Proces en de Resultaten:"](#logische-beschrijving-van-het-proces-en-de-resultaten) gelinkt naar de bijbehorende secties van de methodes (library, field, lab, showroom en workshop).
