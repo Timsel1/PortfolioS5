@@ -193,6 +193,8 @@ Door deze structuur te volgen, bieden de documenten niet alleen een duidelijk ch
 |[Conditional Json Schema](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/ConditionalJsonSchema.md)| | | | | |
 
 ### UI Validatie
+Deze documenten bieden een grondige evaluatie van de gebruikersinterface van het Datapanel-project. Hierin vindt u een gedetailleerd Usability Test Plan dat de doelen, methodologie en meetcriteria beschrijft. De Test Tasks voor de usability tests bieden specifieke taken om de gebruikersinteractie en navigatie te beoordelen. Het Test Report consolideert de resultaten, observaties en conclusies van de uitgevoerde usability tests, en biedt waardevol inzicht om de UI-ervaring te verbeteren. Samengevoegd bieden deze documenten een gestructureerde aanpak voor het valideren en verfijnen van de gebruikerservaring in het Datapanel-project.
+
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |[Usability Test Plan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestPlanUI.md)| | | | | |
