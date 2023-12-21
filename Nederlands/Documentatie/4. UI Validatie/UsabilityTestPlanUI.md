@@ -2,7 +2,7 @@
 
 - [Doelstellingen van de Usability Test](#doelstellingen-van-de-usability-test)
 - [Test Doelgroep](#test-doelgroep)
-- [Testscenario's](#testscenario's)
+- [Testscenario's](#testscenarios)
 - [Testmateriaal](#Testmateriaal)
 - [Testprocedure](#Testprocedure)
 - [Evaluatiecriteria](#evaluatiecriteria)
