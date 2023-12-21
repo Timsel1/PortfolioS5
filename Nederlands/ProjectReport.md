@@ -68,23 +68,19 @@ Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kle
 
 ## Aanpak
 ### Agile methode:  
-Dit project hanteert een Agile benadering, met name het Scrum-framework, om een flexibele en iteratieve ontwikkelingsaanpak te waarborgen. Hier zijn de belangrijkste aspecten van de Agile methode binnen deze stage:  
-__Scrum Sprints:__
-- Het ontwikkelproces is opgedeeld in sprints, waarin specifieke taken en doelstellingen binnen een afgebakende periode worden aangepakt. De sprints in dit project hebben een duur van twee weken.
+In de dynamische wereld van softwareontwikkeling is een flexibele en iteratieve aanpak van cruciaal belang. Dit project omarmt de principes van Agile, met name het gebruik van het Scrum-framework, om een adaptieve ontwikkelingsbenadering te waarborgen. Binnen deze context vormen verschillende aspecten van de Agile methode de basis van mijn stage-ervaring.
 
-__Scrum Oplevering:__
-- Aan het einde van elke sprint vindt er een sprint oplevering plaats. Hier worden de opgeleverde resultaten gedemonstreerd en besproken, zodat de belanghebbenden op de hoogte zijn van de voortgang.
+Het ontwikkelproces is gestructureerd in Scrum Sprints, waarin specifieke taken en doelstellingen binnen een afgebakende periode van twee weken worden aangepakt. Deze korte en gerichte sprints bieden niet alleen een efficiënte voortgang, maar stellen mij in staat om snel te reageren op veranderende prioriteiten en vereisten.
 
-__Retrospective:__
-- Na elke sprint oplevering wordt een retrospective gehouden. Tijdens deze sessie worden successen, uitdagingen en verbeterpunten besproken om voortdurende optimalisatie van het ontwikkelingsproces te waarborgen.
+Aan het einde van elke sprint vindt een Scrum Oplevering plaats, een cruciaal moment waarop de behaalde resultaten worden gedemonstreerd en besproken. Hier delen we niet alleen de voortgang met belanghebbenden, maar bieden we ook de mogelijkheid voor directe feedback. Bovendien deel ik tijdens deze sessies mijn sprint planning voor de volgende sprint, waardoor de belanghebbenden een vooruitblik krijgen op de te verwachten ontwikkelingen en prioriteiten.
 
-__Progress Tracking:__
-- Voor het bijhouden van voortgang en taken wordt het ticketsysteem van Stofloos gebruikt. Dit systeem fungeert als een centrale hub voor het registreren en monitoren van taken gedurende het gehele project.
+Een waardevolle praktijk die na elke sprint wordt toegepast, is de Retrospective. Deze reflectieve sessies bieden de gelegenheid om successen te vieren, uitdagingen te identificeren en verbeterpunten te bespreken. Het continue streven naar optimalisatie van het ontwikkelingsproces is van essentieel belang voor mijn stage-ervaring.
 
-__Continue Feedback en Hulp:__
-- Er wordt actief gebruikgemaakt van continue feedback en ondersteuning van de stagebegeleider en andere developers bij Stofloos. Dit garandeert dat ik tijdens de sprints op het juiste pad blijf en eventuele obstakels effectief worden aangepakt.
-    
-Deze Agile methode, met een focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling, waarbij een adaptieve aanpak wordt gehanteerd om snel en efficiënt te reageren op veranderende vereisten.
+Om de voortgang en taken gestructureerd bij te houden, maak ik gebruik van het ticketsysteem van Stofloos. Deze centrale hub fungeert als een onmisbare schakel voor het registreren en monitoren van taken gedurende het gehele project.
+Een aspect dat de wendbaarheid versterkt, is de actieve betrokkenheid van continu feedback en ondersteuning van zowel de stagebegeleider als andere ervaren developers bij Stofloos. Deze samenwerking waarborgt niet alleen de juiste koers tijdens de sprints, maar zorgt er ook voor dat eventuele obstakels snel en effectief worden aangepakt.
+
+Deze adaptieve Agile methode, met een centrale focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling. Het stelt mij in staat om snel te schakelen, efficiënt te reageren op veranderingen en voortdurend waarde toe te voegen aan het project.
+
   
 ### coderen:  
 In het domein van coderen vormt een gestructureerde aanpak de ruggengraat van ons project, met projectmanagement als essentieel ingrediënt voor succesvolle ontwikkeling. Hier maken we gebruik van verschillende methoden en best practices, elk met een specifieke rol en bijdrage aan het geheel.
