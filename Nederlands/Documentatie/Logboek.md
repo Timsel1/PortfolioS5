@@ -273,3 +273,43 @@ Korte demo aan de oprichter van het bedrijf, meer bugs gevonden.
 bug fixing
 werken aan de final touches voor de UI
 (Git) portfolio bijwerken
+
+
+### 06/12/2023
+bug fixing, portfolio voornamelijk bijgewerkt, portfolio opgestuurd naar ass 1
+
+### 07/12/2023
+bug fixing, content type van section wisselen werkt nu goed, in de overview is de page nu te zien op het kaartje van de subpage.
+functie om items uit een array te verwijderen toegevoegd.
+UI functioneel af
+
+### 08/12/2023
+Gesprek met ass1, kreeg feedback op mijn portfolio
+portfolio bijgewerkt
+
+### 11/12/2023
+portfolio bijgewerkt 
+opdracht voor de backend gekregen en een uitbreiding gemaakt hiervoor van mijn projectplan.
+
+### 12/12/2023
+met de nieuwe service gezorgd dat modelviews met een standaard config worden aangemaakt.
+
+### 13/12/2023
+gezorgd dat pages en subpages ook worden aangemaakt met de sync database service. alles wordt ook automatisch gekoppeld.
+
+### 14/12/2023
+Secties worden nu ook aangemaakt en gekoppeld met de nieuwe service.
+filterfunctie gemaakt, zodat alleen models, zonder modelview, een nieuw modelview en bijbehorende componenten krijgen.
+
+### 15/12/2023
+Geprobeerd de sync te optimaliseren, zonder succes. Unit test geschreven voor mijn service.
+
+### 18/12/2023
+Sprint oplevering/demo voor bijna iedereen van het bedrijf.
+Updaten van portfolio
+
+### 19/12/2023
+bijwerken van portfolio
+
+### 20/12/2023
+bijwerken van portfolio
