@@ -1,0 +1,3 @@
+# UI Validatie
+
+Deze documenten bieden een grondige evaluatie van de gebruikersinterface van het Datapanel-project. Hierin vindt u een gedetailleerd Usability Test Plan dat de doelen, methodologie en meetcriteria beschrijft. De Test Tasks voor de usability tests bieden specifieke taken om de gebruikersinteractie en navigatie te beoordelen. Het Test Report consolideert de resultaten, observaties en conclusies van de uitgevoerde usability tests, en biedt waardevol inzicht om de UI-ervaring te verbeteren. Samengevoegd bieden deze documenten een gestructureerde aanpak voor het valideren en verfijnen van de gebruikerservaring in het Datapanel-project.
