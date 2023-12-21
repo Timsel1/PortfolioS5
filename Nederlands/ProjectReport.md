@@ -195,7 +195,7 @@ Door deze structuur te volgen, bieden de documenten niet alleen een duidelijk ch
 
 ## Conslusie
 
-## Aanbeveling
+## Aanbevelingen
 
 ## Persoonlijke Reflectie
 
