@@ -60,11 +60,11 @@ Meer informatie hierover is te vinden in het [projectplan](https://github.com/Ti
 
 ## Onderzoeksvragen
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment: 
-- Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?
-- Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?
+- [Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)
+- [Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
 
 Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperkingen zijn bij het creëren van Datapanel configuraties en hoe ik dit kan oplossen op een manier waarbij alle end users hier profijt van hebben.
-Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan. Deze onderzoeken zijn [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research) te vinden.
+Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan.
 
 ## Aanpak
 ### Agile methode:  
