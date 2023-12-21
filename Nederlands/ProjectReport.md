@@ -126,10 +126,8 @@ You carry out the professional duties on a junior bachelor level resulting in pr
 Mijn inzet voor professionele taken op junior bachelorniveau wordt duidelijk weerspiegeld in mijn activiteiten, in lijn met het HBO-I framework. Ik heb methodisch bijgedragen aan Analysis, Design, Realization, Advisory, en Manage & Control. Bijvoorbeeld, de ontwikkeling van de backend-service illustreert mijn systematische aanpak, waarbij ik gestandaardiseerde procedures volgde om efficiëntie en gebruiksvriendelijkheid te waarborgen. Het opstellen van functionele requirements voor de backend en het implementeren van de service voor het automatisch aanmaken van pagina's zijn concrete voorbeelden van mijn bijdragen aan Analysis en Realization.
 
 ## Logische beschrijving van het proces en de resultaten
-Dit is mijn volledige proces op chronologische volgorde met bijbehorende onderzoeksmethodes.
-
 ### Analyse
-#### Frontend
+#### UI
 In de startfase van mijn stage heb ik gewerkt aan documenten die het resultaat zijn van mijn onderzoek naar de requirements van mijn project en mijn strategie voor de vervulling van deze opdracht. Gedurende deze fase heb ik zorgvuldig gewerkt aan het opstellen van cruciale documenten, waaronder mijn projectplan, requirements document en een survey.  
 
 Het projectplan schetst een uitgebreide strategie voor de implementatie van het project, waarbij ik rekening houd met de gestelde doelen, mijlpalen en benodigde middelen.  
@@ -151,7 +149,7 @@ In een van de laatste stadia van het project heb ik mij toegewijd aan de ontwikk
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |[Projectplan Uitbreiding Backend](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)|Expert interview|Explore user requirements| | |Requirements prioritization|
 
-### Designing en Prototyping
+### Design
 Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebruikersinterface (UI). In samenwerking met gespecificeerde eisen en verzamelde feedback heb ik de UI geconceptualiseerd, met een focus op intuïtieve gebruikerservaring. Wireframes en prototypes zijn ontwikkeld om functionaliteiten te visualiseren en gebruikersinteracties te verkennen. De documenten bevatten gedetailleerde uitleg van ontwerpkeuzes en lay-out overwegingen. Iteraties en evolutie zijn vastgelegd op basis van interne beoordelingen en feedback van belanghebbenden, waaronder ontwikkelaars. De prototyping fase omvatte interactieve modellen die niet alleen het ontwerp valideerden, maar ook dienden als referentie voor mij tijdens de ontwikkelfase.
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
@@ -162,26 +160,11 @@ Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebru
 |[Gebruiksvriendelijke UI (4)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI4.md)|Expert interview |Survey|Usability testing |Peer review | |
 |[Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
-### Ontwikkeling van de UI
-In de documenten die betrekking hebben op de ontwikkeling van de gebruikersinterface (UI), volg ik een gestructureerde aanpak, waarbij elke fase gericht is op het beantwoorden van cruciale vragen en het leveren van waardevolle inzichten:
+### Realisatie
+#### UI
+In mijn streven naar een verbeterde gebruikersinterface voor het Datapanel-project heb ik diverse features toegevoegd, elk gedocumenteerd in afzonderlijke rapporten. Deze documentatie biedt niet alleen een gedetailleerde beschrijving van de implementatie, maar geeft ook inzicht in de motivatie achter elke toevoeging, waarbij de focus ligt op het 'waarom' achter de ontwikkeling keuzes. Visuele representaties in de vorm van afbeeldingen en gifs worden ingezet om de impact van elke feature te demonstreren.
 
-__1. Hoofdvraag en Doelstellingen:__  
-- Hier stel ik de hoofdvraag op, die dienst doet als leidende richtlijn voor het gehele ontwikkelingsproces. Onder deze hoofdvraag verduidelijk ik het 'waarom' achter de feature en de beoogde doelstellingen.
-
-__2. Hoe heb ik dit opgelost:__  
-- Ik beschrijf gedetailleerd hoe ik de hoofdvraag heb aangepakt, met speciale aandacht voor mijn onderzoeksmethoden. 
-
-__3. Wat is het resultaat:__  
-- In deze sectie laat ik de daadwerkelijke resultaten zien in de vorm van afbeeldingen en gifs. Hiermee wil ik de lezer een visueel inzicht geven in de ontwikkelde UI-componenten en functionaliteiten.
-
-__4. Wat is de kwaliteit van het resultaat:__  
-- Ik beoordeel de kwaliteit van de behaalde resultaten en beschrijf hoe ik dit heb gevalideerd. Dit omvat tests en evaluaties die zijn uitgevoerd om te waarborgen dat de UI voldoet aan gestelde vereisten en gebruiksscenario's.
-
-__5. Wat is de volgende stap nu ik dit resultaat heb:__  
-- Tot slot, beschrijf ik de volgende stappen nu het resultaat is behaald. Dit omvat mogelijke optimalisaties, toekomstige functionaliteiten, of aanvullende stappen die genomen moeten worden om het project verder te ontwikkelen.
-
-Door deze structuur te volgen, bieden de documenten niet alleen een duidelijk chronologisch overzicht van het ontwikkelingsproces, maar benadrukken ze ook de essentiële aspecten van de aanpak, de resultaten, hun kwaliteit, validatie, en de stappen die volgen na het behalen van het resultaat.
-
+Elk rapport omvat een evaluatie van de kwaliteit van de behaalde resultaten, waarbij de nadruk ligt op het voldoen aan gestelde eisen en het handhaven van normen voor een optimale gebruikservaring. 
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
@@ -189,8 +172,27 @@ Door deze structuur te volgen, bieden de documenten niet alleen een duidelijk ch
 |[Navigation Tabs](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/NavigationTabs.md)| | | | | |
 |[Conditional Json Schema](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/ConditionalJsonSchema.md)| | | | | |
 
-### UI Validatie
-Deze documenten bieden een grondige evaluatie van de gebruikersinterface van het Datapanel-project. Hierin vindt u een gedetailleerd Usability Test Plan dat de doelen, methodologie en meetcriteria beschrijft. De Test Tasks voor de usability tests bieden specifieke taken om de gebruikersinteractie en navigatie te beoordelen. Het Test Report consolideert de resultaten, observaties en conclusies van de uitgevoerde usability tests, en biedt waardevol inzicht om de UI-ervaring te verbeteren. Samengevoegd bieden deze documenten een gestructureerde aanpak voor het valideren en verfijnen van de gebruikerservaring in het Datapanel-project.
+#### Backend
+Met de toevoeging van mijn configuratie service aan het Datapanel-project heb ik diverse functionaliteiten geïmplementeerd en gedocumenteerd in afzonderlijke rapporten. Deze documentatie biedt niet alleen een diepgaande beschrijving van de implementatie, maar werpt ook licht op de motivatie achter elke toevoeging, met de nadruk op de overwegingen die hebben geleid tot specifieke ontwikkelingskeuzes. Visuele representaties, zoals afbeeldingen en gifs, worden ingezet om de impact van elke nieuwe functie helder te presenteren.
+
+Ieder rapport bevat een beoordeling van de behaalde resultaten, met speciale aandacht voor het voldoen aan vooraf gestelde eisen en het handhaven van normen voor een optimale backend-ervaring. 
+
+|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
+|:------:|:-----:|:---:|:-:|:------:|:------:|
+| | | | | | |
+
+
+### Validatie
+#### UI
+Voor de validatie van de gebruikersinterface (UI) binnen het Datapanel-project zijn specifieke procedures en documenten opgesteld. Deze omvatten het Usability Test Plan, Test Tasks, en het Usability Test Report. Elk van deze documenten speelt een cruciale rol in het waarborgen van de effectiviteit, efficiëntie en gebruikersvriendelijkheid van de ontwikkelde UI. Ze bieden een gestructureerde aanpak voor het evalueren van de UI-prestaties en geven inzicht in hoe gebruikers interageren met de interface. Door deze documenten wordt een gefocuste en methodische benadering gegarandeerd om de kwaliteit van de gebruikerservaring te valideren.
+
+|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
+|:------:|:-----:|:---:|:-:|:------:|:------:|
+|[Usability Test Plan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestPlanUI.md)| | | | | |
+|[Test Tasks](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestTasks.md)| | | | | |
+
+#### Backend
+Voor de backend-validatie in het Datapanel-project wordt er gebruikgemaakt van unit tests, waarover wordt gedocumenteerd. Elk testgeval beschrijft niet alleen wat de test precies doet, maar geeft ook inzicht in de redenen achter het uitvoeren van die specifieke test. Deze documentatie biedt een helder begrip van de functionaliteiten die worden getest en waarom deze tests van belang zijn voor het waarborgen van de betrouwbaarheid en consistentie van de backend-functionaliteiten. Het doel is om een transparante en goed gemotiveerde validatieprocedure te hanteren, waardoor de kwaliteit van de backend wordt geoptimaliseerd.
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
