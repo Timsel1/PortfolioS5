@@ -20,9 +20,8 @@
   - [Opzet Backend](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/5.%20Opzet%20Backend)
   - [Backend Realisatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/6.%20Backend%20Realisatie)
   - [Backend Validatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/7.%20Backend%20Validatie) 
+  - [Logboek en Reflectie](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek.md)
   - [Research](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research)
     - [UI Voor Optimalisatie van Datapanel Configuraties](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
-  - [Logboek](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek.md)
-  - [Retrospective](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Retrospective.md)
    
   
