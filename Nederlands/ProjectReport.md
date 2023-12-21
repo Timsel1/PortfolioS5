@@ -119,12 +119,6 @@ In mijn research/dev logs hou ik een structuur aan die goed past bij deze method
 
 Deze structuur past goed bij de DOT methode omdat, door dit aan te houden, ik altijd de aspecten van onderzoek, realisatie en validatie aantoon.
 
-### Leerdoelen
-__[Professional duties]__  
-You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
-
-Mijn inzet voor professionele taken op junior bachelorniveau wordt duidelijk weerspiegeld in mijn activiteiten, in lijn met het HBO-I framework. Ik heb methodisch bijgedragen aan Analysis, Design, Realization, Advisory, en Manage & Control. Bijvoorbeeld, de ontwikkeling van de backend-service illustreert mijn systematische aanpak, waarbij ik gestandaardiseerde procedures volgde om efficiëntie en gebruiksvriendelijkheid te waarborgen. Het opstellen van functionele requirements voor de backend en het implementeren van de service voor het automatisch aanmaken van pagina's zijn concrete voorbeelden van mijn bijdragen aan Analysis en Realization.
-
 ## Logische beschrijving van het proces en de resultaten
 ### Analyse
 #### UI
@@ -204,6 +198,12 @@ Voor de backend-validatie in het Datapanel-project wordt er gebruikgemaakt van u
 ## Aanbevelingen
 
 ## Persoonlijke Reflectie
+### Leerdoelen
+__[Professional duties]__  
+You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
+
+Mijn inzet voor professionele taken op junior bachelorniveau wordt duidelijk weerspiegeld in mijn activiteiten, in lijn met het HBO-I framework. Ik heb methodisch bijgedragen aan Analysis, Design, Realization, Advisory, en Manage & Control. Bijvoorbeeld, de ontwikkeling van de backend-service illustreert mijn systematische aanpak, waarbij ik gestandaardiseerde procedures volgde om efficiëntie en gebruiksvriendelijkheid te waarborgen. Het opstellen van functionele requirements voor de backend en het implementeren van de service voor het automatisch aanmaken van pagina's zijn concrete voorbeelden van mijn bijdragen aan Analysis en Realization.
+
 
 
 
