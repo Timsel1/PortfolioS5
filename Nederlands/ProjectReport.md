@@ -193,5 +193,11 @@ Door deze structuur te volgen, bieden de documenten niet alleen een duidelijk ch
 |[Conditional Json Schema](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/ConditionalJsonSchema.md)| | | | | |
 
 
+## Conslusie
+
+## Aanbeveling
+
+## Persoonlijke Reflectie
+
 
 
