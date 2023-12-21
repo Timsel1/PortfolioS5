@@ -26,6 +26,7 @@
     - [Logboek](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek%20en%20Reflectie/Logboek.md)   
     - [Retrospective](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek%20en%20Reflectie/Retrospective.md)   
   - [Research](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research)
+    - [Stofloos Verbetering Sinds Datapanel](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)
     - [UI Voor Optimalisatie van Datapanel Configuraties](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
    
   
