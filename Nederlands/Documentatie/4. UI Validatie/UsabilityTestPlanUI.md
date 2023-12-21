@@ -1,14 +1,14 @@
 # Usability Test Plan voor JSON Configuratie UI
 
-- Doelstellingen van de Usability Test
-- Test Doelgroep
-- Testscenario's
-- Testmateriaal
-- Testprocedure
-- Evaluatiecriteria
-- Rapportage
+- [Doelstellingen van de Usability Test](#doelstellingen-van-de-usability-test)
+- [Test Doelgroep](#test-doelgroep)
+- [Testscenario's](#testscenario's)
+- [Testmateriaal](#Testmateriaal)
+- [Testprocedure](#Testprocedure)
+- [Evaluatiecriteria](#evaluatiecriteria)
+- [Rapportage](#rapportage)
 
-Doelstellingen van de Usability Test:
+## Doelstellingen van de Usability Test:
 - Evalueren hoe gemakkelijk gebruikers JSON-configuraties kunnen genereren met de UI.
 - Identificeren van potentiële problemen, struikelblokken of onduidelijkheden in het ontwerp.
 - Verzamelen van feedback over de algemene gebruikerservaring.
