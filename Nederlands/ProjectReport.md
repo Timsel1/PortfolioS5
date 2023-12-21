@@ -77,6 +77,7 @@ Aan het einde van elke sprint vindt een Scrum Oplevering plaats, een cruciaal mo
 Een waardevolle praktijk die na elke sprint wordt toegepast, is de Retrospective. Deze reflectieve sessies bieden de gelegenheid om successen te vieren, uitdagingen te identificeren en verbeterpunten te bespreken. Het continue streven naar optimalisatie van het ontwikkelingsproces is van essentieel belang voor mijn stage-ervaring.
 
 Om de voortgang en taken gestructureerd bij te houden, maak ik gebruik van het ticketsysteem van Stofloos. Deze centrale hub fungeert als een onmisbare schakel voor het registreren en monitoren van taken gedurende het gehele project.
+
 Een aspect dat de wendbaarheid versterkt, is de actieve betrokkenheid van continu feedback en ondersteuning van zowel de stagebegeleider als andere ervaren developers bij Stofloos. Deze samenwerking waarborgt niet alleen de juiste koers tijdens de sprints, maar zorgt er ook voor dat eventuele obstakels snel en effectief worden aangepakt.
 
 Deze adaptieve Agile methode, met een centrale focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling. Het stelt mij in staat om snel te schakelen, efficiënt te reageren op veranderingen en voortdurend waarde toe te voegen aan het project.
