@@ -22,7 +22,9 @@
     - [Projectplan Uitbreiding](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)
   - [Backend Realisatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/6.%20Backend%20Realisatie)
   - [Backend Validatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/7.%20Backend%20Validatie) 
-  - [Logboek en Reflectie](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek%20en%20Retrospective.md)
+  - [Logboek en Reflectie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Logboek%20en%20Reflectie)
+    -[Logboek](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek%20en%20Reflectie/Logboek.md)   
+    -[Retrospective](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Logboek%20en%20Reflectie/Retrospective.md)   
   - [Research](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research)
     - [UI Voor Optimalisatie van Datapanel Configuraties](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
    
