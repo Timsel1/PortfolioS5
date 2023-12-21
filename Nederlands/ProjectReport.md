@@ -128,7 +128,8 @@ Mijn inzet voor professionele taken op junior bachelorniveau wordt duidelijk wee
 ## Logische beschrijving van het proces en de resultaten
 Dit is mijn volledige proces op chronologische volgorde met bijbehorende onderzoeksmethodes.
 
-### Opzetten van het project 
+### Analyse
+#### Frontend
 In de startfase van mijn stage heb ik gewerkt aan documenten die het resultaat zijn van mijn onderzoek naar de requirements van mijn project en mijn strategie voor de vervulling van deze opdracht. Gedurende deze fase heb ik zorgvuldig gewerkt aan het opstellen van cruciale documenten, waaronder mijn projectplan, requirements document en een survey.  
 
 Het projectplan schetst een uitgebreide strategie voor de implementatie van het project, waarbij ik rekening houd met de gestelde doelen, mijlpalen en benodigde middelen.  
@@ -137,12 +138,18 @@ Het requirements document biedt een gedetailleerde analyse van de functional en 
 
 De survey is gemaakt om te peilen wat er nodig is voor mijn opdracht. Deze survey is bedoeld om een goed beeld te krijgen van wat er wordt verwacht, wat de uitdagingen zijn en welke specifieke requirements belangrijk zijn binnen het project. De antwoorden die ik heb gekregen helpen me om beter geïnformeerde beslissingen te nemen terwijl het project zich verder ontwikkelt.
 
-
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |[Projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md)|Expert interview|Explore user requirements, Problem analysis| | |Requirements prioritization|
 |[Research (Kwaliteits)eisen](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/Kwaliteitseisen.md)|Expert interview|Survey| | | |
 |[Requirements Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/RequirementsDocument.md)| | | | |Requirements prioritization|
+
+#### Backend
+In een van de laatste stadia van het project heb ik mij toegewijd aan de ontwikkeling van de backend. Dit proces begon met een kort maar grondig analyse stadium. In nauwe samenwerking met mijn stagebegeleider hebben we de opdracht uitgebreid besproken en de benodigde requirements vastgesteld. Na deze bespreking heb ik de vastgestelde requirements gedocumenteerd om een helder en gestructureerd overzicht te creëren van de te implementeren functionaliteiten. Deze gedocumenteerde requirements vormden de handleiding voor de verdere stappen in het ontwikkelingsproces, en dienen als referentiepunt voor mijzelf tijdens de uitvoering van de backend-ontwikkeling.
+
+|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
+|:------:|:-----:|:---:|:-:|:------:|:------:|
+|[Projectplan Uitbreiding Backend](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)|Expert interview|Explore user requirements| | |Requirements prioritization|
 
 ### Designing en Prototyping
 Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebruikersinterface (UI). In samenwerking met gespecificeerde eisen en verzamelde feedback heb ik de UI geconceptualiseerd, met een focus op intuïtieve gebruikerservaring. Wireframes en prototypes zijn ontwikkeld om functionaliteiten te visualiseren en gebruikersinteracties te verkennen. De documenten bevatten gedetailleerde uitleg van ontwerpkeuzes en lay-out overwegingen. Iteraties en evolutie zijn vastgelegd op basis van interne beoordelingen en feedback van belanghebbenden, waaronder ontwikkelaars. De prototyping fase omvatte interactieve modellen die niet alleen het ontwerp valideerden, maar ook dienden als referentie voor mij tijdens de ontwikkelfase.
