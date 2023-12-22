@@ -239,7 +239,16 @@ In essentie heeft het stageproject niet alleen bijgedragen aan de technische opt
 __[Professional duties]__  
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
-Mijn inzet voor professionele taken op junior bachelorniveau wordt duidelijk weerspiegeld in mijn activiteiten, in lijn met het HBO-I framework. Ik heb methodisch bijgedragen aan Analysis, Design, Realization, Advisory, en Manage & Control. Bijvoorbeeld, de ontwikkeling van de backend-service illustreert mijn systematische aanpak, waarbij ik gestandaardiseerde procedures volgde om efficiëntie en gebruiksvriendelijkheid te waarborgen. Het opstellen van functionele requirements voor de backend en het implementeren van de service voor het automatisch aanmaken van pagina's zijn concrete voorbeelden van mijn bijdragen aan Analysis en Realization.
+Mijn uitvoering van professionele taken op junior bachelorniveau tijdens deze stage wordt duidelijk weerspiegeld in mijn betrokkenheid bij diverse kernactiviteiten, zoals Analysis, Design, Realize, Advise, en Manage & Control. Mijn inzet binnen deze activiteiten volgt de richtlijnen van het HBO-I framework op competentieniveau 2.
+
+Als bewijs van mijn betrokkenheid bij Analysis kan ik verwijzen naar mijn gedetailleerde bijdrage aan het opstellen van functionele requirements voor de backend. Dit document illustreert mijn vermogen om complexe analyses uit te voeren en vereisten helder te definiëren, waarmee ik voldoe aan het niveau dat van een junior bachelor wordt verwacht.
+
+Binnen het domein van Realize heb ik concreet bijgedragen aan de ontwikkeling van de backend-service, waarbij ik gestandaardiseerde procedures heb gevolgd om efficiëntie en gebruiksvriendelijkheid te waarborgen. Het resultaat van deze inspanningen, gedocumenteerd in mijn implementatierapporten, weerspiegelt de professionele producten die ik heb voortgebracht.
+
+Mijn rol in Advise komt tot uiting in het kopje aanbevelingen, waar ik advies geef over de volgende stappen die genomen kunnen worden binnen dit project, met de belangrijkste features, gesorteerd op relevantie.
+Binnen Manage & Control heb ik actief deelgenomen aan projectmanagement activiteiten, zoals het gebruik van Gitflow en het bijhouden van voortgang in het ticketsysteem. Deze praktijken zijn getuigen van mijn vermogen om bij te dragen aan het beheer en de controle van het project op een niveau dat in lijn is met mijn junior bachelorniveau.
+
+Als geheel tonen deze concrete voorbeelden van mijn betrokkenheid bij verschillende activiteiten aan dat mijn professionele taken tijdens deze stage voldoen aan het niveau van een junior bachelor, waarbij ik producten heb voortgebracht die passend zijn binnen het IT-gebied van het Datapanel-project.
 
 
 
