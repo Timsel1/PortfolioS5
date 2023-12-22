@@ -60,7 +60,23 @@ Meer informatie hierover is te vinden in het [projectplan](https://github.com/Ti
 
 ## Onderzoeksvragen
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment: 
-- [Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)
+__[Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)__  
+In mijn rol tijdens de stage heb ik me gericht op het optimaliseren van het creatieproces van Datapanel configuraties, met als primaire doelstelling het ontwerpen van een gebruiksvriendelijke user interface (UI). Om dit te realiseren heb ik dit onderzoek opgezet, met vragen die ik over de loop van mijn stage kan beantwoorden.
+- Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?  
+Het identificeren van de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties was een cruciale stap. Door middel van een survey en interviews met stakeholders kon ik specifieke punten in kaart brengen die aandacht vereisten. Deze bevindingen dienden als uitgangspunt voor verdere inspanningen om optimalisaties door te voeren.
+
+- Wat zijn de belangrijkste functionaliteiten en interacties die vereist zijn in de UI voor het maken van Datapanel configuraties?  
+Samen met technische experts en eindgebruikers (de stakeholders) heb ik de belangrijkste functionaliteiten en interacties vastgesteld die essentieel waren voor de UI. Dit proces omvatte, zoals eerder beschreven, een survey, interviews en het maken van wireframes en prototypes, waarbij ik voortdurend iteraties doorliep om de interface te verfijnen. Het resultaat was een intuïtieve UI die gericht was op efficiëntie en gebruiksgemak.
+
+- Hoe worden de in de UI gemaakte configuraties geëxporteerd naar JSON?  
+Een cruciaal aspect was het implementeren van een export functionaliteit waarmee configuraties eenvoudig naar JSON konden worden geëxporteerd. Dit proces werd niet alleen technisch geïmplementeerd, maar ook ondersteund door uitgebreide documentatie en gebruikerstraining om een soepele overgang te waarborgen.
+
+- Hoe worden de opgeslagen configuraties geïmporteerd naar de UI?  
+Het omgekeerde proces, het importeren van opgeslagen configuraties naar de UI, werd even zorgvuldig aangepakt. Hierbij lag de focus op een intuïtieve integratie en duidelijke instructies, met geïntegreerde validatie om fouten te minimaliseren.
+
+- Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?  
+Om de gebruiksvriendelijkheid van de UI te waarborgen, zijn uitgebreide usability-tests uitgevoerd voor zowel het prototype als de uiteindelijke UI. Tijdens de Scrum-opleveringen is feedback verzameld. De optimalisatie van de UI is voortgekomen uit aanpassingen en verbeteringen die zijn doorgevoerd op basis van beschikbare input. Deze aanpak maakte het mogelijk om de UI dynamisch aan te passen aan de actuele behoeften van gebruikers.
+
 - [Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
 
 Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperkingen zijn bij het creëren van Datapanel configuraties en hoe ik dit kan oplossen op een manier waarbij alle end users hier profijt van hebben.
