@@ -22,6 +22,10 @@ verzamelen over verschillende aspecten van de gebruikerservaring. Onderwerpen al
 werden beoordeeld. De survey leverde kwantitatieve gegevens op, die in combinatie met de kwalitatieve observaties een uitgebreid beeld gaven van de sterke punten en
 mogelijke verbeterpunten van het UI-prototype. Deze gecombineerde aanpak verrijkte de evaluatie en droeg bij aan een diepgaand begrip van de gebruikersinteractie met de interface.
 
+|Deel van de doorlopen test|
+|:------------------------:|
+|![flowPart](https://github.com/Timsel1/PortfolioS5/assets/90602424/1ac47397-2535-43fc-a5da-01103a82edab)|
+
 ## Testmethodologie
 In totaal namen 3 deelnemers deel aan de usability-test, waarbij deze deelnemers zorgvuldig waren geselecteerd uit de beoogde doelgroep. Deze deelnemers vertegenwoordigen gebruikers met ervaring in het gebruik van Datapanel en het samenstellen van configuraties binnen het platform. Het feit dat ze vertrouwd waren met Datapanel bood waardevolle inzichten, omdat ze een bestaande context hadden voor het begrijpen van de configuratie processen en de specifieke vereisten van het systeem. Hun ervaring als gebruikers van Datapanel maakte hen bij uitstek geschikt om de usability van het UI-prototype te evalueren. Voorafgaand aan de test ontvingen de deelnemers alleen de informatie dat er een UI-prototype was voor het maken van Datapanel configuraties, en dat het doel was om het configuratieproces te testen.
 De usability-test volgde een gestructureerde methodologie om gericht inzicht te verkrijgen:  
