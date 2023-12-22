@@ -40,6 +40,11 @@ Na het interactieve gedeelte van de usability-test werden de deelnemers gevraagd
   - Deelnemers werden gevraagd een survey in te vullen, waarin gebruiksvriendelijkheid en duidelijkheid terugkwamen.
   - Er kwamen vragen over duidelijkheid terug die beantwoord konden worden op een schaal van 1 tot 10, waarbij 1 onduidelijk en 10 zeer duidelijk was. De gemiddelde score voor beide vragen was een 8.
 
+|![UsabilityTestAnswer7](https://github.com/Timsel1/PortfolioS5/assets/90602424/0c0ae714-6502-4238-9a19-3225d17c34f4)
+|![UsabilityTestAnswer5](https://github.com/Timsel1/PortfolioS5/assets/90602424/a37a4cf9-13ad-4478-9cb2-0374af48abc4)
+|
+|:-:|:-:|
+
 - Usability-issues:
   - “Het is mogelijk om een sectie te gebruiken in meerdere subpages. Dat zie ik nu niet terug. Je kunt niet een sectie van een andere pagina hergebruiken.”
   - Overview met veel pages kan mogelijk onoverzichtelijk worden.
