@@ -241,7 +241,7 @@ You carry out the professional duties on a junior bachelor level resulting in pr
 
 Mijn uitvoering van professionele taken op junior bachelorniveau tijdens deze stage wordt duidelijk weerspiegeld in mijn betrokkenheid bij diverse kernactiviteiten, zoals Analysis, Design, Realize, Advise, en Manage & Control. Mijn inzet binnen deze activiteiten volgt de richtlijnen van het HBO-I framework op competentieniveau 2.
 
-Als bewijs van mijn betrokkenheid bij Analysis kan ik verwijzen naar mijn gedetailleerde bijdrage aan het opstellen van functionele requirements voor de backend. Dit document illustreert mijn vermogen om complexe analyses uit te voeren en vereisten helder te definiëren, waarmee ik voldoe aan het niveau dat van een junior bachelor wordt verwacht.
+Als bewijs van mijn betrokkenheid bij Analysis kan ik verwijzen naar mijn bijdrage aan het opstellen van requirements voor zowel de frontend als de backend. De bijbehorende documenten illustreren mijn vermogen om complexe analyses uit te voeren en vereisten helder te definiëren, waarmee ik voldoe aan het niveau dat van een junior bachelor wordt verwacht.
 
 Binnen het domein van Realize heb ik concreet bijgedragen aan de ontwikkeling van de backend-service, waarbij ik gestandaardiseerde procedures heb gevolgd om efficiëntie en gebruiksvriendelijkheid te waarborgen. Het resultaat van deze inspanningen, gedocumenteerd in mijn implementatierapporten, weerspiegelt de professionele producten die ik heb voortgebracht.
 
