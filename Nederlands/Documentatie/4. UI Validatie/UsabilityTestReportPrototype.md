@@ -48,7 +48,7 @@ Na het interactieve gedeelte van de usability-test werden de deelnemers gevraagd
   - Overview met veel pages kan mogelijk onoverzichtelijk worden.
   - Eventuele overzichtspagina van secties zodat je snel een sectie aan kan passen zonder door de hele flow te moeten.
   - De edit pagina styling kan beter.
-  - 
+  
 |![UsabilityTestAnswer6](https://github.com/Timsel1/PortfolioS5/assets/90602424/f9401760-07e1-45a8-b516-1fa502723477)|![UsabilityTestAnswer10](https://github.com/Timsel1/PortfolioS5/assets/90602424/cec46419-afa2-4a40-8508-7c1ac3bbb0bb)|
 |:-:|:-:|
 
@@ -56,7 +56,7 @@ Na het interactieve gedeelte van de usability-test werden de deelnemers gevraagd
   - De flow en overzichtspagina’s van de UI waren duidelijk.
   - De navigatie van de UI was intuïtief.
   - Er waren geen onlogische stappen meer in het proces van het maken van configuraties.
-  - 
+  
 |![UsabilityTestAnswer1](https://github.com/Timsel1/PortfolioS5/assets/90602424/8717652b-d30d-4703-bce2-f0360ac3960c)|![UsabilityTestAnswer3](https://github.com/Timsel1/PortfolioS5/assets/90602424/65314121-c928-4cd0-8972-bc0cf1a19538)|
 |:-:|:-:|
 
