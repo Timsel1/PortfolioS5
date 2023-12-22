@@ -59,8 +59,8 @@ Dit project streeft naar de optimalisatie van het configuratieproces, waardoor h
 Meer informatie hierover is te vinden in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md).
 
 ## Onderzoeksvragen
-Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment: 
-__[Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)__  
+Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment:   
+__[Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)__    
 In mijn rol tijdens de stage heb ik me gericht op het optimaliseren van het creatieproces van Datapanel configuraties, met als primaire doelstelling het ontwerpen van een gebruiksvriendelijke user interface (UI). Om dit te realiseren heb ik dit onderzoek opgezet, met vragen die ik over de loop van mijn stage kan beantwoorden.
 - Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?  
 Het identificeren van de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties was een cruciale stap. Door middel van een survey en interviews met stakeholders kon ik specifieke punten in kaart brengen die aandacht vereisten. Deze bevindingen dienden als uitgangspunt voor verdere inspanningen om optimalisaties door te voeren.
