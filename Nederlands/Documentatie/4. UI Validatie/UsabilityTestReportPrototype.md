@@ -2,9 +2,6 @@
 - [Samenvatting](#samenvatting)
 - [Testmethodologie](#testmethodologie)
 - [Belangrijkste bevindingen](#belangrijkste-bevindingen)
-- [Usability-issues](#isability-issues)
-- [Positieve Feedback](#positieve-feedback)
-- [Aanbevelingen](#aanbevelingen)
 - [Conclusie](#conclusie)
 
 
