@@ -227,7 +227,7 @@ Deze optimalisaties hebben een aanzienlijke impact gehad op de bedrijfsprocessen
 
 De tijdswinst in het configuratieproces vertaalt zich niet alleen naar operationele efficiëntie maar heeft ook bredere implicaties voor de productiviteit van het team en de algehele flexibiliteit van het bedrijf. Medewerkers kunnen nu sneller en intuïtiever Datapanel configuraties maken, wat resulteert in een aanzienlijke vermindering van de inspanning die nodig is voor deze taak. 
 
-Daarnaast heeft de usability-test, die gericht was op het evalueren van de gebruikerservaring binnen de vernieuwde UI, substantiële inzichten verschaft. Deze test heeft niet alleen specifieke knelpunten blootgelegd, maar heeft ook geleid tot optimalisaties. Door gebruikersfeedback direct te integreren in het ontwikkelingsproces, is de geoptimaliseerde UI afgestemd op de specifieke behoeften en verwachtingen van de eindgebruikers, wat de bruikbaarheid en tevredenheid aanzienlijk heeft verbeterd.
+Daarnaast heeft de usability-test, die gericht was op het evalueren van de gebruikerservaring binnen de vernieuwde UI, substantiële inzichten geleverd. Deze test heeft niet alleen specifieke knelpunten blootgelegd, maar heeft ook geleid tot optimalisaties die voorheen niet aan bod kwamen. Door deze feedback direct te verwerken, kan ik vervolgstappen opstellen die deze UI verder zouden kunnen verbeteren, waardoor de bruikbaarheid en tevredenheid nog meer verbeterd zou kunnen worden.
 
 ### Aanbevelingen voor de Toekomst:
 
