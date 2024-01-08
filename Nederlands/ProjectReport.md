@@ -77,6 +77,19 @@ Het onderzoek naar het importeren van opgeslagen configuraties had als doel de i
 Om de gebruiksvriendelijkheid van de UI te waarborgen, zijn uitgebreide usability-tests uitgevoerd voor zowel het prototype als de uiteindelijke UI. Tijdens de Scrum-opleveringen is feedback verzameld. De optimalisatie van de UI is voortgekomen uit aanpassingen en verbeteringen die zijn doorgevoerd op basis van beschikbare input. Deze aanpak maakte het mogelijk om de UI dynamisch aan te passen aan de actuele behoeften van gebruikers.
 
 ### [Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)  
+Het onderzoek naar de verbeteringen sinds Datapanel is opgezet is van belang om inzicht te verkrijgen in de impact die het heeft gehad op de situatie bij Stofloos. Dit houdt in het identificeren van specifieke verbeteringen, zoals verhoogde efficiëntie, snellere toegang tot gegevens en verbeterde functionaliteiten. Het begrijpen van deze verbeteringen dient als basis voor verdere optimalisaties en groei binnen de organisatie.
+
+#### Welke uitdagingen waren er voordat Datapanel was opgezet? 
+Onderzoek naar de uitdagingen die Stofloos vóór de oprichting van Datapanel heeft ervaren is noodzakelijk om de aanleiding achter het ontstaan van het platform te begrijpen. Het richt zich op de specifieke knelpunten die Stofloos heeft gemotiveerd om een oplossing te creëren. Dit inzicht biedt waardevolle context voor het begrijpen van de initiële behoeften en doelstellingen van Datapanel.
+
+#### Wat waren de voorafgaande verbeteringen aan Datapanel en waarom waren deze nodig? 
+Het onderzoek naar eerdere verbeteringen aan Datapanel is gericht op het begrijpen van het voorafgaande verbeteringen aan het platform. Dit omvat wijzigingen en aanpassingen die zijn doorgevoerd sinds het is opgezet. Het identificeert de specifieke aspecten die zijn verbeterd en de redenen daarachter. Deze analyse helpt bij het vaststellen van behoeften die de verdere ontwikkeling van Datapanel sturen.
+
+#### Hoe ziet de huidige situatie eruit? 
+Een gedetailleerde blik op de huidige situatie van Stofloos met betrekking tot het gebruik van Datapanel biedt een actueel beeld van de impact van het platform op dagelijkse bedrijfsactiviteiten. Het omvat de functionaliteiten, prestaties en het algehele gebruiksgemak van Datapanel. Dit inzicht is cruciaal voor het beoordelen van de effectiviteit van het huidige systeem.
+
+#### Is de huidige situatie de ideale situatie? 
+Het onderzoek naar de vraag of de huidige situatie als ideaal wordt beschouwd, richt zich op het evalueren van de prestaties van Datapanel in vergelijking met de gestelde doelen en verwachtingen. Het omvat feedback van gebruikers om te bepalen welke aanpassingen of verbeteringen nodig zijn om de optimale functionaliteit en waarde te bereiken. 
 
 Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperkingen zijn bij het creëren van Datapanel configuraties en hoe ik dit kan oplossen op een manier waarbij alle end users hier profijt van hebben.
 Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan.
