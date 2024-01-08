@@ -271,6 +271,23 @@ Binnen Manage & Control heb ik actief deelgenomen aan projectmanagement activite
 
 Als geheel tonen deze concrete voorbeelden van mijn betrokkenheid bij verschillende activiteiten aan dat mijn professionele taken tijdens deze stage voldoen aan het niveau van een junior bachelor, waarbij ik producten heb voortgebracht die passend zijn binnen het IT-gebied van het Datapanel-project.
 
+__[Situation-orientation]__    
+You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
+
+Gedurende mijn stage heb ik succesvol mijn eerder opgedane kennis en vaardigheden toegepast in een realistische context, waarbij ik resultaten heb geleverd die relevant waren voor zowel het project als het bedrijf. De toepassing van mijn vaardigheden verliep methodologisch en gestructureerd, naadloos aansluitend bij de gevestigde processen en operationele werkwijzen van Stofloos.
+
+Binnen het Datapanel-project, ingebed in een authentieke IT-omgeving, had ik een IT-probleem met meerdere belanghebbenden. Dit bood een werkelijke context voor de toepassing van mijn kennis. Het project vereiste een begrip van IT-processen, systemen en de interactie van verschillende onderdelen binnen de organisatie.
+
+__Methodische en Gestructureerde Aanpak:__   
+Tijdens mijn stage hanteerde ik een methodische aanpak door gebruik te maken van Scrum als projectmanagementmethode. Het scrum framework bood een gestructureerd kader waarmee ik mijn werk kon organiseren in sprints, regelmatige opleveringen kon houden voor planning en evaluatie, en flexibel kon inspelen op veranderende eisen van het project.
+
+Daarnaast integreerde ik mijn werkzaamheden naadloos in het ticketsysteem van het bedrijf. Elk aspect van het project werd verwerkt naar kleine taken, die vervolgens werden gevolgd en bijgewerkt via het ticketsysteem. Deze benadering zorgde niet alleen voor een gestructureerde uitvoering van het project, maar bood ook transparantie over de voortgang.
+
+Deze combinatie van Scrum en het ticketsysteem diende als concreet bewijs van mijn methodische aanpak, waardoor ik kon aantonen hoe ik mijn werk gestructureerd plande, uitvoerde en integreerde in de bredere bedrijfsprocessen. Dit resulteerde in een efficiënte en georganiseerde workflow, waardoor het project soepel kon verlopen.
+
+__Relevantie voor Belanghebbenden:__  
+De resultaten van mijn werk waren ontegenzeggelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn requirements document, waarin ik kort mijn stakeholders beschrijf.
+
 ### Personal & Professional Goals
 Aan het begin van mijn stage moest ik een proposal inleveren, hierin moest ik personal en professioal goals meenemen. De volgende kopjes zijn de goals die ik voor mezelf had bedacht en een reflectie op hoe ik denk dat ik dit heb meegenomen in mijn stage.
 
