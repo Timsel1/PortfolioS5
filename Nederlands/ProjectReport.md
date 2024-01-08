@@ -60,7 +60,7 @@ Meer informatie hierover is te vinden in het [projectplan](https://github.com/Ti
 
 ## Onderzoeksvragen
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment:   
-### [Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)   
+### [Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md) 
 In mijn rol tijdens de stage heb ik me gericht op het optimaliseren van het creatieproces van Datapanel configuraties, met als primaire doelstelling het ontwerpen van een gebruiksvriendelijke user interface (UI). Om dit te realiseren heb ik dit onderzoek opgezet, met vragen die ik over de loop van mijn stage kan beantwoorden.
 
 #### Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?  
@@ -70,15 +70,15 @@ Het identificeren van de huidige uitdagingen en beperkingen bij het creëren van
 Samen met technische experts en eindgebruikers (de stakeholders) heb ik de belangrijkste functionaliteiten en interacties vastgesteld die essentieel waren voor de UI. Dit proces omvatte, zoals eerder beschreven, een survey, interviews en het maken van wireframes en prototypes, waarbij ik voortdurend iteraties doorliep om de interface te verfijnen. Het resultaat was een intuïtieve UI die gericht was op efficiëntie en gebruiksgemak.
 
 #### Hoe worden de in de UI gemaakte configuraties geëxporteerd naar JSON?  
-Een cruciaal aspect was het implementeren van een export functionaliteit waarmee configuraties eenvoudig naar JSON konden worden geëxporteerd. Dit proces werd niet alleen technisch geïmplementeerd, maar ook ondersteund door uitgebreide documentatie en gebruikerstraining om een soepele overgang te waarborgen.
+Het onderzoek naar de exportfunctionaliteit werd uitgevoerd om een beter inzicht te krijgen van de technische aspecten en het proces achter het exporteren van configuraties naar JSON. Door te focussen op dit specifieke onderdeel kon ik een beter begrip ontwikkelen van hoe de data wordt omgezet en overgedragen, wat bijdroeg aan een diepgaande kennis van het programma als geheel.
 
 #### Hoe worden de opgeslagen configuraties geïmporteerd naar de UI?  
-Het omgekeerde proces, het importeren van opgeslagen configuraties naar de UI, werd even zorgvuldig aangepakt. Hierbij lag de focus op een intuïtieve integratie en duidelijke instructies, met geïntegreerde validatie om fouten te minimaliseren.
+Het onderzoek naar het importeren van opgeslagen configuraties had als doel de integratieprocessen beter te begrijpen en te analyseren. Ondanks dat de functionaliteit al geïmplementeerd was, bood het onderzoek de mogelijkheid om dieper in te gaan op de wijze waarop configuraties worden opgehaald, geparsed en geïntegreerd in de gebruikersinterface. Hierdoor kon ik mijn algehele begrip van de technische kant van het programma verbeteren.
 
 #### Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?  
 Om de gebruiksvriendelijkheid van de UI te waarborgen, zijn uitgebreide usability-tests uitgevoerd voor zowel het prototype als de uiteindelijke UI. Tijdens de Scrum-opleveringen is feedback verzameld. De optimalisatie van de UI is voortgekomen uit aanpassingen en verbeteringen die zijn doorgevoerd op basis van beschikbare input. Deze aanpak maakte het mogelijk om de UI dynamisch aan te passen aan de actuele behoeften van gebruikers.
 
-### [Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
+### [Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)  
 
 Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperkingen zijn bij het creëren van Datapanel configuraties en hoe ik dit kan oplossen op een manier waarbij alle end users hier profijt van hebben.
 Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan.
@@ -249,6 +249,20 @@ Mijn rol in Advise komt tot uiting in het kopje aanbevelingen, waar ik advies ge
 Binnen Manage & Control heb ik actief deelgenomen aan projectmanagement activiteiten, zoals het gebruik van Gitflow en het bijhouden van voortgang in het ticketsysteem. Deze praktijken zijn getuigen van mijn vermogen om bij te dragen aan het beheer en de controle van het project op een niveau dat in lijn is met mijn junior bachelorniveau.
 
 Als geheel tonen deze concrete voorbeelden van mijn betrokkenheid bij verschillende activiteiten aan dat mijn professionele taken tijdens deze stage voldoen aan het niveau van een junior bachelor, waarbij ik producten heb voortgebracht die passend zijn binnen het IT-gebied van het Datapanel-project.
+
+### Personal & Professional Goals
+Aan het begin van mijn stage moest ik een proposal inleveren, hierin moest ik personal en professioal goals meenemen. De volgende kopjes zijn de goals die ik voor mezelf had bedacht en een reflectie op hoe ik denk dat ik dit heb meegenomen in mijn stage.
+
+__Verbeteren van presentatie skills (voor een publiek van professionals):__   
+Mijn ervaring tijdens de sprint opleveringen heeft me doen inzien dat ik comfortabel ben bij het presenteren van mijn vooruitgang en nieuwe features voor het Stofloos team. Aangezien ik me tijdens deze momenten niet nerveus voelde suggereert dit dat mijn vaardigheden aanwezig zijn of in ieder geval zijn verbeterd. Ik heb zelf gemerkt dat ik wordt beïnvloed door de specifieke setting, zoals bij formele presentaties voor bijvoorbeeld docenten. 
+
+__Betere onderzoeksvragen opstellen (de juiste vraag bij een onderzoek gebruiken):__  
+Tijdens mijn stage heb ik 2 onderzoeksvragen opgesteld, deze vragen zijn eerder voorbij gekomen in dit document. Om deze vragen op te stellen heb ik meerdere keren feedback ontvangen over hoe ik de vraag kan verbeteren en welke bijvragen missen of aangepast moeten worden. Daarnaast ben ik ook actief doorgegaan met het schrijven van devlogs, hierbij formuleer ik constant kleine onderzoeksvragen, op deze manier kan ik blijven oefenen. Door hier wederom feedback over te vragen, kon ik mijn vaardigheden in het stellen van de juiste vragen ook verbeteren. Het betrekken van deze feedback in mijn leerproces heeft geholpen bij het verbeteren van mijn formuleringen.
+Kortom, het voortzetten van het schrijven van devlogs en het vragen van feedback tijdens mijn stage heeft bijgedragen aan mijn vermogen om onderzoeksvragen effectiever te formuleren.
+
+__Verbeter vaardigheden op het gebied van timemanagement:__  
+De ervaring met het ticketsysteem heeft me waardevolle inzichten gegeven in mijn timemanagement vaardigheden. Het feit dat mijn inschattingen van de tijd die nodig was voor het toevoegen van bepaalde features over het algemeen correct waren, is een positief aspect. Het herkennen van de noodzaak om ook tijd in te plannen voor portfolio-overwegingen is een belangrijk leermoment geweest. Ik heb meerdere malen meegemaakt dat ik mijn portfolio achterwege liet en dit niet goed in mijn planning betrok. Ik kan deze ervaring gebruiken om mijn timemanagement verder te verfijnen, waarbij ik niet alleen rekening houd met projecttaken maar ook met bredere aspecten zoals portfolio-onderhoud.
+
 
 
 
