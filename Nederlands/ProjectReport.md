@@ -269,7 +269,7 @@ Tijdens mijn stage heb ik 2 onderzoeksvragen opgesteld, deze vragen zijn eerder 
 Kortom, het voortzetten van het schrijven van devlogs en het vragen van feedback tijdens mijn stage heeft bijgedragen aan mijn vermogen om onderzoeksvragen effectiever te formuleren.
 
 __Verbeter vaardigheden op het gebied van timemanagement:__  
-De ervaring met het ticketsysteem heeft me waardevolle inzichten gegeven in mijn timemanagement vaardigheden. Het feit dat mijn inschattingen van de tijd die nodig was voor het toevoegen van bepaalde features over het algemeen correct waren, is een positief aspect. Het herkennen van de noodzaak om ook tijd in te plannen voor portfolio-overwegingen is een belangrijk leermoment geweest. Ik heb meerdere malen meegemaakt dat ik mijn portfolio achterwege liet en dit niet goed in mijn planning betrok. Ik kan deze ervaring gebruiken om mijn timemanagement verder te verfijnen, waarbij ik niet alleen rekening houd met projecttaken maar ook met bredere aspecten zoals portfolio-onderhoud.
+Tijdens deze stage heb ik waardevolle inzichten gekregen op het gebied van mijn timemanagement vaardigheden. Het feit dat mijn inschattingen van de tijd die nodig was voor het toevoegen van bepaalde features over het algemeen correct waren, is een positief aspect. Het herkennen van de noodzaak om ook tijd in te plannen voor portfolio-overwegingen is een belangrijk leermoment geweest. Ik heb meerdere malen meegemaakt dat ik mijn portfolio achterwege liet en dit niet goed in mijn planning betrok. Ik kan deze ervaring gebruiken om mijn timemanagement verder te verfijnen, waarbij ik niet alleen rekening houd met projecttaken maar ook met bredere aspecten zoals portfolio-onderhoud.
 
 
 
