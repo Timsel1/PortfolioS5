@@ -13,8 +13,8 @@ De belangrijkste functionaliteiten zijn dus:
 - "Op locatie" pagina's en secties kunnen editen
 - Automatisch verbinden van de onderdelen wanneer deze in de flow worden aangemaakt.
 - Intuïtieve navigatie
-- 
-Meer informatie en onderbouwing is [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/Kwaliteitseisen.md) te vinden.
+
+Meer informatie en onderbouwing is [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/Kwaliteitseisen.md) te vinden.
 
 ## Hoe worden de in de ui gemaakte configuraties geëxporteerd naar json?
 Om inzicht te verkrijgen in hoe Datapanel configuraties vanuit de gebruikersinterface naar JSON exporteert, heb ik mijn vragen gericht aan mijn semester coach. Met zijn diepgaande kennis en expertise op dit gebied, wordt verwacht dat de processen die betrokken zijn bij het omzetten van UI-configuraties naar JSON-formaat duidelijk worden toegelicht.
@@ -47,5 +47,11 @@ __Toewijzing aan UI-componenten:__
 
 ## Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?
 Om de UI voor deze configuraties gebruiksvriendelijk te maken en houden is feedback van de end users nodig. Deze feedback is vanaf het begin nodig. Om te zorgen dat het design is wat de end user in gedachte had, is er eerst een wireframe gemaakt. Na de feedback en goedkeuring van de product owner is er een prototype gemaakt. Met dit prototype is de UI gemaakt zoals die er uiteindelijk uit moet komen te zien en met de functionaliteiten die de UI zal bieden. Na goedkeuring van het prototype kon er begonnen worden aan de UI binnen Datapanel.
-Om de onderzoeken van dit proces in meer detail door te nemen kan [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/Research/UIDesign) gekeken worden.
+Om de onderzoeken van dit proces in meer detail door te nemen kan [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/2.%20UI%20Design) gekeken worden.
 
+Conclusie
+Dit onderzoek heeft inzicht geboden in de ontwikkeling van een gebruiksvriendelijke UI voor het optimaliseren van het Datapanel configuratieproces. Door het identificeren van uitdagingen bij handmatig schrijven van JSON, het begrijpen van user flows en het vaststellen van essentiële requirements, biedt het een duidelijk beeld over hoe een effectieve UI tot stand moet komen.
+
+Belangrijk hierbij is de export en import van configuraties, waarbij een gestructureerd proces van dataconversie, overdracht naar NoCode-platform en database opslag is vastgesteld. Het continu betrekken van eindgebruikers voor feedback zorgt voor een gebruiksvriendelijke UI die voldoet aan hun behoeften.
+
+In antwoord op de hoofdvraag: Een gebruiksvriendelijke UI voor het optimaliseren van het Datapanel configuratieproces kan worden gerealiseerd door het adresseren van uitdagingen, implementeren van essentiële functionaliteiten en voortdurende gebruikersbetrokkenheid in het ontwikkelingsproces.
