@@ -286,7 +286,7 @@ Daarnaast integreerde ik mijn werkzaamheden naadloos in het ticketsysteem van he
 Deze combinatie van Scrum en het ticketsysteem diende als concreet bewijs van mijn methodische aanpak, waardoor ik kon aantonen hoe ik mijn werk gestructureerd plande, uitvoerde en integreerde in de bredere bedrijfsprocessen. Dit resulteerde in een efficiënte en georganiseerde workflow, waardoor het project soepel kon verlopen.
 
 __Relevantie voor Belanghebbenden:__  
-De resultaten van mijn werk waren ontegenzeggelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn requirements document, waarin ik kort mijn stakeholders beschrijf.
+De resultaten van mijn werk waren ontegenzeggelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview) document, waarin ik kort mijn stakeholders beschrijf.
 
 ### Personal & Professional Goals
 Aan het begin van mijn stage moest ik een proposal inleveren, hierin moest ik personal en professioal goals meenemen. De volgende kopjes zijn de goals die ik voor mezelf had bedacht en een reflectie op hoe ik denk dat ik dit heb meegenomen in mijn stage.
