@@ -34,7 +34,7 @@ Deze introductie dient als opening van dit projectrapport. Het schetst het doel 
   Legt kort de benadering, methoden en technieken uit die worden gebruikt om het project uit te voeren. Het biedt een overzicht van de werkstroom van het project.
 - [Logische Beschrijving van het Proces en de Resultaten:](#logische-beschrijving-van-het-proces-en-de-resultaten)  
   Geeft een gedetailleerde chronologische beschrijving van de stappen die zijn genomen tijdens het project, evenals de verkregen resultaten.
-- [Conclusie en Aanbevelingen:](#conslusie-en-aanbevelingen)
+- [Conclusie en Aanbevelingen:](#conslusie-en-aanbevelingen)  
   Samenvatting van de belangrijkste bevindingen en resultaten die voortvloeien uit het project en suggesties voor mogelijke acties of volgende stappen op basis van de bevindingen van het project. 
 - [Persoonlijke Reflectie:](#persoonlijke-reflectie)  
   Reflectie op persoonlijke ervaringen, uitdagingen en leermomenten tijdens het uitvoeren van het project.
