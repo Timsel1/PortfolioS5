@@ -49,7 +49,7 @@ __Toewijzing aan UI-componenten:__
 Om de UI voor deze configuraties gebruiksvriendelijk te maken en houden is feedback van de end users nodig. Deze feedback is vanaf het begin nodig. Om te zorgen dat het design is wat de end user in gedachte had, is er eerst een wireframe gemaakt. Na de feedback en goedkeuring van de product owner is er een prototype gemaakt. Met dit prototype is de UI gemaakt zoals die er uiteindelijk uit moet komen te zien en met de functionaliteiten die de UI zal bieden. Na goedkeuring van het prototype kon er begonnen worden aan de UI binnen Datapanel.
 Om de onderzoeken van dit proces in meer detail door te nemen kan [hier](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/2.%20UI%20Design) gekeken worden.
 
-Conclusie
+## Conclusie
 Dit onderzoek heeft inzicht geboden in de ontwikkeling van een gebruiksvriendelijke UI voor het optimaliseren van het Datapanel configuratieproces. Door het identificeren van uitdagingen bij handmatig schrijven van JSON, het begrijpen van user flows en het vaststellen van essentiële requirements, biedt het een duidelijk beeld over hoe een effectieve UI tot stand moet komen.
 
 Belangrijk hierbij is de export en import van configuraties, waarbij een gestructureerd proces van dataconversie, overdracht naar NoCode-platform en database opslag is vastgesteld. Het continu betrekken van eindgebruikers voor feedback zorgt voor een gebruiksvriendelijke UI die voldoet aan hun behoeften.
