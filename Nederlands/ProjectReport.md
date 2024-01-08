@@ -34,10 +34,8 @@ Deze introductie dient als opening van dit projectrapport. Het schetst het doel 
   Legt kort de benadering, methoden en technieken uit die worden gebruikt om het project uit te voeren. Het biedt een overzicht van de werkstroom van het project.
 - [Logische Beschrijving van het Proces en de Resultaten:](#logische-beschrijving-van-het-proces-en-de-resultaten)  
   Geeft een gedetailleerde chronologische beschrijving van de stappen die zijn genomen tijdens het project, evenals de verkregen resultaten.
-- [Conclusie:](#conclusie)  
-  Samenvatting van de belangrijkste bevindingen en resultaten die voortvloeien uit het project.
-- [Aanbevelingen:](#aanbevelingen)  
-  Suggesties voor mogelijke acties of volgende stappen op basis van de bevindingen van het project.  
+- [Conclusie en Aanbevelingen:](#conslusie-en-aanbevelingen)
+  Samenvatting van de belangrijkste bevindingen en resultaten die voortvloeien uit het project en suggesties voor mogelijke acties of volgende stappen op basis van de bevindingen van het project. 
 - [Persoonlijke Reflectie:](#persoonlijke-reflectie)  
   Reflectie op persoonlijke ervaringen, uitdagingen en leermomenten tijdens het uitvoeren van het project.
 
@@ -230,6 +228,16 @@ De tijdswinst in het configuratieproces vertaalt zich niet alleen naar operation
 Daarnaast heeft de usability-test, die gericht was op het evalueren van de gebruikerservaring binnen de vernieuwde UI, substantiële inzichten geleverd. Deze test heeft niet alleen specifieke knelpunten blootgelegd, maar heeft ook geleid tot optimalisaties die voorheen niet aan bod kwamen. Door deze feedback direct te verwerken, kan ik vervolgstappen opstellen die deze UI verder zouden kunnen verbeteren, waardoor de bruikbaarheid en tevredenheid nog meer verbeterd zou kunnen worden.
 
 ### Aanbevelingen voor de Toekomst:
+__Toevoegingen aan de configuratie UI:__  
+Er zijn nog features die toegevoegd moeten worden om de ervaring met deze UI compleet te maken en features die boven water zijn gekomen nadat ik mijn demo had gegeven van mijn project, deze features zijn:
+#### Het json-editor component
+Dit component moet nog worden toegevoegd aan de UI, dit heeft de hoogste prioriteit, maar is waarschijnlijk ook het makkelijkst toe te voegen, aangezien dit een bestaand component is binnen Datapanel. Dit heeft naar mijn mening de hoogste prioriteit, omdat dit ervoor zal zorgen dat table plus helemaal overbodig wordt. Op het moment kan het nog fijn zijn om table plus open te hebben staan, om de json te controleren, wanneer de json editor wordt geïmplementeerd is dit niet meer nodig en kun je daadwerkelijk alles op 1 plek configureren zonder andere hulpmiddelen.
+
+#### Configuration initialization edit scherm
+Op het moment maakt de configuration initialization service voor elke model een standaardconfiguratie, met een druk op een knop. Na de demo werd er bedacht om voor deze service een edit scherm te maken om de standaardconfiguratie snel aan te passen en ervoor te zorgen dat ongewilde models geen standaardconfiguratie krijgen. Het verschil met de huidige edit pagina’s zal zijn dat je voor een model een contenttype kunt selecteren en de pagina’s meteen op de juiste manier worden gegenereerd om bij dit contenttype te passen, op het moment zal de gebruiker deze pagina’s zelf aan moeten passen, nadat de standaardconfiguratie is gegenereerd.
+
+#### Feedback en optimalisatie voor de configuration initialization service
+In de huidige staat van deze service, kan het een paar seconden duren voordat de standaardconfiguratie zichtbaar wordt in de UI afhankelijk van hoeveel er gemaakt moeten worden. Dit komt omdat elk onderdeel van de configuratie afhankelijk is van elkaar, page is afhankelijk van modelview, subpage van page en sectie van subpage, page en modelview. Om deze reden kan het lijken dat wanneer je op de bijbehorende knop drukt er niets gebeurd. Een “toast” om te laten zien dat de service bezig is met het genereren van de configuraties zal dus al een grote verbetering zijn.
 
 ### Samenvatting van de Conclusie:
 In essentie heeft het stageproject niet alleen bijgedragen aan de technische optimalisatie van Datapanel-configuraties maar heeft het ook tastbare voordelen opgeleverd voor de algehele bedrijfsvoering. De implementatie van verbeteringen heeft de gebruiksvriendelijkheid vergroot en de efficiëntie verbeterd. Deze conclusie weerspiegelt de positieve impact van het project en biedt een stevige basis voor verdere innovatie en groei.
