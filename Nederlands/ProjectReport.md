@@ -6,7 +6,7 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 
 |Student:||
 |:--------:|:-:|
-|Family name , initials:|Meijvogel, T.M.|
+|Family name , initials:|Meijvogel, T|
 |Student number:|462739|
 |project period: (from – till)|04/09/2023 - 26/01/2023|
 |**Company:**||
@@ -14,12 +14,12 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 |Department:|Software|
 |Address:|Klokgebouw 269, 5716 AC Eindhoven|
 |**Company tutor:**||
-|Family name, initials:|Spijker, J.S.|
-|Position:|Software Engineer|
+|Family name, initials:|Spijker, J.J.|
+|Position:|Software Developer|
 |**University tutor:**||
-|Family name , initials:|Coenen, F.W.J.C.|
+|Family name , initials:|Coenen, F.W.J.|
 |**Final portfolio:**||
-|Title:||
+|Title:|S5 Portfolio Tim Meijvogel|
 |Date: ||
 
 ## Introduction
