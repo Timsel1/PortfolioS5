@@ -229,7 +229,7 @@ Daarnaast heeft de usability-test, die gericht was op het evalueren van de gebru
 
 ### Aanbevelingen voor de Toekomst:
 __Toevoegingen aan de configuratie UI:__  
-Er zijn nog features die toegevoegd moeten worden om de ervaring met deze UI compleet te maken en features die boven water zijn gekomen nadat ik mijn demo had gegeven van mijn project, deze features zijn:
+Er zijn nog features die toegevoegd moeten worden om de ervaring met deze UI compleet te maken en features die boven water zijn gekomen nadat ik mijn demo had gegeven van mijn project, een aantal van deze features zijn:
 #### Het json-editor component
 Dit component moet nog worden toegevoegd aan de UI, dit heeft de hoogste prioriteit, maar is waarschijnlijk ook het makkelijkst toe te voegen, aangezien dit een bestaand component is binnen Datapanel. Dit heeft naar mijn mening de hoogste prioriteit, omdat dit ervoor zal zorgen dat table plus helemaal overbodig wordt. Op het moment kan het nog fijn zijn om table plus open te hebben staan, om de json te controleren, wanneer de json editor wordt geïmplementeerd is dit niet meer nodig en kun je daadwerkelijk alles op 1 plek configureren zonder andere hulpmiddelen.
 
