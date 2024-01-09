@@ -257,7 +257,7 @@ In essentie heeft het stageproject niet alleen bijgedragen aan de technische opt
 
 ## Persoonlijke Reflectie
 ### Leerdoelen
-__[Professional duties]__  
+#### [Professional duties]  
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
 Mijn uitvoering van professionele taken op junior bachelorniveau tijdens deze stage wordt duidelijk weerspiegeld in mijn betrokkenheid bij diverse kernactiviteiten, zoals Analysis, Design, Realize, Advise, en Manage & Control. Mijn inzet binnen deze activiteiten volgt de richtlijnen van het HBO-I framework op competentieniveau 2.
@@ -271,7 +271,7 @@ Binnen Manage & Control heb ik actief deelgenomen aan projectmanagement activite
 
 Als geheel tonen deze concrete voorbeelden van mijn betrokkenheid bij verschillende activiteiten aan dat mijn professionele taken tijdens deze stage voldoen aan het niveau van een junior bachelor, waarbij ik producten heb voortgebracht die passend zijn binnen het IT-gebied van het Datapanel-project.
 
-__[Situation-orientation]__    
+#### [Situation-orientation]    
 You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
 Gedurende mijn stage heb ik succesvol mijn eerder opgedane kennis en vaardigheden toegepast in een realistische context, waarbij ik resultaten heb geleverd die relevant waren voor zowel het project als het bedrijf. De toepassing van mijn vaardigheden verliep methodologisch en gestructureerd, naadloos aansluitend bij de gevestigde processen en operationele werkwijzen van Stofloos.
@@ -287,6 +287,24 @@ Deze combinatie van Scrum en het ticketsysteem diende als concreet bewijs van mi
 
 __Relevantie voor Belanghebbenden:__  
 De resultaten van mijn werk waren ontegenzeggelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
+
+#### [Onderzoekend Probleemoplossend Vermogen] 
+You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
+
+Mijn vaardigheden op het gebied van onderzoekend probleemoplossen tijdens mijn stage blijkt uit mijn systematische aanpak bij het identificeren en aanpakken van problemen en implementeren van features. In de eerste fase van het project heb ik een projectplan opgesteld, waarin de scope, kansen en problemen duidelijk waren vastgelegd. Deze informatie heb ik verkregen door dit te bespreken met stakeholders, het opstellen van een survey en het ontwikkelen van wireframes en prototypes om tot een oplossing te komen.
+
+Gedurende het project hield ik voortdurend rekening met verschillende perspectieven, aangezien het doel was om deze configuraties ook toegankelijker te maken voor minder technische mensen en hanteerde ik een effectieve aanpak bij het benaderen van problemen. Hierbij maakte ik gebruik van diverse methoden van het DOT framework, zoals eerder beschreven in dit document. Deze verschillende onderzoeksmethoden stelde me in staat om diepgaande analyses uit te voeren en antwoorden te vinden op gestelde onderzoeksvragen.
+
+Mijn vaardigheid om geschikte oplossingen te formuleren werd verder versterkt door het valideren van deze oplossingen gedurende de sprints en sprint opleveringen. Ik voerde ook usability tests uit en schreef unit tests voor de backend. Deze constante validatie zorgde ervoor dat de voorgestelde oplossingen niet alleen effectief waren, maar ook voldeden aan de behoeften van de stakeholders en de geïdentificeerde problemen oplossen.
+
+Kortom, mijn benadering van onderzoekend probleemoplossen omvatte een grondige analyse van problemen, het gebruik van diverse onderzoeksmethoden en het ontwikkelen van passende oplossingen die vervolgens werden gevalideerd door stakeholders gedurende het hele project. 
+
+#### [Personal Leadership] 
+You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
+
+Mijn ondernemerschap en persoonlijke ontwikkeling tijdens deze stage, komt tot uiting in mijn aanpak. Ik neem zowel op het gebied van planning als inhoud de leiding in mijn project, waarbij ik initiatief toon en verantwoordelijkheid neem voor het succesvol verloop ervan.
+
+Het aandacht besteden aan mijn eigen leervermogen is een cruciaal onderdeel van mijn persoonlijk leiderschap. Door regelmatig te reflecteren op mijn eigen handelingen, door middel van retrospectives en het wekelijks invullen van feedpulse en actief feedback te vragen en ontvangen, ben ik in staat mijn ontwikkeling als IT-professional nauwkeurig te volgen. Deze reflecties stellen me in staat om verdere verbeterpunten en mogelijkheden te identificeren die blijken uit de ontvangen feedback. Hierdoor ben ik me voortdurend bewust van mijn groei als IT-professional.
 
 ### Personal & Professional Goals
 Aan het begin van mijn stage moest ik een proposal inleveren, hierin moest ik personal en professioal goals meenemen. De volgende kopjes zijn de goals die ik voor mezelf had bedacht en een reflectie op hoe ik denk dat ik dit heb meegenomen in mijn stage.
