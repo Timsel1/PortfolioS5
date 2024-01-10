@@ -306,6 +306,20 @@ Mijn ondernemerschap en persoonlijke ontwikkeling tijdens deze stage, komt tot u
 
 Het aandacht besteden aan mijn eigen leervermogen is een cruciaal onderdeel van mijn persoonlijk leiderschap. Door regelmatig te reflecteren op mijn eigen handelingen, door middel van retrospectives en het wekelijks invullen van feedpulse en actief feedback te vragen en ontvangen, ben ik in staat mijn ontwikkeling als IT-professional nauwkeurig te volgen. Deze reflecties stellen me in staat om verdere verbeterpunten en mogelijkheden te identificeren die blijken uit de ontvangen feedback. Hierdoor ben ik me voortdurend bewust van mijn groei als IT-professional.
 
+#### [Targeted Interaction] 
+You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
+
+Mijn vaardigheid in doelgerichte interactie kwam duidelijk naar voren tijdens mijn stage, waarbij ik voortdurend contact heb gehouden met mijn stakeholders: de developers van Stofloos. Aangezien ik het geluk had dat mijn stakeholders de developers van Stofloos waren had ik constant contact en kon ik regelmatig om feedback vragen over mijn features en documentatie, ook buiten de sprint opleveringen. 
+De communicatie verliep via Slack en face-to-face gesprekken. Aangezien Stofloos een klein bedrijf is met slechts 6 developers, kon ik binnen enkele minuten een reactie verwachten. Deze snelle manier van communicatie was handig wanneer ik input nodig had voor een feature of mijn code.
+
+Naast het contact tussen de sprints, vonden dagelijkse stand-ups plaats. Tijdens deze stand-ups deelde ik mijn voortgang en plannen voor de dag. Bovendien werden tijdens de sprint opleveringen de resultaten van mijn werk besproken. Ik presenteerde de nieuwe features die ik had afgerond, vervolgens werd er feedback gegeven. Aan het eind van de oplevering deelde ik waar ik aan zou werken in de komende sprint. Deze communicatiemomenten zorgden ervoor dat alle stakeholders constant op de hoogte waren van de stand van zaken en de ontwikkelingen van het project.
+
+__Communicatie richting Fontys__  
+De communicatie richting Fontys verliep via Teams, deze communicatiemomenten vonden elke 2-3 weken plaats. Aan het einde van elk gesprek werd direct het volgende communicatiemoment ingepland. Op deze manier was er voldoende tijd voor beide partijen om voor te bereiden, ook zorgde dit ervoor dat beide partijen verzekerd waren van beschikbare tijd. Dit gestructureerde proces bood niet alleen transparantie, maar ook de effectiviteit van de communicatie met mijn Fontys assessor.
+
+Mijn inzicht in de belangrijkste partners voor het succes van mijn project, in combinatie met mijn communicatie, resulteerde in doelgerichte interacties die zich richtten op het behalen van de verwachte impact. Dit toont aan dat ik competent ben in het identificeren van relevante partners, het aangaan van constructieve samenwerking en het gebruik van passende communicatie om de gewenste resultaten te bereiken.
+
+
 ### Personal & Professional Goals
 Aan het begin van mijn stage moest ik een proposal inleveren, hierin moest ik personal en professioal goals meenemen. De volgende kopjes zijn de goals die ik voor mezelf had bedacht en een reflectie op hoe ik denk dat ik dit heb meegenomen in mijn stage.
 
