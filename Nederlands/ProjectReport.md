@@ -291,6 +291,14 @@ Deze combinatie van Scrum en het ticketsysteem diende als concreet bewijs van mi
 __Relevantie voor Belanghebbenden:__  
 De resultaten van mijn werk waren overduidelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
 
+#### [Future-Oriented Organisation]
+You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
+
+Om dit leerdoel aan te tonen, heb ik mijn aanpak gericht op het begrijpen van de behoeften van de klant en ervoor gezorgd dat mijn voorgestelde oplossing niet alleen technisch geschikt was, maar ook voldeed aan zakelijke, ethische en onderhoudscriteria. Dit omvatte het gebruik van normen en methoden/tools, zoals TICT, om bij mijn beoordelingsproces rekening te houden met de zakelijke, ethische en onderhoudscriteria.
+
+Daarnaast heb ik mijn vermogen aangetoond om de uitvoering van het project effectief te beheren. Dit omvatte het opstellen van een gedetailleerd projectplan, waarbij ik aandacht besteedde aan onderzoeken, tijdsplanning, budget, risicobeheer en de kwaliteit van de oplossing. Hierdoor kon ik aantonen dat ik niet alleen technisch competent ben, maar ook in staat ben om het grotere plaatje te bekijken, waarbij ik zakelijke en ethische overwegingen integreer in het gehele projectproces.
+
+
 #### [Investigative Problem Solving] 
 You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
