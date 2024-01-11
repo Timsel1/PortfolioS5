@@ -147,6 +147,8 @@ In mijn research/dev logs hou ik een structuur aan die goed past bij deze method
 Deze structuur past goed bij de DOT methode omdat, door dit aan te houden, ik altijd de aspecten van onderzoek, realisatie en validatie aantoon.
 
 ## 5 Logische beschrijving van het proces en de resultaten
+Tijdens mijn stage heb ik stapsgewijs gewerkt aan mijn opdracht, alle stappen die ik heb doorlopen en de verkregen resultaten zijn hier te vinden op chronologische volgorde, voor zowel de front- als backend. Ook wordt er bij elk beroepsproduct aangegeven welke research methodes zijn gebruikt om tot het resultaat te komen.
+
 ### 5.1 Analyse
 #### UI
 In de startfase van mijn stage heb ik gewerkt aan documenten die het resultaat zijn van mijn onderzoek naar de requirements van mijn project en mijn strategie voor de vervulling van deze opdracht. Gedurende deze fase heb ik zorgvuldig gewerkt aan het opstellen van cruciale documenten, waaronder mijn projectplan, requirements document en een survey.  
@@ -285,7 +287,7 @@ Daarnaast integreerde ik mijn werkzaamheden naadloos in het ticketsysteem van he
 Deze combinatie van Scrum en het ticketsysteem diende als concreet bewijs van mijn methodische aanpak, waardoor ik kon aantonen hoe ik mijn werk gestructureerd plande, uitvoerde en integreerde in de bredere bedrijfsprocessen. Dit resulteerde in een efficiënte en georganiseerde workflow, waardoor het project soepel kon verlopen.
 
 __Relevantie voor Belanghebbenden:__  
-De resultaten van mijn werk waren ontegenzeggelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
+De resultaten van mijn werk waren overduidelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
 
 #### [Investigative Problem Solving] 
 You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
