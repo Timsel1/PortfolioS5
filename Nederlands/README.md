@@ -1,7 +1,7 @@
 # Inhoudsopgave
 - [Project Report](ProjectReport.md)
-- [Documentatie](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie)
-  - [Opzet van het Project](https://github.com/Timsel1/PortfolioS5/tree/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project)
+- [Documentatie](Documentatie)
+  - [Opzet van het Project](1.%20Opzet%20van%20het%20Project)
     - [Projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/Projectplan.md)
     - [Requirements Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md)
     - [Kwaliteitseisen](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/Kwaliteitseisen.md)
