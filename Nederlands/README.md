@@ -29,4 +29,5 @@
     - [Stofloos Verbetering Sinds Datapanel](Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)
     - [UI Voor Optimalisatie van Datapanel Configuraties](Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
    
-  
+
+  **Dit volledige portfolio is geschreven met behulp van ChatGPT**
