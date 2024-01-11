@@ -24,23 +24,23 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 
 ## Introduction
 Deze introductie dient als opening van dit projectrapport. Het schetst het doel en de doelstellingen van het project en biedt een uitgebreid overzicht van de inhoud van dit rapport.  
-- [Probleem en Kans:](#probleem-en-kans)   
+- [1 Probleem en Kans:](#1-probleem-en-kans)   
   Deze sectie presenteert de context en achtergrondinformatie die heeft geleid tot de start van het project. Het benadrukt het probleem, de kans of de behoefte die het project beoogt aan te pakken.
-- [Doelstelling:](#doelstelling)  
+- [2 Doelstelling:](#2-doelstelling)  
   Duidelijke en meetbare doelstellingen worden uiteengezet, waaruit blijkt wat het project wil bereiken. Deze doelstellingen fungeren als leidende principes gedurende de uitvoering van het project.
-- [Onderzoeksvragen:](#onderzoeksvragen)  
+- [3 Onderzoeksvragen:](#3-onderzoeksvragen)  
   Beschrijft de specifieke vragen die het onderzoek zal beantwoorden. Deze vragen begeleiden de richting van het onderzoek.
-- [Aanpak:](#aanpak)  
+- [4 Aanpak:](#4-aanpak)  
   Legt kort de benadering, methoden en technieken uit die worden gebruikt om het project uit te voeren. Het biedt een overzicht van de werkstroom van het project.
-- [Logische Beschrijving van het Proces en de Resultaten:](#logische-beschrijving-van-het-proces-en-de-resultaten)  
+- [5 Logische Beschrijving van het Proces en de Resultaten:](#5-logische-beschrijving-van-het-proces-en-de-resultaten)  
   Geeft een gedetailleerde chronologische beschrijving van de stappen die zijn genomen tijdens het project, evenals de verkregen resultaten.
-- [Conclusie en Aanbevelingen:](#conslusie-en-aanbevelingen)  
+- [6 Conclusie en Aanbevelingen:](#6-conslusie-en-aanbevelingen)  
   Samenvatting van de belangrijkste bevindingen en resultaten die voortvloeien uit het project en suggesties voor mogelijke acties of volgende stappen op basis van de bevindingen van het project. 
-- [Persoonlijke Reflectie:](#persoonlijke-reflectie)  
+- [7 Persoonlijke Reflectie:](#7-persoonlijke-reflectie)  
   Reflectie op persoonlijke ervaringen, uitdagingen en leermomenten tijdens het uitvoeren van het project.
 
 
-## Probleem en kans
+## 1 Probleem en kans
 Binnen de werkomgeving van Stofloos wordt Stofware ingezet, een geïntegreerde verzameling van gemeenschappelijke componenten die flexibel kunnen worden aangepast aan de specifieke behoeften van verschillende bedrijven. Stofware vormt de basis voor de ontwikkeling van maatwerkonderdelen, waarmee Stofloos zich kan concentreren op het leveren van oplossingen die naadloos aansluiten bij de unieke vereisten van hun klanten.
 
 Een van de kernapplicaties binnen Stofware is Datapanel, dat fungeert als een cruciale schakel in het beheren en analyseren van gegevens binnen organisaties. Echter, het huidige proces binnen Stofloos om configuraties voor Datapanel handmatig in JSON te schrijven, presenteert een aanzienlijk probleem. Deze aanpak is niet alleen tijdrovend, maar introduceert ook het risico op fouten, wat de efficiëntie van het ontwikkelingsproces belemmert.
@@ -49,53 +49,53 @@ De kans in dit scenario is duidelijk: door een meer geoptimaliseerde en gebruiks
 
 Voor meer informatie kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
 
-## Doelstelling
+## 2 Doelstelling
 Het hoofddoel van dit project is het ontwikkelen van een gebruiksvriendelijke user interface voor de configuratie van Datapanel. De focus ligt op het verminderen van fouten in het configuratieproces en het verkorten van de benodigde tijd om configuraties te maken. Een bijkomend doel is het vergroten van de toegankelijkheid, waardoor ook gebruikers met beperkte technische kennis in staat zijn om Datapanel te configureren.
 
 Dit project streeft naar de optimalisatie van het configuratieproces, waardoor het minder foutgevoelig wordt en de efficiëntie toeneemt. Een succesvolle afronding van dit project betekent dat het configureren van Datapanel sneller, intuïtiever en minder complex wordt. Het uiteindelijke resultaat moet de ontwikkelaars in staat stellen om zich te concentreren op andere projecten, aangezien het configuratieproces van Datapanel gestroomlijnd en geoptimaliseerd is. Het succes wordt gemeten aan de hand van verbeterde snelheid en gebruiksvriendelijkheid bij het creëren van Datapanel-configuraties.
 
 Meer informatie hierover is te vinden in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md).
 
-## Onderzoeksvragen
+## 3 Onderzoeksvragen
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment:   
-### [Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md) 
+### [3.1 Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md) 
 In mijn rol tijdens de stage heb ik me gericht op het optimaliseren van het creatieproces van Datapanel configuraties, met als primaire doelstelling het ontwerpen van een gebruiksvriendelijke user interface (UI). Om dit te realiseren heb ik dit onderzoek opgezet, met vragen die ik over de loop van mijn stage kan beantwoorden.
 
-#### Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?  
+#### 3.1.1 Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?  
 Het identificeren van de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties was een cruciale stap. Door middel van een survey en interviews met stakeholders kon ik specifieke punten in kaart brengen die aandacht vereisten. Deze bevindingen dienden als uitgangspunt voor verdere inspanningen om optimalisaties door te voeren.
 
-#### Wat zijn de belangrijkste functionaliteiten en interacties die vereist zijn in de UI voor het maken van Datapanel configuraties?  
+#### 3.1.2 Wat zijn de belangrijkste functionaliteiten en interacties die vereist zijn in de UI voor het maken van Datapanel configuraties?  
 Samen met technische experts en eindgebruikers (de stakeholders) heb ik de belangrijkste functionaliteiten en interacties vastgesteld die essentieel waren voor de UI. Dit proces omvatte, zoals eerder beschreven, een survey, interviews en het maken van wireframes en prototypes, waarbij ik voortdurend iteraties doorliep om de interface te verfijnen. Het resultaat was een intuïtieve UI die gericht was op efficiëntie en gebruiksgemak.
 
-#### Hoe worden de in de UI gemaakte configuraties geëxporteerd naar JSON?  
+#### 3.1.3 Hoe worden de in de UI gemaakte configuraties geëxporteerd naar JSON?  
 Het onderzoek naar de exportfunctionaliteit werd uitgevoerd om een beter inzicht te krijgen van de technische aspecten en het proces achter het exporteren van configuraties naar JSON. Door te focussen op dit specifieke onderdeel kon ik een beter begrip ontwikkelen van hoe de data wordt omgezet en overgedragen, wat bijdroeg aan een diepgaande kennis van het programma als geheel.
 
-#### Hoe worden de opgeslagen configuraties geïmporteerd naar de UI?  
+#### 3.1.4 Hoe worden de opgeslagen configuraties geïmporteerd naar de UI?  
 Het onderzoek naar het importeren van opgeslagen configuraties had als doel de integratieprocessen beter te begrijpen en te analyseren. Ondanks dat de functionaliteit al geïmplementeerd was, bood het onderzoek de mogelijkheid om dieper in te gaan op de wijze waarop configuraties worden opgehaald, geparsed en geïntegreerd in de gebruikersinterface. Hierdoor kon ik mijn algehele begrip van de technische kant van het programma verbeteren.
 
-#### Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?  
+#### 3.1.5 Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?  
 Om de gebruiksvriendelijkheid van de UI te waarborgen, zijn uitgebreide usability-tests uitgevoerd voor zowel het prototype als de uiteindelijke UI. Tijdens de Scrum-opleveringen is feedback verzameld. De optimalisatie van de UI is voortgekomen uit aanpassingen en verbeteringen die zijn doorgevoerd op basis van beschikbare input. Deze aanpak maakte het mogelijk om de UI dynamisch aan te passen aan de actuele behoeften van gebruikers.
 
-### [Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)  
+### [3.2 Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)  
 Het onderzoek naar de verbeteringen sinds Datapanel is opgezet is van belang om inzicht te verkrijgen in de impact die het heeft gehad op de situatie bij Stofloos. Dit houdt in het identificeren van specifieke verbeteringen, zoals verhoogde efficiëntie, snellere toegang tot gegevens en verbeterde functionaliteiten. Het begrijpen van deze verbeteringen dient als basis voor verdere optimalisaties en groei binnen de organisatie.
 
-#### Welke uitdagingen waren er voordat Datapanel was opgezet? 
+#### 3.2.1 Welke uitdagingen waren er voordat Datapanel was opgezet? 
 Onderzoek naar de uitdagingen die Stofloos vóór de oprichting van Datapanel heeft ervaren is noodzakelijk om de aanleiding achter het ontstaan van het platform te begrijpen. Het richt zich op de specifieke knelpunten die Stofloos heeft gemotiveerd om een oplossing te creëren. Dit inzicht biedt waardevolle context voor het begrijpen van de initiële behoeften en doelstellingen van Datapanel.
 
-#### Wat waren de voorafgaande verbeteringen aan Datapanel en waarom waren deze nodig? 
+#### 3.2.2 Wat waren de voorafgaande verbeteringen aan Datapanel en waarom waren deze nodig? 
 Het onderzoek naar eerdere verbeteringen aan Datapanel is gericht op het begrijpen van het voorafgaande verbeteringen aan het platform. Dit omvat wijzigingen en aanpassingen die zijn doorgevoerd sinds het is opgezet. Het identificeert de specifieke aspecten die zijn verbeterd en de redenen daarachter. Deze analyse helpt bij het vaststellen van behoeften die de verdere ontwikkeling van Datapanel sturen.
 
-#### Hoe ziet de huidige situatie eruit? 
+#### 3.2.3 Hoe ziet de huidige situatie eruit? 
 Een gedetailleerde blik op de huidige situatie van Stofloos met betrekking tot het gebruik van Datapanel biedt een actueel beeld van de impact van het platform op dagelijkse bedrijfsactiviteiten. Het omvat de functionaliteiten, prestaties en het algehele gebruiksgemak van Datapanel. Dit inzicht is cruciaal voor het beoordelen van de effectiviteit van het huidige systeem.
 
-#### Is de huidige situatie de ideale situatie? 
+#### 3.2.4 Is de huidige situatie de ideale situatie? 
 Het onderzoek naar de vraag of de huidige situatie als ideaal wordt beschouwd, richt zich op het evalueren van de prestaties van Datapanel in vergelijking met de gestelde doelen en verwachtingen. Het omvat feedback van gebruikers om te bepalen welke aanpassingen of verbeteringen nodig zijn om de optimale functionaliteit en waarde te bereiken. 
 
 Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperkingen zijn bij het creëren van Datapanel configuraties en hoe ik dit kan oplossen op een manier waarbij alle end users hier profijt van hebben.
 Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan.
 
-## Aanpak
-### Agile methode:  
+## 4 Aanpak
+### 4.1 Agile methode:  
 In de dynamische wereld van softwareontwikkeling is een flexibele en iteratieve aanpak van cruciaal belang. Dit project omarmt de principes van Agile, met name het gebruik van het Scrum-framework, om een adaptieve ontwikkelingsbenadering te waarborgen. Binnen deze context vormen verschillende aspecten van de Agile methode de basis van mijn stage-ervaring.
 
 Het ontwikkelproces is gestructureerd in Scrum Sprints, waarin specifieke taken en doelstellingen binnen een afgebakende periode van twee weken worden aangepakt. Deze korte en gerichte sprints bieden niet alleen een efficiënte voortgang, maar stellen mij in staat om snel te reageren op veranderende prioriteiten en vereisten.
@@ -109,9 +109,8 @@ Om de voortgang en taken gestructureerd bij te houden, maak ik gebruik van het t
 Een aspect dat de wendbaarheid versterkt, is de actieve betrokkenheid van continu feedback en ondersteuning van zowel de stagebegeleider als andere ervaren developers bij Stofloos. Deze samenwerking waarborgt niet alleen de juiste koers tijdens de sprints, maar zorgt er ook voor dat eventuele obstakels snel en effectief worden aangepakt.
 
 Deze adaptieve Agile methode, met een centrale focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling. Het stelt mij in staat om snel te schakelen, efficiënt te reageren op veranderingen en voortdurend waarde toe te voegen aan het project.
-
   
-### coderen:  
+### 4.2 coderen:  
 In het domein van coderen vormt een gestructureerde aanpak de ruggengraat van ons project, met projectmanagement als essentieel ingrediënt voor succesvolle ontwikkeling. Hier maken we gebruik van verschillende methoden en best practices, elk met een specifieke rol en bijdrage aan het geheel.
 
 Het coderingsproces begint op lokaal niveau, een doordachte aanpak waarmee ik in een gecontroleerde omgeving werk voordat mijn wijzigingen naar de hoofdcode worden overgebracht. Dit biedt niet alleen een veilige speelplaats voor experimenten, maar garandeert ook een solide basis voordat mijn bijdragen de bredere code basis beïnvloeden.
@@ -129,7 +128,7 @@ Aan de backend-zijde wordt de betrouwbaarheid en consistentie van de functionali
 Deze gecoördineerde benadering van projectmanagement stelt me in staat om op een georganiseerde en gestructureerde manier aan het project te werken. In deze ontwikkelingsfase blijft de code-integriteit behouden, en zowel frontend als backend ondergaan grondige tests, wat resulteert in kwaliteit in ons ontwikkelingsproces.
 
 
-### Onderzoeken:  
+### 4.3 Onderzoeken:  
 De onderzoeken die worden gedaan, zullen worden uitgevoerd aan de hand van de [DOT methode](https://ictresearchmethods.nl/). Voor meer informatie hierover heb ik in de tabellen van ["Logische Beschrijving van het Proces en de Resultaten:"](#logische-beschrijving-van-het-proces-en-de-resultaten) gelinkt naar de bijbehorende secties van de methodes (library, field, lab, showroom en workshop).
 
 __Hoe heb ik gebruik gemaakt van de DOT methode:__  
@@ -147,8 +146,8 @@ In mijn research/dev logs hou ik een structuur aan die goed past bij deze method
 
 Deze structuur past goed bij de DOT methode omdat, door dit aan te houden, ik altijd de aspecten van onderzoek, realisatie en validatie aantoon.
 
-## Logische beschrijving van het proces en de resultaten
-### Analyse
+## 5 Logische beschrijving van het proces en de resultaten
+### 5.1 Analyse
 #### UI
 In de startfase van mijn stage heb ik gewerkt aan documenten die het resultaat zijn van mijn onderzoek naar de requirements van mijn project en mijn strategie voor de vervulling van deze opdracht. Gedurende deze fase heb ik zorgvuldig gewerkt aan het opstellen van cruciale documenten, waaronder mijn projectplan, requirements document en een survey.  
 
@@ -171,7 +170,7 @@ In een van de laatste stadia van het project heb ik mij toegewijd aan de ontwikk
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |[Projectplan Uitbreiding Backend](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)|Expert interview|Explore user requirements| | |Requirements prioritization|
 
-### Design
+### 5.2 Design
 Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebruikersinterface (UI). In samenwerking met gespecificeerde eisen en verzamelde feedback heb ik de UI geconceptualiseerd, met een focus op intuïtieve gebruikerservaring. Wireframes en prototypes zijn ontwikkeld om functionaliteiten te visualiseren en gebruikersinteracties te verkennen. De documenten bevatten gedetailleerde uitleg van ontwerpkeuzes en lay-out overwegingen. Iteraties en evolutie zijn vastgelegd op basis van interne beoordelingen en feedback van belanghebbenden, waaronder ontwikkelaars. De prototyping fase omvatte interactieve modellen die niet alleen het ontwerp valideerden, maar ook dienden als referentie voor mij tijdens de ontwikkelfase.
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
@@ -182,7 +181,7 @@ Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebru
 |[Gebruiksvriendelijke UI (4)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI4.md)|Expert interview |Survey|Usability testing |Peer review | |
 |[Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
-### Realisatie
+### 5.3 Realisatie
 #### UI
 In mijn streven naar een verbeterde gebruikersinterface voor het Datapanel-project heb ik diverse features toegevoegd, elk gedocumenteerd in afzonderlijke rapporten. Deze documentatie biedt niet alleen een gedetailleerde beschrijving van de implementatie, maar geeft ook inzicht in de motivatie achter elke toevoeging, waarbij de focus ligt op het 'waarom' achter de ontwikkeling keuzes. Visuele representaties in de vorm van afbeeldingen en gifs worden ingezet om de impact van elke feature te demonstreren.
 
@@ -204,7 +203,7 @@ Ieder rapport bevat een beoordeling van de behaalde resultaten, met speciale aan
 | | | | | | |
 
 
-### Validatie
+### 5.4 Validatie
 #### UI
 Voor de validatie van de gebruikersinterface (UI) binnen het Datapanel-project zijn specifieke procedures en documenten opgesteld. Deze omvatten het Usability Test Plan, Test Tasks, en het Usability Test Report. Elk van deze documenten speelt een cruciale rol in het waarborgen van de effectiviteit, efficiëntie en gebruikersvriendelijkheid van de ontwikkelde UI. Ze bieden een gestructureerde aanpak voor het evalueren van de UI-prestaties en geven inzicht in hoe gebruikers interageren met de interface. Door deze documenten wordt een gefocuste en methodische benadering gegarandeerd om de kwaliteit van de gebruikerservaring te valideren.
 
@@ -221,10 +220,10 @@ Voor de backend-validatie in het Datapanel-project wordt er gebruikgemaakt van u
 |[Usability Test Plan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestPlanUI.md)| | | | | |
 |[Test Tasks](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestTasks.md)| | | | | |
 
-## Conslusie en Aanbevelingen
+## 6 Conslusie en Aanbevelingen
 In deze conclusie worden de resultaten van het stageproject samengevat, met de nadruk op de toegevoegde waarde voor het bedrijf en de stakeholders. De verworven inzichten, optimalisaties en ontwikkelingen binnen het project worden besproken, gevolgd door gerichte aanbevelingen voor verdere verbeteringen en groei. De conclusie biedt een overkoepelende evaluatie van de bereikte resultaten en benadrukt de relevantie van de bijdrage aan de organisatie en belanghebbenden.
 
-### Resultaten:
+### 6.1 Resultaten:
 Het optimaliseren van de gebruikersinterface (UI) voor het Datapanel-configuratieproces heeft geresulteerd in een gestroomlijnde workflow en verhoogde efficiëntie voor eindgebruikers. De ontwikkelde UI biedt een intuïtieve ervaring, wat de productiviteit van de gebruikers aanzienlijk heeft verbeterd. Het bestaande systeem, inclusief de exportfunctionaliteit naar JSON, draagt bij aan een naadloze gegevensuitwisseling tussen de geoptimaliseerde UI en de service die standaardconfiguraties genereert voor alle modellen in de database. Deze verbeteringen dragen bij aan een effectievere configuratiebeheer en gegevensuitwisseling binnen de organisatie.
 
 De uitgevoerde onderzoeken hebben ook aanzienlijk bijgedragen aan het succes van het stageproject. De usability-tests, specifiek gericht op de geoptimaliseerde gebruikersinterface (UI) voor het Datapanel-configuratieproces, hebben waardevolle inzichten opgeleverd. Door middel van deze tests werd niet alleen de gebruiksvriendelijkheid van de UI geëvalueerd, maar werden ook specifieke knelpunten en verbeterpunten geïdentificeerd.
@@ -233,14 +232,14 @@ De resultaten van de usability-tests hebben directe invloed gehad op de verdere 
 
 In het bijzonder heeft de aandacht voor gebruikerservaring en de implementatie van verbeteringen op basis van usability-tests niet alleen geleid tot een betere UI maar heeft het ook bijgedragen aan de algehele waarde van het project voor het bedrijf. Het vermogen om te reageren op de specifieke behoeften en verwachtingen van gebruikers is een cruciaal aspect geweest van het succes van het project tijdens deze stageperiode.
 
-### Toegevoegde Waarde voor het Bedrijf:
+### 6.2 Toegevoegde Waarde voor het Bedrijf:
 Deze optimalisaties hebben een aanzienlijke impact gehad op de bedrijfsprocessen, waarbij de tijd die voorheen nodig was voor het creëren van Datapanel configuraties aanzienlijk is verminderd. Voorheen werd er geconfronteerd met uitdagingen met betrekking tot het handmatig schrijven van de configuraties, wat resulteerde in een langere doorlooptijd en een hogere belasting voor de gebruikers. De geoptimaliseerde gebruikersinterface (UI) heeft echter een aanzienlijke verbetering in de gebruiksvriendelijkheid gebracht, waardoor het configuratieproces gestroomlijnd en toegankelijker is geworden.
 
 De tijdswinst in het configuratieproces vertaalt zich niet alleen naar operationele efficiëntie maar heeft ook bredere implicaties voor de productiviteit van het team en de algehele flexibiliteit van het bedrijf. Medewerkers kunnen nu sneller en intuïtiever Datapanel configuraties maken, wat resulteert in een aanzienlijke vermindering van de inspanning die nodig is voor deze taak. 
 
 Daarnaast heeft de usability-test, die gericht was op het evalueren van de gebruikerservaring binnen de vernieuwde UI, substantiële inzichten geleverd. Deze test heeft niet alleen specifieke knelpunten blootgelegd, maar heeft ook geleid tot optimalisaties die voorheen niet aan bod kwamen. Door deze feedback direct te verwerken, kan ik vervolgstappen opstellen die deze UI verder zouden kunnen verbeteren, waardoor de bruikbaarheid en tevredenheid nog meer verbeterd zou kunnen worden.
 
-### Aanbevelingen voor de Toekomst:
+### 6.3 Aanbevelingen voor de Toekomst:
 __Toevoegingen aan de configuratie UI:__  
 Er zijn nog features die toegevoegd moeten worden om de ervaring met deze UI compleet te maken en features die boven water zijn gekomen nadat ik mijn demo had gegeven van mijn project, een aantal van deze features zijn:
 #### Het json-editor component
@@ -252,11 +251,11 @@ Op het moment maakt de configuration initialization service voor elke model een 
 #### Feedback en optimalisatie voor de configuration initialization service
 In de huidige staat van deze service, kan het een paar seconden duren voordat de standaardconfiguratie zichtbaar wordt in de UI afhankelijk van hoeveel er gemaakt moeten worden. Dit komt omdat elk onderdeel van de configuratie afhankelijk is van elkaar, page is afhankelijk van modelview, subpage van page en sectie van subpage, page en modelview. Om deze reden kan het lijken dat wanneer je op de bijbehorende knop drukt er niets gebeurd. Een “toast” om te laten zien dat de service bezig is met het genereren van de configuraties zal dus al een grote verbetering zijn.
 
-### Samenvatting van de Conclusie:
+### 6.4 Samenvatting van de Conclusie:
 In essentie heeft het stageproject niet alleen bijgedragen aan de technische optimalisatie van Datapanel-configuraties maar heeft het ook tastbare voordelen opgeleverd voor de algehele bedrijfsvoering. De implementatie van verbeteringen heeft de gebruiksvriendelijkheid vergroot en de efficiëntie verbeterd. Deze conclusie weerspiegelt de positieve impact van het project en biedt een stevige basis voor verdere innovatie en groei.
 
-## Persoonlijke Reflectie
-### Leerdoelen
+## 7 Persoonlijke Reflectie
+### 7.1 Leerdoelen
 #### [Professional duties]  
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
@@ -320,7 +319,7 @@ De communicatie richting Fontys verliep via Teams, deze communicatiemomenten von
 Mijn inzicht in de belangrijkste partners voor het succes van mijn project, in combinatie met mijn communicatie, resulteerde in doelgerichte interacties die zich richtten op het behalen van de verwachte impact. Dit toont aan dat ik competent ben in het identificeren van relevante partners, het aangaan van constructieve samenwerking en het gebruik van passende communicatie om de gewenste resultaten te bereiken.
 
 
-### Personal & Professional Goals
+### 7.2 Personal & Professional Goals
 Aan het begin van mijn stage moest ik een proposal inleveren, hierin moest ik personal en professioal goals meenemen. De volgende kopjes zijn de goals die ik voor mezelf had bedacht en een reflectie op hoe ik denk dat ik dit heb meegenomen in mijn stage.
 
 __Verbeteren van presentatie skills (voor een publiek van professionals):__   
