@@ -47,14 +47,14 @@ Een van de kernapplicaties binnen Stofware is Datapanel, dat fungeert als een cr
 
 De kans in dit scenario is duidelijk: door een meer geoptimaliseerde en gebruiksvriendelijke methode te introduceren voor het genereren van Datapanel-configuraties, kan het ontwikkelingsproces aanzienlijk worden versneld. Deze verbetering zal niet alleen de productiviteit verhogen, maar ook de nauwkeurigheid en betrouwbaarheid van de configuraties verbeteren. Het doel is om een gestroomlijnde workflow te creëren die de ontwikkelaars in staat stelt zich te concentreren op de essentiële aspecten van maatwerk, zonder gehinderd te worden door omslachtige en foutgevoelige configuratieprocessen.  
 
-Voor meer informatie kan [hier](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
+Voor meer informatie kan [hier](Documentatie/1.%20Opzet%20van%20het%20Project/Projectplan.md#de-opdracht) in het projectplan worden gekeken.
 
 ## 2 Doelstelling
 Het hoofddoel van dit project is het ontwikkelen van een gebruiksvriendelijke user interface voor de configuratie van Datapanel. De focus ligt op het verminderen van fouten in het configuratieproces en het verkorten van de benodigde tijd om configuraties te maken. Een bijkomend doel is het vergroten van de toegankelijkheid, waardoor ook gebruikers met beperkte technische kennis in staat zijn om Datapanel te configureren.
 
 Dit project streeft naar de optimalisatie van het configuratieproces, waardoor het minder foutgevoelig wordt en de efficiëntie toeneemt. Een succesvolle afronding van dit project betekent dat het configureren van Datapanel sneller, intuïtiever en minder complex wordt. Het uiteindelijke resultaat moet de ontwikkelaars in staat stellen om zich te concentreren op andere projecten, aangezien het configuratieproces van Datapanel gestroomlijnd en geoptimaliseerd is. Het succes wordt gemeten aan de hand van verbeterde snelheid en gebruiksvriendelijkheid bij het creëren van Datapanel-configuraties.
 
-Meer informatie hierover is te vinden in het [projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md).
+Meer informatie hierover is te vinden in het [projectplan](Documentatie/1.%20Opzet%20van%20het%20Project/Projectplan.md).
 
 ## 3 Onderzoeksvragen
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment:   
@@ -163,27 +163,27 @@ De survey is gemaakt om te peilen wat er nodig is voor mijn opdracht. Deze surve
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Projectplan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Projectplan.md)|Expert interview|Explore user requirements, Problem analysis| | |Requirements prioritization|
-|[Research (Kwaliteits)eisen](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/Kwaliteitseisen.md)|Expert interview|Survey| | | |
-|[Requirements Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/RequirementsDocument.md)| | | | |Requirements prioritization|
+|[Projectplan](Documentatie/1.%20Opzet%20van%20het%20Project/Projectplan.md)|Expert interview|Explore user requirements, Problem analysis| | |Requirements prioritization|
+|[Research (Kwaliteits)eisen](Documentatie/1.%20Opzet%20van%20het%20Project/Kwaliteitseisen.md)|Expert interview|Survey| | | |
+|[Requirements Document](Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md)| | | | |Requirements prioritization|
 
 #### Backend
 In een van de laatste stadia van het project heb ik mij toegewijd aan de ontwikkeling van de backend. Dit proces begon met een kort maar grondig analyse stadium. In nauwe samenwerking met mijn stagebegeleider hebben we de opdracht uitgebreid besproken en de benodigde requirements vastgesteld. Na deze bespreking heb ik de vastgestelde requirements gedocumenteerd om een helder en gestructureerd overzicht te creëren van de te implementeren functionaliteiten. Deze gedocumenteerde requirements vormden de handleiding voor de verdere stappen in het ontwikkelingsproces, en dienen als referentiepunt voor mijzelf tijdens de uitvoering van de backend-ontwikkeling.
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Projectplan Uitbreiding Backend](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)|Expert interview|Explore user requirements| | |Requirements prioritization|
+|[Projectplan Uitbreiding Backend](Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)|Expert interview|Explore user requirements| | |Requirements prioritization|
 
 ### 5.2 Design
 Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebruikersinterface (UI). In samenwerking met gespecificeerde eisen en verzamelde feedback heb ik de UI geconceptualiseerd, met een focus op intuïtieve gebruikerservaring. Wireframes en prototypes zijn ontwikkeld om functionaliteiten te visualiseren en gebruikersinteracties te verkennen. De documenten bevatten gedetailleerde uitleg van ontwerpkeuzes en lay-out overwegingen. Iteraties en evolutie zijn vastgelegd op basis van interne beoordelingen en feedback van belanghebbenden, waaronder ontwikkelaars. De prototyping fase omvatte interactieve modellen die niet alleen het ontwerp valideerden, maar ook dienden als referentie voor mij tijdens de ontwikkelfase.
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Gebruiksvriendelijke UI (1)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI1.md)|Expert interview|Survey| | | |
-|[Gebruiksvriendelijke UI (2)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI2.md)|Expert interview||||Prototyping|
-|[Gebruiksvriendelijke UI (3)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI3.md)|Available Product Analysis, Expert interview| | | |Prototyping|
-|[Gebruiksvriendelijke UI (4)](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIDesign/GebruiksvriendelijkeUI4.md)|Expert interview |Survey|Usability testing |Peer review | |
-|[Design Document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
+|[Gebruiksvriendelijke UI Survey](Documentatie/2.%20UI%20Design/1.%20GebruiksvriendelijkeUISurvey.md)|Expert interview|Survey| | | |
+|[Gebruiksvriendelijke UI Wireframe](Documentatie/2.%20UI%20Design/2.%20GebruiksvriendelijkeUIWireframe.md)|Expert interview||||Prototyping|
+| [Gebruiksvriendelijke UI Prototype](Documentatie/2.%20UI%20Design/3.%20GebruiksvriendelijkeUIPrototype.md)|Available Product Analysis, Expert interview| | | |Prototyping|
+|[Gebruiksvriendelijke UI Usability Test](Documentatie/2.%20UI%20Design/4.%20GebruiksvriendelijkeUIUsabilityTest.md)|Expert interview |Survey|Usability testing |Peer review | |
+|[Design Document](Documentatie/2.%20UI%20Design/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
 ### 5.3 Realisatie
 #### UI
@@ -193,9 +193,9 @@ Elk rapport omvat een evaluatie van de kwaliteit van de behaalde resultaten, waa
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Generieke Cards](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/GeneriekeCards.md)|Design pattern research, Expert interview| | | |Code review |
-|[Navigation Tabs](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/NavigationTabs.md)| | | | | |
-|[Conditional Json Schema](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIRealisatie/ConditionalJsonSchema.md)| | | | | |
+|[Generieke Cards](Documentatie/3.%20UI%20Realisatie/1.%20GeneriekeCards.md)|Design pattern research, Expert interview| | | |Code review |
+|[Navigation Tabs](Documentatie/2.%20UI%20Design/2.%20NavigationTabs.md)| | | | | |
+|[Conditional Json Schema](Documentatie/2.%20UI%20Design/ConditionalJsonSchema.md)  | | | | | |
 
 #### Backend
 Met de toevoeging van mijn configuratie service aan het Datapanel-project heb ik diverse functionaliteiten geïmplementeerd en gedocumenteerd in afzonderlijke rapporten. Deze documentatie biedt niet alleen een diepgaande beschrijving van de implementatie, maar werpt ook licht op de motivatie achter elke toevoeging, met de nadruk op de overwegingen die hebben geleid tot specifieke ontwikkelingskeuzes. Visuele representaties, zoals afbeeldingen en gifs, worden ingezet om de impact van elke nieuwe functie helder te presenteren.
@@ -213,8 +213,8 @@ Voor de validatie van de gebruikersinterface (UI) binnen het Datapanel-project z
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Usability Test Plan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestPlanUI.md)| | | | | |
-|[Test Tasks](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestTasks.md)| | | | | |
+|[Usability Test Plan UI](Documentatie/4.%20UI%20Validatie/UsabilityTestPlanUI.md)| | | | | |
+|[Test Tasks](Documentatie/4.%20UI%20Validatie/TestTasks.md) | | | | | |
 
 #### Backend
 Voor de backend-validatie in het Datapanel-project wordt er gebruikgemaakt van unit tests, waarover wordt gedocumenteerd. Elk testgeval beschrijft niet alleen wat de test precies doet, maar geeft ook inzicht in de redenen achter het uitvoeren van die specifieke test. Deze documentatie biedt een helder begrip van de functionaliteiten die worden getest en waarom deze tests van belang zijn voor het waarborgen van de betrouwbaarheid en consistentie van de backend-functionaliteiten. Het doel is om een transparante en goed gemotiveerde validatieprocedure te hanteren, waardoor de kwaliteit van de backend wordt geoptimaliseerd.
@@ -289,7 +289,7 @@ Daarnaast integreerde ik mijn werkzaamheden naadloos in het ticketsysteem van he
 Deze combinatie van Scrum en het ticketsysteem diende als concreet bewijs van mijn methodische aanpak, waardoor ik kon aantonen hoe ik mijn werk gestructureerd plande, uitvoerde en integreerde in de bredere bedrijfsprocessen. Dit resulteerde in een efficiënte en georganiseerde workflow, waardoor het project soepel kon verlopen.
 
 __Relevantie voor Belanghebbenden:__  
-De resultaten van mijn werk waren overduidelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
+De resultaten van mijn werk waren overduidelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
 
 #### [Future-Oriented Organisation]
 You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
