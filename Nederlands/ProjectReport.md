@@ -95,6 +95,8 @@ Met deze onderzoeken wil ik er achter komen wat de huidige uitdagingen en beperk
 Voor het beantwoorden van deze onderzoeksvragen maak ik gebruik van meerdere kleine onderzoeken die door het proces van dit project ontstaan.
 
 ## 4 Aanpak
+In deze sectie wordt een kort overzicht gegeven van de aanpak die wordt gebruikt om het project te beheren. Hierbij worden de gebruikte methoden en technieken kort toegelicht, en wordt een overzicht gegeven van het hele proces dat is gevolgd. Door deze inzichten is een helder beeld te vormen van de benadering en specifieke stappen die zijn ondernomen om de gestelde doelen te bereiken.
+
 ### 4.1 Agile methode:  
 In de dynamische wereld van softwareontwikkeling is een flexibele en iteratieve aanpak van cruciaal belang. Dit project omarmt de principes van Agile, met name het gebruik van het Scrum-framework, om een adaptieve ontwikkelingsbenadering te waarborgen. Binnen deze context vormen verschillende aspecten van de Agile methode de basis van mijn stage-ervaring.
 
