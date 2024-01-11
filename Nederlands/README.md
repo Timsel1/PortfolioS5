@@ -24,12 +24,12 @@
     - [Projectplan Uitbreiding](Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)
   - [Backend Realisatie](Documentatie/6.%20Backend%20Realisatie)
   - [Backend Validatie](Documentatie/7.%20Backend%20Validatie) 
-  - [Logboek en Reflectie](Documentatie/Logboek%20en%20Reflectie)
-    - [Logboek](Documentatie/Logboek%20en%20Reflectie/Logboek.md)   
-    - [Retrospective](Documentatie/Logboek%20en%20Reflectie/Retrospective.md)   
-  - [Research](Documentatie/Research)
-    - [Stofloos Verbetering Sinds Datapanel](Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)
-    - [UI Voor Optimalisatie van Datapanel Configuraties](Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
+  - [Logboek en Reflectie](Documentatie/8.%20Logboek%20en%20Reflectie)
+    - [Logboek](Documentatie/8.%20Logboek%20en%20Reflectie/Logboek.md)   
+    - [Retrospective](Documentatie/8.%20Logboek%20en%20Reflectie/Retrospective.md)   
+  - [Research](Documentatie/9.%20Research)
+    - [Stofloos Verbetering Sinds Datapanel](Documentatie/9.%20Research/StofloosVerbeteringSindsDatapanel.md)
+    - [UI Voor Optimalisatie van Datapanel Configuraties](Documentatie/9.%20Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
    
 
   **Dit volledige portfolio is geschreven met behulp van ChatGPT**
