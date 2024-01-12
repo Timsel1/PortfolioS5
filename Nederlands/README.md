@@ -23,6 +23,7 @@
   - [Opzet Backend](Documentatie/5.%20Opzet%20Backend)
     - [Projectplan Uitbreiding](Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)
   - [Backend Realisatie](Documentatie/6.%20Backend%20Realisatie)
+    - [Backend Service Creatie](Documentatie/6.%20Backend%20Realisatie/BackendServiceCreatie.md) 
   - [Backend Validatie](Documentatie/7.%20Backend%20Validatie) 
   - [Logboek en Reflectie](Documentatie/8.%20Logboek%20en%20Reflectie)
     - [Logboek](Documentatie/8.%20Logboek%20en%20Reflectie/Logboek.md)   
