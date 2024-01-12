@@ -8,6 +8,7 @@ Vervolgens ben ik begonnen met de implementatie van deze service in TypeScript. 
 
 ## Wat is het resultaat?
 Het resultaat is een onderhoudsvriendelijke service die met één klik op een knop standaardconfiguraties genereert. De implementatie in TypeScript zorgde voor type-safety en modulaire ontwikkeling, waardoor de betrouwbaarheid en flexibiliteit van de service werden versterkt. Wel zijn er op het moment voor de model, modelview, page, subpage en section nog “any“ gebruikt, dit komt doordat deze types nog bijgewerkt moesten worden.
+
 Deze implementatie zorgt voor een grote verbetering van de gebruiksvriendelijkheid en efficiëntie van Datapanel. Gebruikers kunnen nu moeiteloos en snel standaardconfiguraties genereren, waardoor de ontwikkeling workflow wordt geoptimaliseerd. Dit resultaat vervult niet alleen de gestelde eisen, maar draagt ook bij aan een meer gestroomlijnde en effectieve werking van het systeem.
 
 ## Wat is de kwaliteit van het resultaat?
