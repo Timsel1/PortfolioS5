@@ -5,7 +5,7 @@
     - [Projectplan](Documentatie/01.%20Opzet%20van%20het%20Project/Projectplan.md)
     - [Requirements Document](Documentatie/01.%20Opzet%20van%20het%20Project/RequirementsDocument.md)
     - [Kwaliteitseisen](Documentatie/01.%20Opzet%20van%20het%20Project/Kwaliteitseisen.md)
-    - [Design Document](Documentatie/02.%20UI%20Design/DesignDocument.md)
+    - [Design Document](Documentatie/01.%20Opzet%20van%20het%20Project/DesignDocument.md)
   - [UI Design](Documentatie/02.%20UI%20Design)
     - [Gebruiksvriendelijke UI Survey](Documentatie/02.%20UI%20Design/1.%20GebruiksvriendelijkeUISurvey.md)
     - [Gebruiksvriendelijke UI Wireframe](Documentatie/02.%20UI%20Design/2.%20GebruiksvriendelijkeUIWireframe.md)
