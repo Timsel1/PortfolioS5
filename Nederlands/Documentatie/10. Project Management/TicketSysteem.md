@@ -17,5 +17,5 @@ Kortom, het ticketsysteem van Stofloos heeft mijn projectmanagement aanzienlijk 
 waardoor het eenvoudiger werd om de voortgang van het project te bewaken en de taken effectief te beheren.
 
 |Huidige staat ticketsysteem|Beschrijving|
-|::|:------------------------------------|
-|||
+|:-------------------------:|:-----------|
+||Sprint 1:|
