@@ -21,8 +21,7 @@ waardoor het eenvoudiger werd om de voortgang van het project te bewaken en de t
 
 |Huidige staat ticketsysteem|Beschrijving|
 |:-------------------------:|:-----------|
-|![TicketSysteemSprint1](https://github.com/Timsel1/PortfolioS5/assets/90602424/ceff84a7-a0c3-4f9b-8752-e1beae567a8f)|Sprint 1:  
-In Sprint 1 lag de focus op het afmaken van het projectplan en het maken van wireframes. Het projectplan diende als leidraad  en de wireframes als een visuele representatie van de gebruikersinterface. Deze producten legden een stevige basis voor de verdere ontwikkeling van het project, waardoor er een duidelijk beeld werd geschetst over het resultaat van dit project.|
+|![TicketSysteemSprint1](https://github.com/Timsel1/PortfolioS5/assets/90602424/ceff84a7-a0c3-4f9b-8752-e1beae567a8f)|Sprint 1:   In Sprint 1 lag de focus op het afmaken van het projectplan en het maken van wireframes. Het projectplan diende als leidraad  en de wireframes als een visuele representatie van de gebruikersinterface. Deze producten legden een stevige basis voor de verdere ontwikkeling van het project, waardoor er een duidelijk beeld werd geschetst over het resultaat van dit project.|
 |![TicketSysteemSprint2](https://github.com/Timsel1/PortfolioS5/assets/90602424/651ec9d1-0df4-46d6-ba25-37d093b2ed70)|Sprint 2:|
 |![TicketSysteemSprint3](https://github.com/Timsel1/PortfolioS5/assets/90602424/8bfc66c5-6caf-4c88-83bb-becd373b35a7)|Sprint 3:|
 |![TicketSysteemSprint4](https://github.com/Timsel1/PortfolioS5/assets/90602424/e78516a6-f117-45b0-94a9-e76a994f0e0c)|Sprint 4:|
