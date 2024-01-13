@@ -18,4 +18,10 @@ waardoor het eenvoudiger werd om de voortgang van het project te bewaken en de t
 
 |Huidige staat ticketsysteem|Beschrijving|
 |:-------------------------:|:-----------|
-||Sprint 1:|
+|![TicketSysteemSprint1](https://github.com/Timsel1/PortfolioS5/assets/90602424/73dc4303-0bcd-404a-a05a-72a2772f8200)|Sprint 1:|
+|![TicketSysteemSprint2](https://github.com/Timsel1/PortfolioS5/assets/90602424/bd1462cc-37bd-4503-92f6-7e6e1410b949)|Sprint 2:|
+|![TicketSysteemSprint3](https://github.com/Timsel1/PortfolioS5/assets/90602424/2be1ced4-889a-4517-8034-89148e94813a)|Sprint 3:|
+|![TicketSysteemSprint4](https://github.com/Timsel1/PortfolioS5/assets/90602424/e81d2277-e321-43b9-88c9-569b1ca4d591)|Sprint 4:|
+|![TicketSysteemSprint5](https://github.com/Timsel1/PortfolioS5/assets/90602424/3d54268d-582d-4952-ae6e-2d3f50bef6d3)|Sprint 5:|
+|![TicketSysteemSprint6](https://github.com/Timsel1/PortfolioS5/assets/90602424/45cd14bc-6a84-45bd-b729-7175ce42d593)|Sprint 6:|
+|![TicketSysteemSprint7](https://github.com/Timsel1/PortfolioS5/assets/90602424/aa560eba-ef28-443d-96bc-cf6cb4cbf2c9)|Sprint 7:|
