@@ -12,6 +12,9 @@ omdat direct gezien kon worden welke taken nog moesten worden uitgevoerd en welk
 Voor de registratie van taken heb ik gevraagd naar een standaard die wordt aangehouden, hierbij valt te denken aan bijvoorbeeld user stories, en wat aan te raden was voor 
 mij op dit gebied. Er werd me verteld dat, zolang het voor mij duidelijk was wat ik had opgeschreven, het oké was. Dus ik heb gebruik gemaakt van een korte beschijving van wat ik zou moeten doen en dit opgedeeld 
 in kleinere subtaken. 
+|Afbeelding subtaken|
+|:-----------------:|
+|![TicketSysteemSubtaken](https://github.com/Timsel1/PortfolioS5/assets/90602424/c28f6307-1b67-4f8f-8ee3-01ee03c0ffec)|
 
 Kortom, het ticketsysteem van Stofloos heeft mijn projectmanagement aanzienlijk verbeterd. Het heeft bijgedragen aan een gestructureerde en transparante aanpak van taken, 
 waardoor het eenvoudiger werd om de voortgang van het project te bewaken en de taken effectief te beheren.
