@@ -35,6 +35,8 @@
     - [UI Voor Optimalisatie van Datapanel Configuraties](Documentatie/09.%20Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
   - [Project Management](Documentatie/10.%20Project%20Management)
     - [Git Commits en Gitflow](Documentatie/10.%20Project%20Management/GitflowEnCommits.md)
-    - [Ticket Systeem](Documentatie/10.%20Project%20Management/TicketSysteem.md)     
+    - [Ticket Systeem](Documentatie/10.%20Project%20Management/TicketSysteem.md)
+  - [Technology Impact Cycle Tool](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool)
+    - [TICT pdf](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool/TICT.pdf)    
 
   **Dit volledige portfolio is geschreven met behulp van ChatGPT**
