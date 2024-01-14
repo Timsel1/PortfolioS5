@@ -7,7 +7,7 @@ Ik heb een kleine samenvatting gegeven van mijn werkzaamheden van de afgelopen w
 **Wat ging goed?**  
 Hierbij kijk ik naar wat de afgelopen week goed is gegaan, dit kan gaan om voltooide taken, behaalde mijlpalen, of iets nieuws dat ik heb geleerd.
 
-**Wat kon beter?**
+**Wat kon beter?**  
 Ik heb eerlijk gekeken naar gebieden waar verbetering mogelijk was, zoals het aanpakken van uitdagingen of het verbeteren van efficiëntie. Dit helpt bij het identificeren van leerpunten en groeikansen.
 
 **Wat ga ik hieraan doen?**  
