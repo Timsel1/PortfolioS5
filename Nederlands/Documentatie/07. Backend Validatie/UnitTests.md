@@ -1,0 +1,18 @@
+# Hoe kan de kwaliteit van de code van de backend worden gewaarborgd?
+De backend service die is gecreëerd kan over de tijd veranderen, wanneer dit gebeurt moet er een manier zijn om te checken of deze service nog steeds functioneert zoals verwacht.
+
+## Hoe heb ik dit opgelost?
+Binnen Stofloos wordt er binnen Datapanel gebruikgemaakt van unit tests met behulp van het Jest-framework. Dit draagt bij aan het waarborgen van de kwaliteit van de code door de functionaliteit van afzonderlijke eenheden in isolatie te testen. Op basis van deze gevestigde aanpak heb ik ervoor gekozen om dezelfde methode te hanteren bij het testen van mijn code. Door Jest te gebruiken voor mijn testscenario's, kan ik vertrouwen op een gestructureerde en solide aanpak voor het testen van functionaliteiten, waardoor zowel de nauwkeurigheid als de betrouwbaarheid van de code worden geoptimaliseerd.
+
+## Wat is het resultaat?
+Voor al mijn relevante codeblokken heb ik uitgebreide testscenario's opgesteld. Deze tests omvatten zowel situaties waarin de code succesvol wordt afgehandeld als scenario's waarin de code fouten kan vertonen. Uit de resultaten van deze tests blijkt dat mijn code zich gedraagt zoals ik had verwacht en de beoogde functionaliteit correct uitvoert.
+
+Wat misschien opvalt wanneer er wordt gekeken naar mijn tests is dat ik geen specifieke tests heb hoeven uitvoeren voor de informatieoverdracht naar de database. Dit komt doordat deze functionaliteit al bestond in het project, en dus eerder uitgebreid is getest.
+Aangezien mijn code de functionaliteit van het aanmaken van de componenten en het overdragen van deze componenten eerst in dezelfde functie deed, moest ik mijn code aanpassen, om dit te scheiden. Dit heb ik gedaan na feedback te hebben ontvangen van mijn stagebegeleider, die dit heeft aangeraden.
+
+## Wat is de kwaliteit van het resultaat?
+De kwaliteit van dit resultaat spreekt voor zich, alle nieuwe code die ik heb toegevoegd is met succes getest op zowel succesvolle als gefaalde afhandelingen. Dit valideert mijn werk aan de backend service die ik voor dit project heb moeten maken.
+
+## Wat is de volgende stap nu ik dit resultaat heb?
+Nu de code werkt en is gevalideerd, kan ik beginnen met het valideren van mijn volledige project, door middel van usability testing.
+
