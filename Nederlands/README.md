@@ -32,6 +32,7 @@
     - [Stofloos Verbetering Sinds Datapanel](Documentatie/09.%20Research/StofloosVerbeteringSindsDatapanel.md)
     - [UI Voor Optimalisatie van Datapanel Configuraties](Documentatie/09.%20Research/UIVoorOptimalisatieDatapanelConfiguraties.md)
   - [Project Management](Documentatie/10.%20Project%20Management)
+    - [Git Commits en Gitflow](Documentatie/10.%20Project%20Management/GitflowEnCommits.md)
     - [Ticket Systeem](Documentatie/10.%20Project%20Management/TicketSysteem.md)     
 
   **Dit volledige portfolio is geschreven met behulp van ChatGPT**
