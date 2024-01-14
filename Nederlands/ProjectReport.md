@@ -166,6 +166,7 @@ De survey is gemaakt om te peilen wat er nodig is voor mijn opdracht. Deze surve
 |[Projectplan](Documentatie/1.%20Opzet%20van%20het%20Project/Projectplan.md)|Expert interview|Explore user requirements, Problem analysis| | |Requirements prioritization|
 |[Research (Kwaliteits)eisen](Documentatie/1.%20Opzet%20van%20het%20Project/Kwaliteitseisen.md)|Expert interview|Survey| | | |
 |[Requirements Document](Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md)| | | | |Requirements prioritization|
+|[Design Document](Documentatie/2.%20UI%20Design/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
 #### Backend
 In een van de laatste stadia van het project heb ik mij toegewijd aan de ontwikkeling van de backend. Dit proces begon met een kort maar grondig analyse stadium. In nauwe samenwerking met mijn stagebegeleider hebben we de opdracht uitgebreid besproken en de benodigde requirements vastgesteld. Na deze bespreking heb ik de vastgestelde requirements gedocumenteerd om een helder en gestructureerd overzicht te creëren van de te implementeren functionaliteiten. Deze gedocumenteerde requirements vormden de handleiding voor de verdere stappen in het ontwikkelingsproces, en dienen als referentiepunt voor mijzelf tijdens de uitvoering van de backend-ontwikkeling.
@@ -173,6 +174,7 @@ In een van de laatste stadia van het project heb ik mij toegewijd aan de ontwikk
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |[Projectplan Uitbreiding Backend](Documentatie/5.%20Opzet%20Backend/ProjectplanUitbreidingBackend.md)|Expert interview|Explore user requirements| | |Requirements prioritization|
+|[Design Document](Documentatie/2.%20UI%20Design/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
 ### 5.2 Design
 Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebruikersinterface (UI). In samenwerking met gespecificeerde eisen en verzamelde feedback heb ik de UI geconceptualiseerd, met een focus op intuïtieve gebruikerservaring. Wireframes en prototypes zijn ontwikkeld om functionaliteiten te visualiseren en gebruikersinteracties te verkennen. De documenten bevatten gedetailleerde uitleg van ontwerpkeuzes en lay-out overwegingen. Iteraties en evolutie zijn vastgelegd op basis van interne beoordelingen en feedback van belanghebbenden, waaronder ontwikkelaars. De prototyping fase omvatte interactieve modellen die niet alleen het ontwerp valideerden, maar ook dienden als referentie voor mij tijdens de ontwikkelfase.
@@ -183,7 +185,6 @@ Deze documenten bieden een diepgaand inzicht in mijn ontwerpproces voor de gebru
 |[Gebruiksvriendelijke UI Wireframe](Documentatie/2.%20UI%20Design/2.%20GebruiksvriendelijkeUIWireframe.md)|Expert interview||||Prototyping|
 | [Gebruiksvriendelijke UI Prototype](Documentatie/2.%20UI%20Design/3.%20GebruiksvriendelijkeUIPrototype.md)|Available Product Analysis, Expert interview| | | |Prototyping|
 |[Gebruiksvriendelijke UI Usability Test](Documentatie/2.%20UI%20Design/4.%20GebruiksvriendelijkeUIUsabilityTest.md)|Expert interview |Survey|Usability testing |Peer review | |
-|[Design Document](Documentatie/2.%20UI%20Design/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
 ### 5.3 Realisatie
 #### UI
@@ -204,7 +205,7 @@ Ieder rapport bevat een beoordeling van de behaalde resultaten, met speciale aan
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-| | | | | | |
+|[Backend Service Creatie](Documentatie/06.%20Backend%20Realisatie/BackendServiceCreatie.md) | | | | | |
 
 
 ### 5.4 Validatie
@@ -213,16 +214,17 @@ Voor de validatie van de gebruikersinterface (UI) binnen het Datapanel-project z
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Usability Test Plan UI](Documentatie/4.%20UI%20Validatie/UsabilityTestPlanUI.md)| | | | | |
-|[Test Tasks](Documentatie/4.%20UI%20Validatie/TestTasks.md) | | | | | |
+|[Usability Test Plan UI](Documentatie/04.%20UI%20Validatie/2.%20UsabilityTestPlanUI.md) | | | | | |
+|[Test Tasks](Documentatie/04.%20UI%20Validatie/3.%20TestTasks.md) | | | | | |
+|[Usability Test Report UI](Documentatie/04.%20UI%20Validatie/4.%20TestreportUI.md) | | | | | |
 
 #### Backend
 Voor de backend-validatie in het Datapanel-project wordt er gebruikgemaakt van unit tests, waarover wordt gedocumenteerd. Elk testgeval beschrijft niet alleen wat de test precies doet, maar geeft ook inzicht in de redenen achter het uitvoeren van die specifieke test. Deze documentatie biedt een helder begrip van de functionaliteiten die worden getest en waarom deze tests van belang zijn voor het waarborgen van de betrouwbaarheid en consistentie van de backend-functionaliteiten. Het doel is om een transparante en goed gemotiveerde validatieprocedure te hanteren, waardoor de kwaliteit van de backend wordt geoptimaliseerd.
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Usability Test Plan](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestPlanUI.md)| | | | | |
-|[Test Tasks](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/4.%20UI%20Validatie/UsabilityTestTasks.md)| | | | | |
+|[Unit Tests](Documentatie/07.%20Backend%20Validatie/UnitTests.md)| | | | | |
+
 
 ## 6 Conslusie en Aanbevelingen
 In deze conclusie worden de resultaten van het stageproject samengevat, met de nadruk op de toegevoegde waarde voor het bedrijf en de stakeholders. De verworven inzichten, optimalisaties en ontwikkelingen binnen het project worden besproken, gevolgd door gerichte aanbevelingen voor verdere verbeteringen en groei. De conclusie biedt een overkoepelende evaluatie van de bereikte resultaten en benadrukt de relevantie van de bijdrage aan de organisatie en belanghebbenden.
