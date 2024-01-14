@@ -18,6 +18,6 @@ Deze Feature branche heeft het mogelijk gemaakt om functionaliteiten geïsoleerd
 alleen geholpen bij het gescheiden houden van mijn code, maar ook bij het beschikbaar stellen van code-reviews voordat deze naar de Master branch werden gemerged. Het resultaat was een 
 gestructureerde en goed beheerde codebase, in lijn met de practices van Stofloos.
 
-|Pullrequest die mijn branch uiteindelijk zal mergen met de development branch, zodat mijn UI gebruikt kan worden in Datapanel|
+|Pull request die mijn branch uiteindelijk zal mergen met de development branch, zodat mijn UI gebruikt kan worden in Datapanel|
 |:---------------------------------------------------------------------------------------------------------------------------:|
 |![PullRequest](https://github.com/Timsel1/PortfolioS5/assets/90602424/0980d7fe-843b-4bcb-be44-ebd2cdf0a20b)|
