@@ -15,4 +15,4 @@ Ik heb actiepunten opgesteld om aan de gebieden te werken die verbetering behoev
 
 Door een wekelijkse reflectie in te vullen, heb ik een gestructureerde aanpak om mijn vooruitgang te evalueren en gericht te werken aan persoonlijke en professionele ontwikkeling.
 
-[feedpulse.pdf](https://github.com/Timsel1/PortfolioS5/files/13931766/feedpulse.pdf)
+Bekijk hier de ingevulde [feedpulse.pdf](https://github.com/Timsel1/PortfolioS5/files/13931766/feedpulse.pdf), helaas zijn de laatste 3 pagina's niet goed gedownload, dit betekent dat de eerste 3 weken niet gelezen kunnen worden.
