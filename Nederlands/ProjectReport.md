@@ -291,7 +291,7 @@ Daarnaast integreerde ik mijn werkzaamheden naadloos in het ticketsysteem van he
 Deze combinatie van Scrum en het ticketsysteem diende als concreet bewijs van mijn methodische aanpak, waardoor ik kon aantonen hoe ik mijn werk gestructureerd plande, uitvoerde en integreerde in de bredere bedrijfsprocessen. Dit resulteerde in een efficiënte en georganiseerde workflow, waardoor het project soepel kon verlopen.
 
 __Relevantie voor Belanghebbenden:__  
-De resultaten van mijn werk waren overduidelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](Documentatie/1.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
+De resultaten van mijn werk waren overduidelijk relevant voor verschillende belanghebbenden. Mijn inspanningen waren gericht op het adresseren van de behoeften van interne stakeholders, waardoor mijn werk bijdroeg aan zinvolle oplossingen en waarde toevoegde aan het bedrijfskader, zoals te zien in mijn [requirements document](Documentatie/01.%20Opzet%20van%20het%20Project/RequirementsDocument.md#project-overview), waarin ik kort mijn stakeholders beschrijf.
 
 #### [Future-Oriented Organisation]
 You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
