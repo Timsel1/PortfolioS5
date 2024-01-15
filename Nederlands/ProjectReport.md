@@ -155,7 +155,7 @@ In mijn research/dev logs hou ik een structuur aan die goed past bij deze method
   - Hier beschrijf ik de volgende stap die ik ga nemen nu ik dit resultaat heb.
 
 Deze structuur past goed bij de DOT methode omdat, door dit aan te houden, ik altijd de aspecten van onderzoek, realisatie en validatie aantoon.  
-Voor een voorbeeld kan er gekeken worden in [documentatie directory](documentatie)  2 t/m 7.
+Voor een voorbeeld kan er gekeken worden in [documentatie directory](documentatie) map 2 t/m 7.
 
 ## 5 Logische beschrijving van het proces en de resultaten
 Tijdens mijn stage heb ik stapsgewijs gewerkt aan mijn opdracht, alle stappen die ik heb doorlopen en de verkregen resultaten zijn hier te vinden op chronologische volgorde, voor zowel de front- als backend. Ook wordt er bij elk beroepsproduct aangegeven welke research methodes zijn gebruikt om tot het resultaat te komen.
@@ -334,10 +334,12 @@ Mijn ondernemerschap en persoonlijke ontwikkeling tijdens deze stage, komt tot u
 
 Het aandacht besteden aan mijn eigen leervermogen is een cruciaal onderdeel van mijn persoonlijk leiderschap. Door regelmatig te reflecteren op mijn eigen handelingen, door middel van [retrospectives](Documentatie/08.%20Logboek%20en%20Reflectie/Retrospective.md), het [wekelijks invullen van feedpulse](Documentatie/08.%20Logboek%20en%20Reflectie/Feedpulse.md) en actief feedback te vragen en ontvangen, ben ik in staat mijn ontwikkeling als IT-professional nauwkeurig te volgen. Deze reflecties stellen me in staat om verdere verbeterpunten en mogelijkheden te identificeren die blijken uit de ontvangen feedback. Hierdoor ben ik me voortdurend bewust van mijn groei als IT-professional.
 
+Ik heb natuurlijk ook aandacht besteed aan de voortgang van het project, dit omvatte het gebruik van het [ticketsysteem van Stofloos](Documentatie/10.%20Project%20Management/TicketSysteem.md). Daarnaast hield ik dagelijks een [logboek](Documentatie/08.%20Logboek%20en%20Reflectie/Logboek.md) bij voor de voortgang voor een specifieke dag. Deze gecombineerde aanpak bood zowel een overzicht van de voortgang van een sprint als de voortgang die dagelijks was gemaakt.
+
 #### [Targeted Interaction] 
 You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
-Mijn vaardigheid in doelgerichte interactie kwam duidelijk naar voren tijdens mijn stage, waarbij ik voortdurend contact heb gehouden met mijn stakeholders: de developers van Stofloos. Aangezien ik het geluk had dat mijn stakeholders de developers van Stofloos waren had ik constant contact en kon ik regelmatig om feedback vragen over mijn features en documentatie, ook buiten de sprint opleveringen. 
+Mijn vaardigheid in doelgerichte interactie kwam duidelijk naar voren tijdens mijn stage, waarbij ik voortdurend contact heb gehouden met mijn stakeholders. Aangezien ik het geluk had dat mijn stakeholders de developers van Stofloos waren had ik constant contact en kon ik regelmatig om feedback vragen over mijn features en documentatie, ook buiten de sprint opleveringen. 
 De communicatie verliep via Slack en face-to-face gesprekken. Aangezien Stofloos een klein bedrijf is met slechts 6 developers, kon ik binnen enkele minuten een reactie verwachten. Deze snelle manier van communicatie was handig wanneer ik input nodig had voor een feature of mijn code.
 
 Naast het contact tussen de sprints, vonden dagelijkse stand-ups plaats. Tijdens deze stand-ups deelde ik mijn voortgang en plannen voor de dag. Bovendien werden tijdens de sprint opleveringen de resultaten van mijn werk besproken. Ik presenteerde de nieuwe features die ik had afgerond, vervolgens werd er feedback gegeven. Aan het eind van de oplevering deelde ik waar ik aan zou werken in de komende sprint. Deze communicatiemomenten zorgden ervoor dat alle stakeholders constant op de hoogte waren van de stand van zaken en de ontwikkelingen van het project.
