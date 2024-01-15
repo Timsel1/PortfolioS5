@@ -58,7 +58,7 @@ Meer informatie hierover is te vinden in het [projectplan](Documentatie/01.%20Op
 
 ## 3 Onderzoeksvragen
 Tijdens deze stage zullen er onderzoeken verricht moeten worden. Dit is om erachter te komen hoe het huidige project werkt, wat het probleem is, hoe hier al aan is gewerkt en wat er nog verwacht wordt. Verder moeten er misschien ook nog technische onderzoeken worden verricht. De belangrijkste onderzoeken voor dit project zijn op dit moment:   
-### [3.1 Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/UIVoorOptimalisatieDatapanelConfiguraties.md) 
+### [3.1 Hoe kan een gebruiksvriendelijke UI die het proces voor het creëren van Datapanel configuraties optimaliseert worden gemaakt?](Documentatie/09.%20Research/UIVoorOptimalisatieDatapanelConfiguraties.md) 
 In mijn rol tijdens de stage heb ik me gericht op het optimaliseren van het creatieproces van Datapanel configuraties, met als primaire doelstelling het ontwerpen van een gebruiksvriendelijke user interface (UI). Om dit te realiseren heb ik dit onderzoek opgezet, met vragen die ik over de loop van mijn stage kan beantwoorden.
 
 #### 3.1.1 Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?  
@@ -76,7 +76,7 @@ Het onderzoek naar het importeren van opgeslagen configuraties had als doel de i
 #### 3.1.5 Hoe wordt ervoor gezorgd dat de UI gebruiksvriendelijk blijft?  
 Om de gebruiksvriendelijkheid van de UI te waarborgen, zijn uitgebreide usability-tests uitgevoerd voor zowel het prototype als de uiteindelijke UI. Tijdens de Scrum-opleveringen is feedback verzameld. De optimalisatie van de UI is voortgekomen uit aanpassingen en verbeteringen die zijn doorgevoerd op basis van beschikbare input. Deze aanpak maakte het mogelijk om de UI dynamisch aan te passen aan de actuele behoeften van gebruikers.
 
-### [3.2 Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](https://github.com/Timsel1/PortfolioS5/blob/main/Nederlands/Documentatie/Research/StofloosVerbeteringSindsDatapanel.md)  
+### [3.2 Hoe is Stofloos situatie verbeterd sinds Datapanel is opgezet?](Documentatie/09.%20Research/StofloosVerbeteringSindsDatapanel.md)  
 Het onderzoek naar de verbeteringen sinds Datapanel is opgezet is van belang om inzicht te verkrijgen in de impact die het heeft gehad op de situatie bij Stofloos. Dit houdt in het identificeren van specifieke verbeteringen, zoals verhoogde efficiëntie, snellere toegang tot gegevens en verbeterde functionaliteiten. Het begrijpen van deze verbeteringen dient als basis voor verdere optimalisaties en groei binnen de organisatie.
 
 #### 3.2.1 Welke uitdagingen waren er voordat Datapanel was opgezet? 
@@ -104,16 +104,18 @@ Het ontwikkelproces is gestructureerd in Scrum Sprints, waarin specifieke taken 
 
 Aan het einde van elke sprint vindt een Scrum Oplevering plaats, een cruciaal moment waarop de behaalde resultaten worden gedemonstreerd en besproken. Hier delen we niet alleen de voortgang met belanghebbenden, maar bieden we ook de mogelijkheid voor directe feedback. Bovendien deel ik tijdens deze sessies mijn sprint planning voor de volgende sprint, waardoor de belanghebbenden een vooruitblik krijgen op de te verwachten ontwikkelingen en prioriteiten.
 
-Een waardevolle praktijk die na elke sprint wordt toegepast, is de Retrospective. Deze reflectieve sessies bieden de gelegenheid om successen te vieren, uitdagingen te identificeren en verbeterpunten te bespreken. Het continue streven naar optimalisatie van het ontwikkelingsproces is van essentieel belang voor mijn stage-ervaring.
+Een waardevolle praktijk die na elke sprint wordt toegepast, is de Retrospective. Deze reflectieve sessies bieden de gelegenheid om successen te vieren, uitdagingen te identificeren en verbeterpunten te bespreken. Het continue streven naar optimalisatie van het ontwikkelingsproces is van essentieel belang voor mijn stage-ervaring.  
+De retrospectives kunnen [hier](Documentatie/08.%20Logboek%20en%20Reflectie/Retrospective.md) worden gelezen.
 
-Om de voortgang en taken gestructureerd bij te houden, maak ik gebruik van het ticketsysteem van Stofloos. Deze centrale hub functioneerd als een onmisbare onderdeel voor het registreren en bijhouden van taken gedurende het gehele project.
+Om de voortgang en taken gestructureerd bij te houden, maak ik gebruik van het ticketsysteem van Stofloos. Deze centrale hub functioneerd als een onmisbare onderdeel voor het registreren en bijhouden van taken gedurende het gehele project.  
+Voor meer informtaie over het ticketsysteem kan [hier](Documentatie/10.%20Project%20Management/TicketSysteem.md) gekeken worden.
 
-Een aspect dat de wendbaarheid versterkt, is de actieve betrokkenheid van continu feedback en ondersteuning van zowel de stagebegeleider als andere ervaren developers bij Stofloos. Deze samenwerking waarborgt niet alleen de juiste koers tijdens de sprints, maar zorgt er ook voor dat eventuele obstakels snel en effectief worden aangepakt.
+Een aspect dat de wendbaarheid versterkt, is de actieve betrokkenheid van continu feedback en ondersteuning van zowel de stagebegeleider als andere ervaren developers bij Stofloos. Deze samenwerking garandeerd niet alleen de juiste koers tijdens de sprints, maar zorgt er ook voor dat eventuele obstakels snel en effectief worden aangepakt.
 
 Deze adaptieve Agile methode, met een centrale focus op Scrum, biedt de flexibiliteit en transparantie die essentieel zijn voor een succesvolle ontwikkeling. Het stelt mij in staat om snel te schakelen, efficiënt te reageren op veranderingen en voortdurend waarde toe te voegen aan het project.
   
 ### 4.2 coderen:  
-In het domein van coderen vormt een gestructureerde aanpak de ruggengraat van ons project, met projectmanagement als essentieel ingrediënt voor succesvolle ontwikkeling. Hier maken we gebruik van verschillende methoden en best practices, elk met een specifieke rol en bijdrage aan het geheel.
+In het domein van coderen vormt een gestructureerde aanpak de basis van het project, met projectmanagement als essentieel ingrediënt voor succesvolle ontwikkeling. Hier wordt gebruik gemaakt van verschillende methoden en best practices, elk met een specifieke rol en bijdrage aan het geheel.
 
 Het coderingsproces begint op lokaal niveau, een doordachte aanpak waarmee ik in een gecontroleerde omgeving werk voordat mijn wijzigingen naar de hoofdcode worden overgebracht. Dit biedt niet alleen een veilige speelplaats voor experimenten, maar garandeert ook een solide basis voordat mijn bijdragen de bredere code basis beïnvloeden.
 
