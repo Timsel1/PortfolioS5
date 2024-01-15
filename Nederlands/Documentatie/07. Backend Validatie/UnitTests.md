@@ -10,6 +10,8 @@ Om tijd te besparen heb ik voor het proces van het schrijven van de tests chat g
 |:----:|:-------------:|
 |![ChatgptPrompt](https://github.com/Timsel1/PortfolioS5/assets/90602424/e9d6be44-2c5a-4043-a668-32d45e8a4f31)|![ChatGPTErrorTest](https://github.com/Timsel1/PortfolioS5/assets/90602424/ba324058-14a1-4e7e-9180-8b0a6a9637dd)|
 
+**(Library - Available product analysis)**
+
 ## Wat is het resultaat?
 Voor al mijn relevante codeblokken heb ik uitgebreide testscenario's opgesteld. Deze tests omvatten zowel situaties waarin de code succesvol wordt afgehandeld als scenario's waarin de code fouten kan vertonen. Uit de resultaten van deze tests blijkt dat mijn code zich gedraagt zoals ik had verwacht en de beoogde functionaliteit correct uitvoert.
 
@@ -18,7 +20,8 @@ Voor al mijn relevante codeblokken heb ik uitgebreide testscenario's opgesteld. 
 |![UnitTests](https://github.com/Timsel1/PortfolioS5/assets/90602424/f753bc41-06c0-42b5-a738-c2c40a0711c9)|
 
 Wat misschien opvalt wanneer er wordt gekeken naar mijn tests is dat ik geen specifieke tests heb hoeven uitvoeren voor de informatieoverdracht naar de database. Dit komt doordat deze functionaliteit al bestond in het project, en dus eerder uitgebreid is getest.
-Aangezien mijn code de functionaliteit van het aanmaken van de componenten en het overdragen van deze componenten eerst in dezelfde functie deed, moest ik mijn code aanpassen, om dit te scheiden. Dit heb ik gedaan na feedback te hebben ontvangen van mijn stagebegeleider, die dit heeft aangeraden.
+Aangezien mijn code de functionaliteit van het aanmaken van de componenten en het overdragen van deze componenten eerst in dezelfde functie deed, moest ik mijn code aanpassen, om dit te scheiden. Dit heb ik gedaan na feedback te hebben ontvangen van mijn stagebegeleider, die dit heeft aangeraden.  
+**(Library - Expert interview, Workshop - Code analysis, Lab - Unit test)**
 
 ## Wat is de kwaliteit van het resultaat?
 De kwaliteit van dit resultaat spreekt voor zich, alle nieuwe code die ik heb toegevoegd is met succes getest op zowel succesvolle als gefaalde afhandelingen. Dit valideert mijn werk aan de backend service die ik voor dit project heb moeten maken.
