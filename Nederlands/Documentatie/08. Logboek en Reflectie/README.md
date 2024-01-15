@@ -1,0 +1,2 @@
+# Logboek en Reflectie
+Deze directory bevat documenten die mijn voortgang en reflecties vastleggen gedurende verschillende tijdsperioden. De Feedpulse-documenten geven wekelijkse updates met reflecties, het dagelijks bijgewerkte logboek biedt een kort overzicht van mijn dagelijkse activiteiten, en het retrospective document evalueren de afgelopen sprints met leerpunten en verbeteringen voor de toekomst. Kortom, deze directory heeft als functie het volgen van mijn ontwikkeling en leerpunten in het project.
