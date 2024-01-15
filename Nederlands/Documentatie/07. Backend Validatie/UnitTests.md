@@ -4,7 +4,7 @@ De backend service die is gecreëerd kan over de tijd veranderen, wanneer dit ge
 ## Hoe heb ik dit opgelost?
 Binnen Stofloos wordt er binnen Datapanel gebruikgemaakt van unit tests met behulp van het Jest-framework. Dit draagt bij aan het waarborgen van de kwaliteit van de code door de functionaliteit van afzonderlijke eenheden in isolatie te testen. Op basis van deze gevestigde aanpak heb ik ervoor gekozen om dezelfde methode te hanteren bij het testen van mijn code. Door Jest te gebruiken voor mijn testscenario's, kan ik vertrouwen op een gestructureerde en solide aanpak voor het testen van functionaliteiten, waardoor zowel de nauwkeurigheid als de betrouwbaarheid van de code worden geoptimaliseerd.
 
-Om tijd te besparen heb ik voor het proces van het schrijven chat gtp gebruikt, ik hoefde op deze manier alleen mijn code blok te sturen en te zeggen wat voor een test ik wilde hebben. Vervolgens hoefde ik alleen nog het verwachtte resultaat aan te passen op de testdata die ik van tevoren had gemaakt.
+Om tijd te besparen heb ik voor het proces van het schrijven van de tests chat gtp gebruikt, ik hoefde op deze manier alleen mijn code blok te sturen en te zeggen wat voor een test ik wilde hebben. Vervolgens hoefde ik alleen nog het verwachtte resultaat aan te passen op de testdata die ik van tevoren had gemaakt.
 
 |Prompt|ChatGPT reactie|
 |:----:|:-------------:|
