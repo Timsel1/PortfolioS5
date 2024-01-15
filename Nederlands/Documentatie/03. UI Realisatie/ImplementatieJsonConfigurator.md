@@ -1,0 +1,27 @@
+# Hoe kunnen de folders voor de edit pagina’s werkend worden gemaakt?
+Met de huidige edit pagina’s kunnen types als strings, booleans, numbers, etc. worden aangepast. De objecten en array folders kunnen nog niet worden gebruikt, 
+deze functionaliteit is van belang bij het maken van Datapanel configuraties en zal dus zo snel mogelijk moeten worden toegevoegd.
+
+## Hoe heb ik dit opgelost?
+Ik ben wederom door de code van Datapanel gaan zoeken, aangezien er al een soortgelijke functionaliteit bestond in de pop-ups die ik eerder voorbij heb zien komen. 
+In deze pop-ups werden ook folders gebruikt, mijn gedachte was dat ik deze code zou kunnen hergebruiken. Nadat ik het zelf niet heb kunnen vinden, heb ik hulp gevraagd aan mijn stagebegeleider, 
+door dit te doen ben ik uitgekomen bij de json-configurator. Dit component had de exacte functionaliteiten die ik nodig had voor het ontwikkelen van mijn UI. Hier was door de developers nog niet aan gedacht. 
+Deze ontdekking zou mij veel tijd besparen en zorgt er ook voor dat er niet onnodig dubbele code ontstaat in Datapanel.
+
+**(Library - Available product analysis, Expert interview)**
+
+## Wat is het resultaat?
+De json configurator is geïmplementeerd in mijn UI. Om deze werkend te maken moest ik gebruikmaken van JSON-schemas (deze moesten nog worden gemaakt). 
+Dit heeft voor verandering gezorgd in mijn configuratie voor het renderen van de pagina, er was nu een nieuw type dat gebruikt kon worden, dit is type “json”. 
+Wanneer dit type wordt gebruikt in de configuratie wordt de json-configurator aangeroepen, dit gaat in combinatie met een schema dat meegegeven moet worden dat de bijbehorende properties bevat.
+
+## Wat is de kwaliteit van het resultaat?
+Het proces voor het implementeren van dit component bracht voor mij uitdagingen mee, aangezien ik nog nooit gewerkt had met json schemas. 
+Om deze reden heb ik veel hulp gevraagd en is het resultaat tot stand gekomen met behulp van de developers van Stofloos. 
+De code is meerdere keren gereviewd en is op deze manier is het component zeker op de juiste manier geïmplementeerd en is dit ook op een nette manier gedaan.
+
+**(Library - Expert interview, Workshop - Code review)**
+
+## Wat is de volgende stap nu ik dit resultaat heb?
+Aangezien er gebruik wordt gemaakt van bestaande componenten heeft deze ui al de mogelijkheid om te lezen en schrijven naar de database. 
+Er moeten alleen een aantal fouten in mijn requests en configuraties worden opgelost, voordat alles correct wordt weergegeven. Dit zal de volgende stap zijn.
