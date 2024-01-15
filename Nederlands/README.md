@@ -41,4 +41,5 @@
   - [Technology Impact Cycle Tool](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool)
     - [TICT pdf](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool/TICT.pdf)    
 
+[Bekijk hier een korte video van het eindproduct](https://youtu.be/BAZpUrAFSr4)
   **Dit volledige portfolio is geschreven met behulp van ChatGPT**
