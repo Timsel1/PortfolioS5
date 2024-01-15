@@ -4,7 +4,9 @@ Binnen dit project zijn er 2 non-functional requirements waar voornamelijk op ge
 ## Wat zijn de huidige uitdagingen en beperkingen bij het creëren van Datapanel configuraties?
 Op dit moment zijn er meerdere uitdagingen bij het maken van Datapanel configuraties. Deze configuraties worden op het moment handmatig in JSON geschreven. Dit brengt 2 problemen met zich mee, de eerste is dat dit vatbaar is voor fouten, de tweede is dat dit tijdrovend is. Deze problemen gaan hand in hand. Als er een fout wordt gemaakt in de handmatig geschreven json bestanden, kost het extra tijd om 
 dit op te lossen.  
-Naast het schrijven van json voor deze configuratie is het belangrijk dat de user begrijpt hoe alles met elkaar in verbinding staat (modelview, page, subpage, sectie). Dit is op het moment niet duidelijk en kan voor problemen zorgen, zeker wanneer de user geen technische ervaring heeft.
+Naast het schrijven van json voor deze configuratie is het belangrijk dat de user begrijpt hoe alles met elkaar in verbinding staat (modelview, page, subpage, sectie). Dit is op het moment niet duidelijk en kan voor problemen zorgen, zeker wanneer de user geen technische ervaring heeft.  
+
+Hierover kan meer gelezen worden in de directory [Opzet van het Poject](../01.%20Opzet%20van%20het%20Project)
 
 ## Wat zijn de belangrijkste functionaliteiten en interacties die vereist zijn in de UI voor het maken van Datapanel configuraties?
 Voor het maken van configuraties is het belangrijk dat er wordt gekeken naar de huidige problemen en de wensen van de end users. Uit  de huidige problemen is te halen dat de configuratie geautomatiseerd moet worden op basis van de input van een user en dat de flow van dit proces logisch moet zijn zodat het voor de user duidelijk is welke onderdelen (modelview, page, subpage, sectie) met elkaar zijn verbonden. Om achter de wensen van de end user te komen is er gebruikgemaakt van een survey. De antwoorden op deze survey is [hier](https://docs.google.com/spreadsheets/d/11wupAy5dy6jKsM4jbiJb1dX1Lb-ta0AkrlacHzkITfs/edit?usp=sharing) te vinden.  
