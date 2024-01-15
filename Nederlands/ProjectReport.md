@@ -174,7 +174,7 @@ De survey is gemaakt om te peilen wat er nodig is voor mijn opdracht. Deze surve
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |[Projectplan](Documentatie/01.%20Opzet%20van%20het%20Project/Projectplan.md)|Expert interview|Explore user requirements, Problem analysis| | |Requirements prioritization|
 |[Research (Kwaliteits)eisen](Documentatie/01.%20Opzet%20van%20het%20Project/Kwaliteitseisen.md)|Expert interview|Survey| | | |
-|[Requirements Document](Documentatie/01.%20Opzet%20van%20het%20Project/RequirementsDocument.md)| | | | |Requirements prioritization|
+|[Requirements Document](Documentatie/01.%20Opzet%20van%20het%20Project/RequirementsDocument.md)| | Explore user requirements| | |Requirements prioritization|
 |[Design Document](Documentatie/01.%20Opzet%20van%20het%20Project/DesignDocument.md)| | |A/B testing| |IT architecture sketching, Prototyping|
 
 #### Backend
