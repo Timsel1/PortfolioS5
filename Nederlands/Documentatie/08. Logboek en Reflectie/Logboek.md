@@ -16,7 +16,7 @@ gewerkt aan een eigen opdracht binnen datapanel, hiervoor moest ik de informatie
 stofware project file doorgelopen met een collega, vervolgens ben ik begonnen aan een eigen opdracht om een soort standaard UI te maken voor modelviews, pagina's, subpagina's en secties. vandaag heb ik een pagina die de info over zichzelf ( modelviews, pagina's, subpagina's en secties) laat zien gemaakt.
 Verder heb ik een begin gemaakt aan het projectplan.
 
-### 07/09/2023
+#### 07/09/2023
 Ik ben verdergegaan met de opdracht van gister, vandaag heb ik alle pagina’s aan elkaar gekoppeld. Je kunt nu zien welke pagina’s aan modelviews zijn gekoppeld, welke subpagina's aan pagina’s zijn gekoppeld en welke secties aan subpagina’s zijn gekoppeld.
 Hierna ben ik gaan werken aan mijn projectplan.
 
