@@ -365,8 +365,8 @@ Kortom, het voortzetten van het schrijven van devlogs en het vragen van feedback
 __Verbeter vaardigheden op het gebied van timemanagement:__  
 Tijdens deze stage heb ik waardevolle inzichten gekregen op het gebied van mijn timemanagement vaardigheden. Het feit dat mijn inschattingen van de tijd die nodig was voor het toevoegen van bepaalde features over het algemeen correct waren, is een positief aspect. Het herkennen van de noodzaak om ook tijd in te plannen voor portfolio-overwegingen is een belangrijk leermoment geweest. Ik heb meerdere malen meegemaakt dat ik mijn portfolio achterwege liet en dit niet goed in mijn planning betrok. Ik kan deze ervaring gebruiken om mijn timemanagement verder te verfijnen, waarbij ik niet alleen rekening houd met projecttaken maar ook met bredere aspecten zoals portfolio-onderhoud.
 
-# Feedback Stagebegeleider
-## Feedback Tim als Developer
+### 7.3 Feedback Stagebegeleider
+#### Feedback Tim als Developer
 Soms lijkt het alsof je te veel dingen tegelijkertijd doet en daardoor het overzicht verliest en de code niet (meer) begrijpt. Probeer daarom taken op te splitsen, een voor een af te ronden en meteen te committen. Zo blijven je veranderingen overzichtelijker.  
 
 Er staan in de code een aantal dingen die herhaald worden en iets netter kunnen. Ik denk dat het goed is om vaker te refactoren en even opnieuw door de code te gaan om je code netter te maken en daarmee maintainable te maken. Vooral bij grote projecten zoals Datapanel is dit erg belangrijk. Daarnaast leer je nu waarschijnlijk ook nieuwe technieken/functies die je aan het begin van de stage nog niet kende. Die nieuwe functies kun je gebruiken om je oude code beter te maken. Je css files en classes structuur is erg netjes.
