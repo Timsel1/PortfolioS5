@@ -6,6 +6,7 @@
 - [Sprint 4](#sprint-4)
 - [Sprint 5](#sprint-5)
 - [Sprint 6](#sprint-6)
+- [Sprint 7](#sprint-7)
 
 ## Sprint 0
 ### Wat ging goed?
@@ -108,5 +109,16 @@ Overweeg het inplannen van tussentijdse evaluaties om ervoor te zorgen dat alle 
 ### Doe minder
 volledige focus leggen op coderen.
 
+## Sprint 7
+### Wat ging goed?
+Mijn portfolio is veel uitgebreid en de usability tests die zijn uitgevoerd hebben goede resultaten.
+### Wat kon beter?
+Ik had eerder in deze sprint mijn testplan af kunnen maken, waardoor ik nog eerder kon beginnen met de usability tests.
+### Actie
+De testen afronden en daarna het testrapport afmaken.
+### Doe meer
+Minimaliseer de tijd tussen het afronden van de tests en het opstellen van het testrapport om de voortgang soepeler te laten verlopen.
+### Doe minder
+Te veel taken tegelijkertijd aan te pakken. Een meer gefaseerde aanpak kan helpen om de focus te behouden en taken efficiënter af te ronden.
 
 
