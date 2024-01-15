@@ -340,12 +340,14 @@ Ik heb natuurlijk ook aandacht besteed aan de voortgang van het project, dit omv
 You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
 Mijn vaardigheid in doelgerichte interactie kwam duidelijk naar voren tijdens mijn stage, waarbij ik voortdurend contact heb gehouden met mijn stakeholders. Aangezien ik het geluk had dat mijn stakeholders de developers van Stofloos waren had ik constant contact en kon ik regelmatig om feedback vragen over mijn features en documentatie, ook buiten de sprint opleveringen. 
-De communicatie verliep via Slack en face-to-face gesprekken. Aangezien Stofloos een klein bedrijf is met slechts 6 developers, kon ik binnen enkele minuten een reactie verwachten. Deze snelle manier van communicatie was handig wanneer ik input nodig had voor een feature of mijn code.
+De communicatie verliep via Slack en face-to-face gesprekken. Aangezien Stofloos een klein bedrijf is met slechts 6 developers, kon ik binnen enkele minuten een reactie verwachten. Deze snelle manier van communicatie was handig wanneer ik input nodig had voor een feature of mijn code.  
+Stakeholders zijn gedefinieerd in het [TICT pdf](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool/TICT.pdf) document bij het kopje stakeholders.
 
 Naast het contact tussen de sprints, vonden dagelijkse stand-ups plaats. Tijdens deze stand-ups deelde ik mijn voortgang en plannen voor de dag. Bovendien werden tijdens de sprint opleveringen de resultaten van mijn werk besproken. Ik presenteerde de nieuwe features die ik had afgerond, vervolgens werd er feedback gegeven. Aan het eind van de oplevering deelde ik waar ik aan zou werken in de komende sprint. Deze communicatiemomenten zorgden ervoor dat alle stakeholders constant op de hoogte waren van de stand van zaken en de ontwikkelingen van het project.
 
 __Communicatie richting Fontys__  
 De communicatie richting Fontys verliep via Teams, deze communicatiemomenten vonden elke 2-3 weken plaats. Aan het einde van elk gesprek werd direct het volgende communicatiemoment ingepland. Op deze manier was er voldoende tijd voor beide partijen om voor te bereiden, ook zorgde dit ervoor dat beide partijen verzekerd waren van beschikbare tijd. Dit gestructureerde proces bood niet alleen transparantie, maar ook de effectiviteit van de communicatie met mijn Fontys assessor.
+Daarnaast heb ik [weekelijks feedpulse](Documentatie/08.%20Logboek%20en%20Reflectie/Feedpulse.md) ingevuld, op deze manier kon mijn assessor op de hoogte blijven van mijn progressie en kon er een kleine reflectie over de week gelezen worden.
 
 Mijn inzicht in de belangrijkste partners voor het succes van mijn project, in combinatie met mijn communicatie, resulteerde in doelgerichte interacties die zich richtten op het behalen van de verwachte impact. Dit toont aan dat ik competent ben in het identificeren van relevante partners, het aangaan van constructieve samenwerking en het gebruik van passende communicatie om de gewenste resultaten te bereiken.
 
@@ -362,6 +364,12 @@ Kortom, het voortzetten van het schrijven van devlogs en het vragen van feedback
 
 __Verbeter vaardigheden op het gebied van timemanagement:__  
 Tijdens deze stage heb ik waardevolle inzichten gekregen op het gebied van mijn timemanagement vaardigheden. Het feit dat mijn inschattingen van de tijd die nodig was voor het toevoegen van bepaalde features over het algemeen correct waren, is een positief aspect. Het herkennen van de noodzaak om ook tijd in te plannen voor portfolio-overwegingen is een belangrijk leermoment geweest. Ik heb meerdere malen meegemaakt dat ik mijn portfolio achterwege liet en dit niet goed in mijn planning betrok. Ik kan deze ervaring gebruiken om mijn timemanagement verder te verfijnen, waarbij ik niet alleen rekening houd met projecttaken maar ook met bredere aspecten zoals portfolio-onderhoud.
+
+# Feedback Stagebegeleider
+## Feedback Tim als Developer
+Soms lijkt het alsof je te veel dingen tegelijkertijd doet en daardoor het overzicht verliest en de code niet (meer) begrijpt. Probeer daarom taken op te splitsen, een voor een af te ronden en meteen te committen. Zo blijven je veranderingen overzichtelijker.  
+
+Er staan in de code een aantal dingen die herhaald worden en iets netter kunnen. Ik denk dat het goed is om vaker te refactoren en even opnieuw door de code te gaan om je code netter te maken en daarmee maintainable te maken. Vooral bij grote projecten zoals Datapanel is dit erg belangrijk. Daarnaast leer je nu waarschijnlijk ook nieuwe technieken/functies die je aan het begin van de stage nog niet kende. Die nieuwe functies kun je gebruiken om je oude code beter te maken. Je css files en classes structuur is erg netjes.
 
 
 
