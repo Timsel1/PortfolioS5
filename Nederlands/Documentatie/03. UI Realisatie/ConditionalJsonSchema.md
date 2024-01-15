@@ -11,7 +11,7 @@ de beste oplossing te zijn voor mijn probleem.
 Deze oplossing werkte niet meteen, de json-configurator component kon deze conditional statements nog niet uitlezen. Hiervoor heb ik hulp gevraagd van een van de Stofloos developers en hierna werkte de conditional json schema.  
 De site die ik heb gebruikt als voorbeeld voor de verschillende methodes is [hier](https://json-schema.org/understanding-json-schema/reference/conditionals) te vinden hier is gekeken naar het kopje ["if-the-else"](https://json-schema.org/understanding-json-schema/reference/conditionals#ifthenelse). 
 
-Hierna ontstond er een probleem, de json configurator kon the if-the-else niet uitlezen, hierdoor kon de configuratie niet worden gegenereerd. Dit wist ik op het moment niet en ik heb een van de developers van Stofloos om hulp gevraagd, ik heb samen met hem een toevoeging gemaakt aan de json configurator, waardoor deze de nieuwe if-the-else wel uit kon lezen.
+Hierna ontstond er een probleem, de json configurator kon the if-the-else niet uitlezen, hierdoor kon de configuratie niet worden gegenereerd. Dit wist ik op het moment niet en ik heb een van de developers van Stofloos om hulp gevraagd, ik heb samen met hem een toevoeging gemaakt aan de json configurator, waardoor deze de nieuwe if-the-else wel uit kon lezen.  
 **(Library - Design pattern research, Expert interview, Workshop - Root cause analysis)**
 
 ## Wat is het resultaat?
