@@ -4,7 +4,8 @@ Het onderzoek naar het ontwikkelen van een service voor het automatisch generere
 ## Hoe heb ik dit opgelost?
 Om het probleem van het automatisch genereren van een standaard Datapanel configuratie op te lossen, heb ik een uitbreiding gemaakt van mijn projectplan. Deze uitbreiding bestond uit requirements die nodig waren voor het ontwikkelen van de beoogde service. De stappen in het projectplan boden een gestructureerde benadering, beginnend met het identificeren van requirements en vervolgens het definiëren van de nodige functionaliteiten. 
 
-Vervolgens ben ik begonnen met de implementatie van deze service in TypeScript. Door mijn stappenplan van de uitbreiding van mijn projectplan te volgen, heb ik stap voor stap functionaliteit toegevoegd aan de service totdat die met één klik op een knop betrouwbare standaardconfiguraties genereert, waardoor de gebruiksvriendelijkheid en efficiëntie van Datapanel worden verbeterd.
+Vervolgens ben ik begonnen met de implementatie van deze service in TypeScript. Door mijn stappenplan van de uitbreiding van mijn projectplan te volgen, heb ik stap voor stap functionaliteit toegevoegd aan de service totdat die met één klik op een knop betrouwbare standaardconfiguraties genereert, waardoor de gebruiksvriendelijkheid en efficiëntie van Datapanel worden verbeterd.  
+**(Field - Explore user requirements, interview, Worksop - Requirements prioritization)**
 
 ## Wat is het resultaat?
 Het resultaat is een onderhoudsvriendelijke service die met één klik op een knop standaardconfiguraties genereert. De implementatie in TypeScript zorgde voor type-safety en modulaire ontwikkeling, waardoor de betrouwbaarheid en flexibiliteit van de service werden versterkt. Wel zijn er op het moment voor de model, modelview, page, subpage en section nog “any“ gebruikt, dit komt doordat deze types nog bijgewerkt moesten worden.
@@ -19,7 +20,8 @@ Deze implementatie zorgt voor een grote verbetering van de gebruiksvriendelijkhe
 Zoals te zien is de service op het moment redelijk traag, wanneer er meerdere configuraties gegenereerd moeten worden. Dit komt doordat de page afhankelijk is van de nieuw aangemaakte modelview, de subpage van de nieuw aangemaakte page en de section van de nieuw aangemaakte subpage. Dit betekent dat er constant gewacht moet worden met het aanmaken van een nieuw component, totdat het voorgaande component daadwerkelijk is toegevoegd aan de database.
 Ook is er nog geen feedback voor de knop die aan de service is gekoppeld, dit komt omdat hier bij het opstellen van de requirements niet aan was gedacht , dit zal een toekomstige toevoeging zijn.
 
-Naast deze tekortkomingen waren de developers van Stofloos tevreden met het resultaat, toen dit is laten zien tijdens de 6e sprint review. Zowel de functionaliteit als de code is gedemonstreerd tijdens deze sprint review.
+Naast deze tekortkomingen waren de developers van Stofloos tevreden met het resultaat, toen dit is laten zien tijdens de 6e sprint review. Zowel de functionaliteit als de code is gedemonstreerd tijdens deze sprint review.  
+**(Library - Expert interview, Workshop - Code review)**
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
 De volgende stap is om de huidige code te testen, met unit test. De eerder genoemde missende features zullen later worden toegevoegd, als hier tijd voor is. Dit zal dan gebeuren nadat dit portfolio is ingeleverd.
