@@ -206,6 +206,7 @@ Elk rapport omvat een evaluatie van de kwaliteit van de behaalde resultaten, waa
 |[Generieke Cards](Documentatie/03.%20UI%20Realisatie/1.%20GeneriekeCards.md)|Design pattern research, Expert interview| | | |Code review |
 |[Navigation Tabs](Documentatie/03.%20UI%20Realisatie/2.%20NavigationTabs.md)|Available product analysis | | | Peer review| Code review|
 |[Realisatie Editpagina's](Documentatie/03.%20UI%20Realisatie/3.%20RealisatieEditPaginas.md)|Expert interview, Available product analysis | | |Peer review |Code review |
+|[implementatie JSON configurator](Documentatie/03.%20UI%20Realisatie/4.%20ImplementatieJsonConfigurator.md)|Expert interview, Available product analysis | | | |Code review |
 |[Conditional Json Schema](Documentatie/03.%20UI%20Realisatie/ConditionalJsonSchema.md)  | Design pattern research, Expert interview | | | |  Root cause analysis|
 
 #### Backend
