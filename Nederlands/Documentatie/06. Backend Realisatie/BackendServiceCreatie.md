@@ -9,7 +9,7 @@ Vervolgens ben ik begonnen met de implementatie van deze service in TypeScript. 
 ## Wat is het resultaat?
 Het resultaat is een onderhoudsvriendelijke service die met één klik op een knop standaardconfiguraties genereert. De implementatie in TypeScript zorgde voor type-safety en modulaire ontwikkeling, waardoor de betrouwbaarheid en flexibiliteit van de service werden versterkt. Wel zijn er op het moment voor de model, modelview, page, subpage en section nog “any“ gebruikt, dit komt doordat deze types nog bijgewerkt moesten worden.
 
-|Gif voor het genereren van een standaarconfiguratie voor alle bestaande models|
+|Gif voor het genereren van een standaarconfiguratie voor alle bestaande models die nog geen modelview hebben|
 |:----------------------------------------------------------------------------:|
 |![ConfigService](https://github.com/Timsel1/PortfolioS5/assets/90602424/ef83ddf4-c2c1-4c1e-a2f0-61f09d59ef95)|
 
