@@ -270,6 +270,8 @@ In de huidige staat van deze service, kan het een paar seconden duren voordat de
 In essentie heeft het stageproject niet alleen bijgedragen aan de technische optimalisatie van Datapanel-configuraties maar heeft het ook tastbare voordelen opgeleverd voor de algehele bedrijfsvoering. De implementatie van verbeteringen heeft de gebruiksvriendelijkheid vergroot en de efficiëntie verbeterd. Deze conclusie weerspiegelt de positieve impact van het project en biedt een stevige basis voor verdere innovatie en groei.
 
 ## 7 Persoonlijke Reflectie
+In dit gedeelte van het projectrapport geef ik een persoonlijke reflectie op de afgelopen stageperiode. Ik belicht mijn groei, uitdagingen en leermomenten gedurende het project. Deze reflectie biedt inzicht in mijn ontwikkeling als developer.
+
 ### 7.1 Leerdoelen
 #### [Professional duties]  
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
