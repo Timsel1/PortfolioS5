@@ -6,7 +6,7 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 
 |Student:||
 |:--------:|:-:|
-|Family name , initials:|Meijvogel, T|
+|Family name , initials:|Meijvogel, T.|
 |Student number:|462739|
 |project period: (from – till)|04/09/2023 - 26/01/2023|
 |**Company:**||
@@ -20,7 +20,7 @@ FONTYS UNIVERSITY OF APPLIED SCIENCES
 |Family name , initials:|Coenen, F.W.J.|
 |**Final portfolio:**||
 |Title:|S5 Portfolio Tim Meijvogel|
-|Date: ||
+|Date: |16/01/2024|
 
 __Fontys verplichte voorpagina voor het project report is [hier](ProjectReportMandatoryFrontpage.pdf) te vinden__
 
@@ -204,8 +204,9 @@ Elk rapport omvat een evaluatie van de kwaliteit van de behaalde resultaten, waa
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |[Generieke Cards](Documentatie/03.%20UI%20Realisatie/1.%20GeneriekeCards.md)|Design pattern research, Expert interview| | | |Code review |
-|[Navigation Tabs](Documentatie/03.%20UI%20Realisatie/2.%20NavigationTabs.md)| | | | | |
-|[Conditional Json Schema](Documentatie/03.%20UI%20Realisatie/ConditionalJsonSchema.md)  | | | | | |
+|[Navigation Tabs](Documentatie/03.%20UI%20Realisatie/2.%20NavigationTabs.md)|Available product analysis | | | Peer review| Code review|
+|[Realisatie Editpagina's](Documentatie/03.%20UI%20Realisatie/3.%20RealisatieEditPaginas.md)|Expert interview, Available product analysis | | |Peer review |Code review |
+|[Conditional Json Schema](Documentatie/03.%20UI%20Realisatie/ConditionalJsonSchema.md)  | Design pattern research, Expert interview | | | |  Root cause analysis|
 
 #### Backend
 Met de toevoeging van mijn configuratie service aan het Datapanel-project heb ik diverse functionaliteiten geïmplementeerd en gedocumenteerd in afzonderlijke rapporten. Deze documentatie biedt niet alleen een diepgaande beschrijving van de implementatie, maar werpt ook licht op de motivatie achter elke toevoeging, met de nadruk op de overwegingen die hebben geleid tot specifieke ontwikkelingskeuzes. Visuele representaties, zoals afbeeldingen en gifs, worden ingezet om de impact van elke nieuwe functie helder te presenteren.
@@ -214,7 +215,7 @@ Ieder rapport bevat een beoordeling van de behaalde resultaten, met speciale aan
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Backend Service Creatie](Documentatie/06.%20Backend%20Realisatie/BackendServiceCreatie.md) | | | | | |
+|[Backend Service Creatie](Documentatie/06.%20Backend%20Realisatie/BackendServiceCreatie.md) |Expert interview |Explore user requirements, interview | | | Requirements prioritization, Code review|
 
 
 ### 5.4 Validatie
@@ -223,16 +224,16 @@ Voor de validatie van de gebruikersinterface (UI) binnen het Datapanel-project z
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Usability Test Plan UI](Documentatie/04.%20UI%20Validatie/2.%20UsabilityTestPlanUI.md) | | | | | |
-|[Test Tasks](Documentatie/04.%20UI%20Validatie/3.%20TestTasks.md) | | | | | |
-|[Usability Test Report UI](Documentatie/04.%20UI%20Validatie/4.%20TestreportUI.md) | | | | | |
+|[Usability Test Plan UI](Documentatie/04.%20UI%20Validatie/2.%20UsabilityTestPlanUI.md) |Expert interview | |Usability testing | | |
+|[Test Tasks](Documentatie/04.%20UI%20Validatie/3.%20TestTasks.md) || |Usability testing | | |
+|[Usability Test Report UI](Documentatie/04.%20UI%20Validatie/4.%20TestreportUI.md) |Expert interview |Observation, Survey |Usability testing |Product review | |
 
 #### Backend
 Voor de backend-validatie in het Datapanel-project wordt er gebruikgemaakt van unit tests, waarover wordt gedocumenteerd. Elk testgeval beschrijft niet alleen wat de test precies doet, maar geeft ook inzicht in de redenen achter het uitvoeren van die specifieke test. Deze documentatie biedt een helder begrip van de functionaliteiten die worden getest en waarom deze tests van belang zijn voor het waarborgen van de betrouwbaarheid en consistentie van de backend-functionaliteiten. Het doel is om een transparante en goed gemotiveerde validatieprocedure te hanteren, waardoor de kwaliteit van de backend wordt geoptimaliseerd.
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|[Unit Tests](Documentatie/07.%20Backend%20Validatie/UnitTests.md)| | | | | |
+|[Unit Tests](Documentatie/07.%20Backend%20Validatie/UnitTests.md)|Available product analysis, Expert interview | |Unit test | | Code analysis|
 
 
 ## 6 Conslusie en Aanbevelingen
