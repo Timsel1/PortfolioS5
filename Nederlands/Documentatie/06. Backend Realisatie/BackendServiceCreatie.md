@@ -21,6 +21,7 @@ Zoals te zien is de service op het moment redelijk traag, wanneer er meerdere co
 Ook is er nog geen feedback voor de knop die aan de service is gekoppeld, dit komt omdat hier bij het opstellen van de requirements niet aan was gedacht , dit zal een toekomstige toevoeging zijn.
 
 Naast deze tekortkomingen waren de developers van Stofloos tevreden met het resultaat, toen dit is laten zien tijdens de 6e sprint review. Zowel de functionaliteit als de code is gedemonstreerd tijdens deze sprint review.  
+De effectiviteit kan in het [test report van de UI](../04.%20UI%20Validatie/4.%20TestreportUI.md) worden bekeken.
 **(Library - Expert interview, Workshop - Code review)**
 
 ## Wat is de volgende stap nu ik dit resultaat heb?
