@@ -47,5 +47,4 @@
     - [Ticket Systeem](Documentatie/10.%20Project%20Management/TicketSysteem.md)
   - [Technology Impact Cycle Tool](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool)
     - [TICT pdf](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool/TICT.pdf)    
-
-[Bekijk hier een korte video van het eindproduct](https://youtu.be/BAZpUrAFSr4)  
+ 
