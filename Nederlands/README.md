@@ -46,5 +46,7 @@
     - [Git Commits en Gitflow](Documentatie/10.%20Project%20Management/GitflowEnCommits.md)
     - [Ticket Systeem](Documentatie/10.%20Project%20Management/TicketSysteem.md)
   - [Technology Impact Cycle Tool](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool)
-    - [TICT pdf](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool/TICT.pdf)    
+    - [TICT pdf](Documentatie/11.%20Technology%20Impact%20Cycle%20Tool/TICT.pdf)
+  - [Chat GPT Voor Code](Documentatie/12.%20ChatGPTVoorCode)
+    - [Gebruik Chat GPT](Documentatie/12.%20ChatGPTVoorCode/GebruikChatGPT.md)      
  
