@@ -208,6 +208,7 @@ Elk rapport omvat een evaluatie van de kwaliteit van de behaalde resultaten, waa
 |[Realisatie Editpagina's](Documentatie/03.%20UI%20Realisatie/3.%20RealisatieEditPaginas.md)|Expert interview, Available product analysis | | |Peer review |Code review |
 |[implementatie JSON configurator](Documentatie/03.%20UI%20Realisatie/4.%20ImplementatieJsonConfigurator.md)|Expert interview, Available product analysis | | | |Code review |
 |[Conditional Json Schema](Documentatie/03.%20UI%20Realisatie/ConditionalJsonSchema.md)  | Design pattern research, Expert interview | | | |  Root cause analysis|
+|[Conditional Json Schema Folder](Documentatie/03.%20UI%20Realisatie/6.%20ConditionalJsonSchemafolder.md)  | Expert interview, Available product analysis| | | |  Brainstorm|
 
 #### Backend
 Met de toevoeging van mijn configuratie service aan het Datapanel-project heb ik diverse functionaliteiten geïmplementeerd en gedocumenteerd in afzonderlijke rapporten. Deze documentatie biedt niet alleen een diepgaande beschrijving van de implementatie, maar werpt ook licht op de motivatie achter elke toevoeging, met de nadruk op de overwegingen die hebben geleid tot specifieke ontwikkelingskeuzes. Visuele representaties, zoals afbeeldingen en gifs, worden ingezet om de impact van elke nieuwe functie helder te presenteren.
