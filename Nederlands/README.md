@@ -21,7 +21,7 @@
     - [Navigation Tabs](Documentatie/03.%20UI%20Realisatie/2.%20NavigationTabs.md)
     - [Realisatie Editpagina's](Documentatie/03.%20UI%20Realisatie/3.%20RealisatieEditPaginas.md)
     - [implementatie JSON configurator](Documentatie/03.%20UI%20Realisatie/4.%20ImplementatieJsonConfigurator.md)
-    - [Conditional Json Schema](Documentatie/03.%20UI%20Realisatie/ConditionalJsonSchema.md)  
+    - [Conditional Json Schema](Documentatie/03.%20UI%20Realisatie/5.%20ConditionalJsonSchema.md)  
   - [UI Validatie](Documentatie/04.%20UI%20Validatie)
     - [Usability Test Report Prototype](Documentatie/04.%20UI%20Validatie/1.%20UsabilityTestReportPrototype.md)
     - [Usability Test Plan UI](Documentatie/04.%20UI%20Validatie/2.%20UsabilityTestPlanUI.md)
