@@ -55,7 +55,7 @@ Verspreiding
  	- [Testomgeving en benodigdheden](#testomgeving-en-benodigdheden)	
 	- [Configuratiemanagement](#configuratiemanagement)	
 - [Financiën en Risico’s](#financiën-en-risico’s)	
-	- [Risico’s en uitwijkactiviteiten](#risico’s-en-uitwijkactiviteiten)	
+	- [Risico’s en uitwijkactiviteiten](#risicos-en-uitwijkactiviteiten)	
 
 
 ## Projectopdracht
