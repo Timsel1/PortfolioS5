@@ -54,7 +54,7 @@ Verspreiding
 	- [Communicatie](#communicatie)
  	- [Testomgeving en benodigdheden](#testomgeving-en-benodigdheden)	
 	- [Configuratiemanagement](#configuratiemanagement)	
-- [Financiën en Risico’s](#financiën-en-risico’s)	
+- [Financiën en Risico’s](#financiën-en-risicos)	
 	- [Risico’s en uitwijkactiviteiten](#risicos-en-uitwijkactiviteiten)	
 
 
